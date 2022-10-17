@@ -3,9 +3,7 @@ permalink: /:title/
 url: https://rice4dome.github.io/riceAS.github.io/
 name: ricePSP
 author: Weizhi Ouyang
-qq: 1481758069
-email: venyao@qq.com 
-github: venyao
+email: wzouyang2@126.com 
 highlighter: rouge
 safe: true
 paginate: 20
