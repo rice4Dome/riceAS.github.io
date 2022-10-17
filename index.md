@@ -9,13 +9,13 @@ tagline:
 <meta name="360-site-verification" content="a001bbd21eece523e61ae2e25da2ac1f" />
 </head>
 
-__A comprehensive database of ric phase separation-associated proteins__
+__A comprehensive database of rice phase separation-associated proteins__
 * 4300+ cloned rice genes [[Download↓]](https://funricegenes.github.io/geneInfo.table.txt)  
 * 6100+ gene family members [[Download↓]](https://funricegenes.github.io/famInfo.table.txt)  
 * 590+ keywords [[Download↓]](https://funricegenes.github.io/geneKeyword.table.txt)  
 * 7900+ literatures [[Download↓]](https://funricegenes.github.io/reference.table.txt)  
 * 200+ interaction networks [[Download↓]](https://funricegenes.github.io/net.pdf)  
-* Contact: venyao@qq.com or yaowen@henau.edu.cn  
+* Contact: wzouyang2@126.com or wzouyang@meil.hzau.edu.cn
 * Help manual [[Download↓]](https://funricegenes.github.io/help.pdf)  
 * Interactive application of funRiceGenes: [https://venyao.xyz/funRiceGenes/](https://venyao.xyz/funRiceGenes/)  
 * Citation: [Huang et al. 2022 Rice](https://doi.org/10.1186/s12284-022-00569-1)  
