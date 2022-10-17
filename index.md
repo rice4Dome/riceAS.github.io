@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to funRiceGenes!
+title: Welcome to ricePSP!
 tagline: 
 ---
 
@@ -9,7 +9,7 @@ tagline:
 <meta name="360-site-verification" content="a001bbd21eece523e61ae2e25da2ac1f" />
 </head>
 
-__A comprehensive database of functionally characterized rice genes__
+__A comprehensive database of ric phase separation-associated proteins__
 * 4300+ cloned rice genes [[Download↓]](https://funricegenes.github.io/geneInfo.table.txt)  
 * 6100+ gene family members [[Download↓]](https://funricegenes.github.io/famInfo.table.txt)  
 * 590+ keywords [[Download↓]](https://funricegenes.github.io/geneKeyword.table.txt)  
