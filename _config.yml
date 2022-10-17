@@ -1,7 +1,7 @@
 markdown: kramdown
 permalink: /:title/
-url: https://funricegenes.github.io/
-name: funRiceGenes
+url: https://riceas.github.io/
+name: ricePSP
 author: Wen Yao (姚文)
 qq: 1481758069
 email: venyao@qq.com 
@@ -9,4 +9,4 @@ github: venyao
 highlighter: rouge
 safe: true
 paginate: 20
-about: "A comprehensive database of functionally characterized rice genes"
+about: "A comprehensive database of rice phase separation-associated proteins"
