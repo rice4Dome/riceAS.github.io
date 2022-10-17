@@ -15,9 +15,9 @@ __A comprehensive database of rice phase separation-associated proteins__
 * 590+ keywords [[Download↓]](https://funricegenes.github.io/geneKeyword.table.txt)  
 * 7900+ literatures [[Download↓]](https://funricegenes.github.io/reference.table.txt)  
 * 200+ interaction networks [[Download↓]](https://funricegenes.github.io/net.pdf)  
-* Contact: wzouyang2@126.com or wzouyang@meil.hzau.edu.cn
+* Contact: wzouyang2@126.com
 * Help manual [[Download↓]](https://funricegenes.github.io/help.pdf)  
-* Interactive application of funRiceGenes: [https://venyao.xyz/funRiceGenes/](https://venyao.xyz/funRiceGenes/)  
+* Interactive application: [https://venyao.xyz/funRiceGenes/](https://venyao.xyz/funRiceGenes/)  
 * Citation: [Huang et al. 2022 Rice](https://doi.org/10.1186/s12284-022-00569-1)  
 
 <br>
