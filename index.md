@@ -17,8 +17,7 @@ __A comprehensive database of rice phase separation-associated proteins__
 * 2000+ iso-shifting PSPs [[Download↓]](https://ricepsp.github.io/net.pdf)  
 * Contact to us:  wzouyang2@126.com
 * Help manual [[Download↓]](https://ricepsp.github.io/help.pdf)  
-* Interactive: [https://venyao.xyz/funRiceGenes/](https://venyao.xyz/funRiceGenes/)  
-* Citation: [Huang et al. 2022 Rice](https://doi.org/10.1186/s12284-022-00569-1)  
+
 
 <br>
 * __Search this site using Bing:__
