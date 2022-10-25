@@ -10,6 +10,7 @@ tagline:
 </head>
 
 __A comprehensive database of rice phase separation-associated proteins__
+
 * 82,000+ annotated rice proteins [[Download↓]](https://ricepsp.github.io/allProteins.table.txt)  
 * 22,000+ predicted PSPs [[Download↓]](https://ricepsp.github.io/famInfo.table.txt)  
 * 50+ homolog PSPs [[Download↓]](https://ricepsp.github.io/geneKeyword.table.txt)  
