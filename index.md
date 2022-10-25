@@ -10,21 +10,17 @@ tagline:
 </head>
 
 __A comprehensive database of rice phase separation-associated proteins__
-* 4300+ cloned rice PSPs [[Download↓]](https://funricegenes.github.io/geneInfo.table.txt)  
-* 10+ validated PSPs [[Download↓]](https://funricegenes.github.io/famInfo.table.txt)  
-* 50+ homolog PSPs [[Download↓]](https://funricegenes.github.io/geneKeyword.table.txt)  
-* 100+ literatures [[Download↓]](https://funricegenes.github.io/reference.table.txt)  
-* 2000+ iso-shifting PSPs [[Download↓]](https://funricegenes.github.io/net.pdf)  
+* 82,000+ annotated rice proteins [[Download↓]](https://ricepsp.github.io/allProteins.table.txt)  
+* 22,000+ predicted PSPs [[Download↓]](https://ricepsp.github.io/famInfo.table.txt)  
+* 50+ homolog PSPs [[Download↓]](https://ricepsp.github.io/geneKeyword.table.txt)  
+* 100+ literatures [[Download↓]](https://ricepsp.github.io/reference.table.txt)  
+* 2000+ iso-shifting PSPs [[Download↓]](https://ricepsp.github.io/net.pdf)  
 * Contact to us:  wzouyang2@126.com
-* Help manual [[Download↓]](https://funricegenes.github.io/help.pdf)  
+* Help manual [[Download↓]](https://ricepsp.github.io/help.pdf)  
 * Interactive: [https://venyao.xyz/funRiceGenes/](https://venyao.xyz/funRiceGenes/)  
 * Citation: [Huang et al. 2022 Rice](https://doi.org/10.1186/s12284-022-00569-1)  
 
 <br>
-* __Search this site using Google:__
-<script async src="https://cse.google.com/cse.js?cx=5c42ad5862fcc38a6"></script>
-<div class="gcse-search"></div>
-
 * __Search this site using Bing:__
 <div id="customSearch">
 <script type="text/javascript" 
