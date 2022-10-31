@@ -11,11 +11,12 @@ tagline:
 
 __A comprehensive database of rice phase separation-associated proteins__
 
-* 82,000+ annotated rice proteins [[Download↓]](https://ricepsp.github.io/allProteins.table.txt)  
-* 22,000+ predicted PSPs [[Download↓]](https://ricepsp.github.io/famInfo.table.txt)  
+* 66,000+ annotated rice proteins [[Download↓]](https://ricepsp.github.io/allProteins.table.txt)  
+* 10,000+ predicted PSPs [[Download↓]](https://ricepsp.github.io/famInfo.table.txt) 
+* 1000+ predicted PrD proteins [[Download↓]](https://ricepsp.github.io/PrD_pro.txt)
 * 50+ homolog PSPs [[Download↓]](https://ricepsp.github.io/geneKeyword.table.txt)  
 * 100+ literatures [[Download↓]](https://ricepsp.github.io/reference.table.txt)  
-* 2000+ iso-shifting PSPs [[Download↓]](https://ricepsp.github.io/net.pdf)  
+* 1000+ iso-shifting PSPs [[Download↓]](https://ricepsp.github.io/net.pdf)  
 * Contact to us:  wzouyang2@126.com
 * Help manual [[Download↓]](https://ricepsp.github.io/help.pdf)  
 
