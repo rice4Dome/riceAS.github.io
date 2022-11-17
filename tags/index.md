@@ -1399,5 +1399,5 @@ layout: page
 1393	ChrSy.fgenesh.mRNA.68	ChrSy.fgenesh.mRNA.68	13.385		expressed protein
 1394	ChrSy.fgenesh.mRNA.77	ChrSy.fgenesh.mRNA.77	14.827		expressed protein
 1395	ChrSy.fgenesh.mRNA.87	ChrSy.fgenesh.mRNA.87	23.664		expressed protein
-![image](https://user-images.githubusercontent.com/24507924/202462837-94cbe629-22ec-4d46-81ae-453e025e26fd.png)
+
 
