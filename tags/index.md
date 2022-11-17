@@ -3,1398 +3,1398 @@ title: Predcted PrD proteins
 layout: page
 ---
 
-1. LOC_Os01g01470.1	LOC_Os01g01470	16.738	ONAC020	"no apical meristem protein, putative, expressed"
-2. LOC_Os01g02160.1	LOC_Os01g02160	19.802		"hydroxyproline-rich glycoprotein family protein, putative, expressed"
-3. LOC_Os01g02860.1	LOC_Os01g02860	13.145		expressed protein
-4. LOC_Os01g03490.1	LOC_Os01g03490	61.816		"heavy-metal-associated domain-containing protein, putative, expressed"
-5. LOC_Os01g03610.1	LOC_Os01g03610	27.597		"retrotransposon protein, putative, unclassified, expressed"
-6. LOC_Os01g04650.1	LOC_Os01g04650	31.36		"PB1 domain containing protein, expressed"
-7. LOC_Os01g06310.1	LOC_Os01g06310	16.297		"glycine-rich cell wall structural protein precursor, putative, expressed"
-8. LOC_Os01g06770.1	LOC_Os01g06770	29.452		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-9. LOC_Os01g07070.3	LOC_Os01g07070	24.967		"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
-10. LOC_Os01g07070.4	LOC_Os01g07070	24.967		"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
-11. LOC_Os01g07070.1	LOC_Os01g07070	24.967		"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
-12. LOC_Os01g07070.2	LOC_Os01g07070	24.967		"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
-13. LOC_Os01g07520.1	LOC_Os01g07520	43.697		"proline-rich family protein, putative, expressed"
-14. LOC_Os01g07740.3	LOC_Os01g07740	23.02		"DEAD-box ATP-dependent RNA helicase 14, putative, expressed"
-15. LOC_Os01g07740.1	LOC_Os01g07740	23.02		"DEAD-box ATP-dependent RNA helicase 14, putative, expressed"
-16. LOC_Os01g07740.2	LOC_Os01g07740	22.819		"DEAD-box ATP-dependent RNA helicase 14, putative, expressed"
-17. LOC_Os01g08530.1	LOC_Os01g08530	51.741		"retrotransposon protein, putative, unclassified, expressed"
-18. LOC_Os01g08580.1	LOC_Os01g08580	8.94		"frigida, putative, expressed"
-19. LOC_Os01g10490.1	LOC_Os01g10490	17.234	OsGAE1	"keratin, type I cytoskeletal 9, putative, expressed"
-20. LOC_Os01g11550.1	LOC_Os01g11550	18.336		"TCP family transcription factor, putative, expressed"
-21. LOC_Os01g12880.1	LOC_Os01g12880	84.715		"VHS and GAT domain containing protein, expressed"
-22. LOC_Os01g13160.1	LOC_Os01g13160	22.52		expressed protein
-23. LOC_Os01g14470.1	LOC_Os01g14470	22.849		"retrotransposon protein, putative, Ty3-gypsy subclass"
-24. LOC_Os01g16090.1	LOC_Os01g16090	12.604	RBP-P	"RNA binding protein, putative, expressed"
-25. LOC_Os01g16110.2	LOC_Os01g16110	17.812		"la domain containing protein, putative, expressed"
-26. LOC_Os01g16110.1	LOC_Os01g16110	17.812		"la domain containing protein, putative, expressed"
-27. LOC_Os01g18080.1	LOC_Os01g18080	58.221		"retrotransposon protein, putative, unclassified, expressed"
-28. LOC_Os01g20780.1	LOC_Os01g20780	21.352		"anther-specific protein SF18 precursor, putative, expressed"
-29. LOC_Os01g21590.1	LOC_Os01g21590	17.167		"homeodomain, putative, expressed"
-30. LOC_Os01g22170.1	LOC_Os01g22170	25.841		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-31. LOC_Os01g23040.1	LOC_Os01g23040	20.534		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-32. LOC_Os01g23980.1	LOC_Os01g23980	32.612		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-33. LOC_Os01g25860.1	LOC_Os01g25860	30.589		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-34. LOC_Os01g27960.1	LOC_Os01g27960	17.622		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-35. LOC_Os01g28000.1	LOC_Os01g28000	15.167		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-36. LOC_Os01g28950.1	LOC_Os01g28950	17.414		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-37. LOC_Os01g29530.1	LOC_Os01g29530	14.855		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-38. LOC_Os01g29670.1	LOC_Os01g29670	27.82		"retrotransposon protein, putative, Ty3-gypsy subclass"
-39. LOC_Os01g29840.1	LOC_Os01g29840	30.397	ONAC026	"no apical meristem protein, putative, expressed"
-40. LOC_Os01g30936.1	LOC_Os01g30936	27.227		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-41. LOC_Os01g31190.1	LOC_Os01g31190	27.264		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-42. LOC_Os01g31360.6	LOC_Os01g31360	10.322		expressed protein
-43. LOC_Os01g32220.1	LOC_Os01g32220	30.053		"retrotransposon protein, putative, Ty3-gypsy subclass"
-44. LOC_Os01g35450.1	LOC_Os01g35450	25.169		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-45. LOC_Os01g35660.1	LOC_Os01g35660	26.481		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-46. LOC_Os01g36040.1	LOC_Os01g36040	26.709		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-47. LOC_Os01g36170.1	LOC_Os01g36170	30.546		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-48. LOC_Os01g36360.1	LOC_Os01g36360	27.6		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-49. LOC_Os01g36450.1	LOC_Os01g36450	15.945		"retrotransposon protein, putative, unclassified, expressed"
-50. LOC_Os01g36950.1	LOC_Os01g36950	31.333		"N-rich protein, putative, expressed"
-51. LOC_Os01g36950.4	LOC_Os01g36950	31.333		"N-rich protein, putative, expressed"
-52. LOC_Os01g36950.2	LOC_Os01g36950	31.333		"N-rich protein, putative, expressed"
-53. LOC_Os01g36950.3	LOC_Os01g36950	31.333		"N-rich protein, putative, expressed"
-54. LOC_Os01g37060.1	LOC_Os01g37060	30.492		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-55. LOC_Os01g37710.1	LOC_Os01g37710	15.428		expressed protein
-56. LOC_Os01g38410.1	LOC_Os01g38410	23.161		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-57. LOC_Os01g39570.1	LOC_Os01g39570	13.428		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-58. LOC_Os01g40590.1	LOC_Os01g40590	10.502		"tyrosine protein kinase domain containing protein, putative, expressed"
-59. LOC_Os01g41120.1	LOC_Os01g41120	13.913		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-60. LOC_Os01g41190.1	LOC_Os01g41190	15.166		"glycine-rich protein, putative, expressed"
-61. LOC_Os01g41190.2	LOC_Os01g41190	15.166		"glycine-rich protein, putative, expressed"
-62. LOC_Os01g42260.1	LOC_Os01g42260	59.153	OsLUGL	"transcriptional corepressor LEUNIG, putative, expressed"
-63. LOC_Os01g42260.2	LOC_Os01g42260	59.153	OsLUGL	"transcriptional corepressor LEUNIG, putative, expressed"
-64. LOC_Os01g42260.3	LOC_Os01g42260	59.153	OsLUGL	"transcriptional corepressor LEUNIG, putative, expressed"
-65. LOC_Os01g42260.4	LOC_Os01g42260	59.153	OsLUGL	"transcriptional corepressor LEUNIG, putative, expressed"
-66. LOC_Os01g42490.1	LOC_Os01g42490	23.294		"endonuclease/exonuclease/phosphatase family domain containing protein, expressed"
-67. LOC_Os01g42820.2	LOC_Os01g42820	43.561		"RNA recognition motif containing protein, putative, expressed"
-68. LOC_Os01g42820.3	LOC_Os01g42820	43.561		"RNA recognition motif containing protein, putative, expressed"
-69. LOC_Os01g42820.1	LOC_Os01g42820	43.561		"RNA recognition motif containing protein, putative, expressed"
-70. LOC_Os01g43170.2	LOC_Os01g43170	49.898		"polypyrimidine tract-binding protein, putative, expressed"
-71. LOC_Os01g43170.1	LOC_Os01g43170	49.898		"polypyrimidine tract-binding protein, putative, expressed"
-72. LOC_Os01g43170.3	LOC_Os01g43170	49.898		"polypyrimidine tract-binding protein, putative, expressed"
-73. LOC_Os01g44150.1	LOC_Os01g44150	16.036		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-74. LOC_Os01g44970.1	LOC_Os01g44970	13.262		"polygalacturonase, putative, expressed"
-75. LOC_Os01g45330.1	LOC_Os01g45330	31.847		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-76. LOC_Os01g45490.1	LOC_Os01g45490	31.235		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-77. LOC_Os01g47150.1	LOC_Os01g47150	31.235		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-78. LOC_Os01g47430.1	LOC_Os01g47430	16.608		"protein of unknown function DUF1296 domain containing protein, expressed"
-79. LOC_Os01g47430.2	LOC_Os01g47430	25.013		"protein of unknown function DUF1296 domain containing protein, expressed"
-80. LOC_Os01g47680.1	LOC_Os01g47680	14.831		"60S ribosomal protein L18a-1, putative, expressed"
-81. LOC_Os01g47680.2	LOC_Os01g47680	14.831		"60S ribosomal protein L18a-1, putative, expressed"
-82. LOC_Os01g50010.1	LOC_Os01g50010	25.215		"clathrin assembly protein, putative, expressed"
-83. LOC_Os01g51820.1	LOC_Os01g51820	15.321		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-84. LOC_Os01g53610.1	LOC_Os01g53610	53.486		"selenium-binding protein, related, putative, expressed"
-85. LOC_Os01g54160.1	LOC_Os01g54160	18.771		"retrotransposon protein, putative, unclassified, expressed"
-86. LOC_Os01g54714.1	LOC_Os01g54714	12.528		"retrotransposon protein, putative, unclassified, expressed"
-87. LOC_Os01g54830.1	LOC_Os01g54830	19.95		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-88. LOC_Os01g55050.2	LOC_Os01g55050	90.077		"protein of unknown function DUF1421 domain containing protein, expressed"
-89. LOC_Os01g55050.1	LOC_Os01g55050	90.077		"protein of unknown function DUF1421 domain containing protein, expressed"
-90. LOC_Os01g55660.1	LOC_Os01g55660	11.326		"retrotransposon protein, putative, Ty1-copia subclass, expressed"
-91. LOC_Os01g56300.1	LOC_Os01g56300	14.238		expressed protein
-92. LOC_Os01g57800.1	LOC_Os01g57800	21.172		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-93. LOC_Os01g59860.1	LOC_Os01g59860	22.541		expressed protein
-94. LOC_Os01g59980.1	LOC_Os01g59980	62.461		"zinc finger family protein, putative, expressed"
-95. LOC_Os01g60980.1	LOC_Os01g60980	28.972		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-96. LOC_Os01g61030.1	LOC_Os01g61030	26.445		"VHS and GAT domain containing protein, expressed"
-97. LOC_Os01g61080.1	LOC_Os01g61080	14.174	OsWRKY24	"WRKY24, expressed"
-98. LOC_Os01g61930.1	LOC_Os01g61930	66.653		"SAC3/GANP family protein, putative, expressed"
-99. LOC_Os01g62780.1	LOC_Os01g62780	15.755	OsHESO1	expressed protein
-100. LOC_Os01g62820.2	LOC_Os01g62820	73.65		"Transcription initiation factor TFIID subunit A containing protein, expressed"
-101. LOC_Os01g62820.3	LOC_Os01g62820	73.65		"Transcription initiation factor TFIID subunit A containing protein, expressed"
-102. LOC_Os01g62820.1	LOC_Os01g62820	72.151		"Transcription initiation factor TFIID subunit A containing protein, expressed"
-103. LOC_Os01g62920.1	LOC_Os01g62920	14.158	qSH1|RIL1	"homeodomain protein, putative, expressed"
-104. LOC_Os01g63120.1	LOC_Os01g63120	16.852		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-105. LOC_Os01g63150.1	LOC_Os01g63150	20.229		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-106. LOC_Os01g63470.1	LOC_Os01g63470	13.501		"C2 domain containing protein, expressed"
-107. LOC_Os01g63550.1	LOC_Os01g63550	28.559		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-108. LOC_Os01g63940.1	LOC_Os01g63940	61.74		"Transcription initiation factor TFIID subunit A containing protein, expressed"
-109. LOC_Os01g63960.1	LOC_Os01g63960	20.277		"retrotransposon protein, putative, Ty1-copia subclass, expressed"
-110. LOC_Os01g64000.3	LOC_Os01g64000	16.112		"bZIP transcription factor, putative, expressed"
-111. LOC_Os01g64000.2	LOC_Os01g64000	16.112		"bZIP transcription factor, putative, expressed"
-112. LOC_Os01g64000.1	LOC_Os01g64000	16.112		"bZIP transcription factor, putative, expressed"
-113. LOC_Os01g64020.1	LOC_Os01g64020	12.949	OsLG2	"transcription factor, putative, expressed"
-114. LOC_Os01g64080.1	LOC_Os01g64080	15.201		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-115. LOC_Os01g65220.1	LOC_Os01g65220	45.567	OsXrn3	"XRN 5'-3' exonuclease N-terminus domain containing protein, expressed"
-116. LOC_Os01g65550.2	LOC_Os01g65550	19.447		"RNA recognition motif containing protein, putative, expressed"
-117. LOC_Os01g65550.1	LOC_Os01g65550	19.447		"RNA recognition motif containing protein, putative, expressed"
-118. LOC_Os01g66090.1	LOC_Os01g66090	37.021		"retrotransposon protein, putative, unclassified, expressed"
-119. LOC_Os01g67390.1	LOC_Os01g67390	39.586		"POEI32 - Pollen Ole e I allergen and extensin family protein precursor, expressed"
-120. LOC_Os01g68060.1	LOC_Os01g68060	23.237		"copine, putative, expressed"
-121. LOC_Os01g68410.1	LOC_Os01g68410	32.19		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-122. LOC_Os01g68720.1	LOC_Os01g68720	23.859		"keratin, type I cytoskeletal 9, putative, expressed"
-123. LOC_Os01g68730.1	LOC_Os01g68730	37.307		"RNA-binding protein FUS, putative, expressed"
-124. LOC_Os01g68730.2	LOC_Os01g68730	37.307		"RNA-binding protein FUS, putative, expressed"
-125. LOC_Os01g68740.1	LOC_Os01g68740	19.386		"keratin, type I cytoskeletal 9, putative, expressed"
-126. LOC_Os01g68860.3	LOC_Os01g68860	12.358	C3H12	"zinc finger C-x8-C-x5-C-x3-H type family protein, expressed"
-127. LOC_Os01g68860.2	LOC_Os01g68860	12.358	C3H12	"zinc finger C-x8-C-x5-C-x3-H type family protein, expressed"
-128. LOC_Os01g68860.1	LOC_Os01g68860	12.358	C3H12	"zinc finger C-x8-C-x5-C-x3-H type family protein, expressed"
-129. LOC_Os01g69020.2	LOC_Os01g69020	11.289		"retrotransposon protein, putative, unclassified, expressed"
-130. LOC_Os01g69020.1	LOC_Os01g69020	11.289		"retrotransposon protein, putative, unclassified, expressed"
-131. LOC_Os01g69990.1	LOC_Os01g69990	29.344		"GYF domain containing protein, putative, expressed"
-132. LOC_Os01g70710.1	LOC_Os01g70710	16.653		"heavy metal-associated domain containing protein, expressed"
-133. LOC_Os01g70710.2	LOC_Os01g70710	16.653		"heavy metal-associated domain containing protein, expressed"
-134. LOC_Os01g70790.1	LOC_Os01g70790	26.391		"SRC2 protein, putative, expressed"
-135. LOC_Os01g70810.1	LOC_Os01g70810	15.031		"homeobox domain containing protein, expressed"
-136. LOC_Os01g71200.1	LOC_Os01g71200	31.053		"RNA recognition motif containing protein, putative, expressed"
-137. LOC_Os01g72220.1	LOC_Os01g72220	56.867	OsFY	"WD domain, G-beta repeat domain containing protein, expressed"
-138. LOC_Os01g72790.1	LOC_Os01g72790	53.798	CDKC1	"cyclin-dependent kinase, putative, expressed"
-139. LOC_Os01g72834.1	LOC_Os01g72834	20.554		"RNA recognition motif containing protein, putative, expressed"
-140. LOC_Os01g73320.1	LOC_Os01g73320	29.995		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-141. LOC_Os01g73344.1	LOC_Os01g73344	19.511		"retrotransposon protein, putative, Ty3-gypsy subclass"
-142. LOC_Os02g01030.4	LOC_Os02g01030	14.345	HSP40	"tetratricopeptide repeat domain containing protein, expressed"
-143. LOC_Os02g01030.3	LOC_Os02g01030	14.345	HSP40	"tetratricopeptide repeat domain containing protein, expressed"
-144. LOC_Os02g01030.1	LOC_Os02g01030	14.345	HSP40	"tetratricopeptide repeat domain containing protein, expressed"
-145. LOC_Os02g01030.2	LOC_Os02g01030	14.345	HSP40	"tetratricopeptide repeat domain containing protein, expressed"
-146. LOC_Os02g01490.1	LOC_Os02g01490	19.152		expressed protein
-147. LOC_Os02g01640.1	LOC_Os02g01640	19.225		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-148. LOC_Os02g01670.1	LOC_Os02g01670	19.225		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-149. LOC_Os02g02050.1	LOC_Os02g02050	13.32		"SNF2 family N-terminal domain containing protein, expressed"
-150. LOC_Os02g02290.1	LOC_Os02g02290	57.249	OsBRM	"SNF2 family N-terminal domain containing protein, expressed"
-151. LOC_Os02g02920.2	LOC_Os02g02920	12.914		"HVA22, putative, expressed"
-152. LOC_Os02g02920.1	LOC_Os02g02920	12.914		"HVA22, putative, expressed"
-153. LOC_Os02g03130.1	LOC_Os02g03130	20.041		expressed protein
-154. LOC_Os02g04490.1	LOC_Os02g04490	51.066	OsHAC703	"histone acetyltransferase HAC1, putative, expressed"
-155. LOC_Os02g04540.1	LOC_Os02g04540	26.781		"retrotransposon protein, putative, unclassified, expressed"
-156. LOC_Os02g04810.1	LOC_Os02g04810	40.831		"auxin response factor 5, putative, expressed"
-157. LOC_Os02g06870.1	LOC_Os02g06870	32.731		"retrotransposon protein, putative, unclassified, expressed"
-158. LOC_Os02g06910.1	LOC_Os02g06910	33.632		"auxin response factor 6, putative, expressed"
-159. LOC_Os02g07450.1	LOC_Os02g07450	22.131		"core histone H2A/H2B/H3/H4, putative, expressed"
-160. LOC_Os02g07450.2	LOC_Os02g07450	22.131		"core histone H2A/H2B/H3/H4, putative, expressed"
-161. LOC_Os02g07520.1	LOC_Os02g07520	36.557		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-162. LOC_Os02g07900.1	LOC_Os02g07900	40.077	OsANTH3	"ANTH/ENTH domain containing protein, putative, expressed"
-163. LOC_Os02g07920.1	LOC_Os02g07920	17.702		expressed protein
-164. LOC_Os02g08500.1	LOC_Os02g08500	13.815	LEPTO1|OsRR24|DLC1	"two-component response regulator, putative, expressed"
-165. LOC_Os02g09630.1	LOC_Os02g09630	26.067		"GA20292-PA, putative, expressed"
-166. LOC_Os02g09890.1	LOC_Os02g09890	21.292		"protein kinase PKN/PRK1, effector, putative, expressed"
-167. LOC_Os02g09890.2	LOC_Os02g09890	21.292		"protein kinase PKN/PRK1, effector, putative, expressed"
-168. LOC_Os02g11660.1	LOC_Os02g11660	20.548		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-169. LOC_Os02g11780.1	LOC_Os02g11780	34.921		"transcription factor S-II, central domain containing protein, expressed"
-170. LOC_Os02g11820.1	LOC_Os02g11820	33.944		"GTPase-activating protein, putative, expressed"
-171. LOC_Os02g11820.2	LOC_Os02g11820	32.6		"GTPase-activating protein, putative, expressed"
-172. LOC_Os02g12850.1	LOC_Os02g12850	39.768		"RNA recognition motif containing protein, expressed"
-173. LOC_Os02g13130.1	LOC_Os02g13130	130		"KH domain-containing protein, putative, expressed"
-174. LOC_Os02g14780.2	LOC_Os02g14780	17.404		"splicing factor 3 subunit 1, putative, expressed"
-175. LOC_Os02g14780.1	LOC_Os02g14780	17.404		"splicing factor 3 subunit 1, putative, expressed"
-176. LOC_Os02g14900.1	LOC_Os02g14900	16.545		"1,3-beta-glucan synthase component domain containing protein, expressed"
-177. LOC_Os02g15350.1	LOC_Os02g15350	14.262	RPBF|OsDof3	"dof zinc finger domain containing protein, putative, expressed"
-178. LOC_Os02g16400.1	LOC_Os02g16400	26.733		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-179. LOC_Os02g16640.1	LOC_Os02g16640	17.156		"proline-rich protein HaeIII subfamily 1 precursor, putative, expressed"
-180. LOC_Os02g17350.1	LOC_Os02g17350	62.097		"VHS and GAT domain containing protein, expressed"
-181. LOC_Os02g17350.2	LOC_Os02g17350	62.097		"VHS and GAT domain containing protein, expressed"
-182. LOC_Os02g18310.1	LOC_Os02g18310	11.016		"retrotransposon protein, putative, Ty1-copia subclass, expressed"
-183. LOC_Os02g19220.1	LOC_Os02g19220	19.435		expressed protein
-184. LOC_Os02g19220.2	LOC_Os02g19220	19.435		expressed protein
-185. LOC_Os02g19300.1	LOC_Os02g19300	24.752		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-186. LOC_Os02g19330.1	LOC_Os02g19330	23.017		expressed protein
-187. LOC_Os02g19330.2	LOC_Os02g19330	23.017		expressed protein
-188. LOC_Os02g20040.1	LOC_Os02g20040	13.738		"loricrin, putative, expressed"
-189. LOC_Os02g20110.1	LOC_Os02g20110	14.032		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-190. LOC_Os02g22020.1	LOC_Os02g22020	9.342	NIGT1	"MYB family transcription factor, putative, expressed"
-191. LOC_Os02g22300.1	LOC_Os02g22300	22.842		"retrotransposon protein, putative, Ty3-gypsy subclass"
-192. LOC_Os02g22500.1	LOC_Os02g22500	27.842		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-193. LOC_Os02g22520.1	LOC_Os02g22520	15.654		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-194. LOC_Os02g22790.1	LOC_Os02g22790	17.56		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-195. LOC_Os02g24250.1	LOC_Os02g24250	23.196		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-196. LOC_Os02g24670.1	LOC_Os02g24670	25.77		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-197. LOC_Os02g25230.1	LOC_Os02g25230	12.536	TAC4|SG2	expressed protein
-198. LOC_Os02g25770.1	LOC_Os02g25770	29.163		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-199. LOC_Os02g25810.1	LOC_Os02g25810	13.558		"retrotransposon protein, putative, unclassified, expressed"
-200. LOC_Os02g27950.1	LOC_Os02g27950	25.27		"ataxin-2 related protein, putative, expressed"
-201. LOC_Os02g27950.2	LOC_Os02g27950	25.207		"ataxin-2 related protein, putative, expressed"
-202. LOC_Os02g28620.1	LOC_Os02g28620	28.884		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-203. LOC_Os02g29660.1	LOC_Os02g29660	15.886		"retrotransposon protein, putative, Ty3-gypsy subclass"
-204. LOC_Os02g30620.2	LOC_Os02g30620	15.103		"dnaJ domain containing protein, expressed"
-205. LOC_Os02g30620.1	LOC_Os02g30620	15.103		"dnaJ domain containing protein, expressed"
-206. LOC_Os02g30620.3	LOC_Os02g30620	15.103		"dnaJ domain containing protein, expressed"
-207. LOC_Os02g30640.1	LOC_Os02g30640	26.92		"basic salivary proline-rich protein 2 precursor, putative, expressed"
-208. LOC_Os02g31220.2	LOC_Os02g31220	12.692		expressed protein
-209. LOC_Os02g31220.1	LOC_Os02g31220	12.692		expressed protein
-210. LOC_Os02g33360.1	LOC_Os02g33360	24.699		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-211. LOC_Os02g33530.1	LOC_Os02g33530	21.843		"retrotransposon protein, putative, unclassified, expressed"
-212. LOC_Os02g33910.1	LOC_Os02g33910	30.169		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-213. LOC_Os02g35470.1	LOC_Os02g35470	13.236		"calmodulin binding protein, putative, expressed"
-214. LOC_Os02g35470.4	LOC_Os02g35470	13.236		"calmodulin binding protein, putative, expressed"
-215. LOC_Os02g35470.3	LOC_Os02g35470	13.236		"calmodulin binding protein, putative, expressed"
-216. LOC_Os02g35470.2	LOC_Os02g35470	13.236		"calmodulin binding protein, putative, expressed"
-217. LOC_Os02g35540.1	LOC_Os02g35540	18.374		expressed protein
-218. LOC_Os02g36100.1	LOC_Os02g36100	16.193		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-219. LOC_Os02g36640.1	LOC_Os02g36640	17.759		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-220. LOC_Os02g37180.1	LOC_Os02g37180	11.62		expressed protein
-221. LOC_Os02g37400.1	LOC_Os02g37400	30.58		"retrotransposon protein, putative, Ty1-copia subclass, expressed"
-222. LOC_Os02g37460.1	LOC_Os02g37460	14.137		"retrotransposon protein, putative, Ty3-gypsy subclass"
-223. LOC_Os02g37520.1	LOC_Os02g37520	56.614		"RNA-binding protein FUS, putative, expressed"
-224. LOC_Os02g37550.1	LOC_Os02g37550	16.657		expressed protein
-225. LOC_Os02g38550.1	LOC_Os02g38550	31.292		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-226. LOC_Os02g38620.1	LOC_Os02g38620	30.74		"retrotransposon protein, putative, Ty3-gypsy subclass"
-227. LOC_Os02g40510.1	LOC_Os02g40510	17.816	OsPRR1	"response regulator receiver domain containing protein, expressed"
-228. LOC_Os02g40570.1	LOC_Os02g40570	30.409		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-229. LOC_Os02g40580.1	LOC_Os02g40580	12.702		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-230. LOC_Os02g41740.1	LOC_Os02g41740	29.018		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-231. LOC_Os02g42080.1	LOC_Os02g42080	20.534		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-232. LOC_Os02g42750.1	LOC_Os02g42750	16.87		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-233. LOC_Os02g42860.1	LOC_Os02g42860	32.759		"DEAD-box ATP-dependent RNA helicase, putative, expressed"
-234. LOC_Os02g43390.1	LOC_Os02g43390	24.853		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-235. LOC_Os02g43450.1	LOC_Os02g43450	32.136		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-236. LOC_Os02g43540.1	LOC_Os02g43540	23.696		"retrotransposon protein, putative, unclassified, expressed"
-237. LOC_Os02g43750.1	LOC_Os02g43750	33.474		"transcription initiation factor, putative, expressed"
-238. LOC_Os02g43800.1	LOC_Os02g43800	31.374		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-239. LOC_Os02g45054.1	LOC_Os02g45054	20.93	SID1|OsIDD4	"ZOS2-15 - C2H2 zinc finger protein, expressed"
-240. LOC_Os02g45070.1	LOC_Os02g45070	22.778	OsAGO1a	"PINHEAD, putative, expressed"
-241. LOC_Os02g45070.2	LOC_Os02g45070	22.778	OsAGO1a	"PINHEAD, putative, expressed"
-242. LOC_Os02g45370.1	LOC_Os02g45370	30.772		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-243. LOC_Os02g46240.1	LOC_Os02g46240	32.99		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-244. LOC_Os02g46880.1	LOC_Os02g46880	32.083		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-245. LOC_Os02g47690.1	LOC_Os02g47690	18.374		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-246. LOC_Os02g48320.1	LOC_Os02g48320	8.491		"DNA binding protein, putative, expressed"
-247. LOC_Os02g48320.2	LOC_Os02g48320	8.491		"DNA binding protein, putative, expressed"
-248. LOC_Os02g48320.3	LOC_Os02g48320	8.491		"DNA binding protein, putative, expressed"
-249. LOC_Os02g49370.1	LOC_Os02g49370	8.771	OsHAP3E|LEC1|OsLEC1	"histone-like transcription factor and archaeal histone, putative, expressed"
-250. LOC_Os02g49370.2	LOC_Os02g49370	8.771	OsHAP3E|LEC1|OsLEC1	"histone-like transcription factor and archaeal histone, putative, expressed"
-251. LOC_Os02g51240.1	LOC_Os02g51240	34.18		"retrotransposon protein, putative, unclassified"
-252. LOC_Os02g51280.1	LOC_Os02g51280	39.073		"TCP-domain protein, putative, expressed"
-253. LOC_Os02g51890.1	LOC_Os02g51890	25.566		"RNA recognition motif containing protein, putative, expressed"
-254. LOC_Os02g52690.1	LOC_Os02g52690	22.356		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-255. LOC_Os02g54120.1	LOC_Os02g54120	27.584		"CCR4-NOT transcription factor, putative, expressed"
-256. LOC_Os02g54120.3	LOC_Os02g54120	27.584		"CCR4-NOT transcription factor, putative, expressed"
-257. LOC_Os02g54120.2	LOC_Os02g54120	27.584		"CCR4-NOT transcription factor, putative, expressed"
-258. LOC_Os02g54120.4	LOC_Os02g54120	27.584		"CCR4-NOT transcription factor, putative, expressed"
-259. LOC_Os02g55250.1	LOC_Os02g55250	15.254		"BHLH transcription factor, putative, expressed"
-260. LOC_Os02g55970.2	LOC_Os02g55970	45.015		"ANTH, putative, expressed"
-261. LOC_Os02g55970.1	LOC_Os02g55970	45.015		"ANTH, putative, expressed"
-262. LOC_Os02g56270.1	LOC_Os02g56270	55.989		"ENTH domain containing protein, expressed"
-263. LOC_Os02g56880.1	LOC_Os02g56880	33.397		"transcriptional corepressor LEUNIG, putative, expressed"
-264. LOC_Os02g57930.1	LOC_Os02g57930	18.559		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-265. LOC_Os03g01320.1	LOC_Os03g01320	24.624	qLTG3-1	"LTPL116 - Protease inhibitor/seed storage/LTP family protein precursor, expressed"
-266. LOC_Os03g03180.1	LOC_Os03g03180	24.947		"uncharacterized Cys-rich domain containing protein, putative, expressed"
-267. LOC_Os03g03830.1	LOC_Os03g03830	52.109		"EF hand family protein, putative, expressed"
-268. LOC_Os03g03920.1	LOC_Os03g03920	16.591	OsDSK2a	"Ubiquitin family domain containing protein, expressed"
-269. LOC_Os03g04030.1	LOC_Os03g04030	15.309		"HVA22, putative, expressed"
-270. LOC_Os03g04860.1	LOC_Os03g04860	27.606		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-271. LOC_Os03g05750.1	LOC_Os03g05750	22.807		"heavy-metal-associated domain-containing protein, putative, expressed"
-272. LOC_Os03g06240.2	LOC_Os03g06240	24.28		"YT521-B-like family domain containing protein, expressed"
-273. LOC_Os03g06240.1	LOC_Os03g06240	24.28		"YT521-B-like family domain containing protein, expressed"
-274. LOC_Os03g06980.1	LOC_Os03g06980	56.152		"nucleic acid binding protein, putative, expressed"
-275. LOC_Os03g07450.1	LOC_Os03g07450	8.633		"homeobox associated leucine zipper, putative, expressed"
-276. LOC_Os03g07710.1	LOC_Os03g07710	13.144		hypothetical protein
-277. LOC_Os03g07720.1	LOC_Os03g07720	86.272		expressed protein
-278. LOC_Os03g08770.1	LOC_Os03g08770	15.195		"modifier of rudimentary protein, expressed"
-279. LOC_Os03g08770.2	LOC_Os03g08770	14.994		"modifier of rudimentary protein, expressed"
-280. LOC_Os03g09280.2	LOC_Os03g09280	12.265		"gibberellin response modulator protein, putative, expressed"
-281. LOC_Os03g09280.3	LOC_Os03g09280	12.265		"gibberellin response modulator protein, putative, expressed"
-282. LOC_Os03g09280.1	LOC_Os03g09280	12.265		"gibberellin response modulator protein, putative, expressed"
-283. LOC_Os03g09300.1	LOC_Os03g09300	23.177		"pumilio-family RNA binding repeat containing protein, expressed"
-284. LOC_Os03g11200.1	LOC_Os03g11200	20.22		"pre-mRNA-processing factor 39, putative, expressed"
-285. LOC_Os03g11460.1	LOC_Os03g11460	14.868		expressed protein
-286. LOC_Os03g11580.1	LOC_Os03g11580	36.918		expressed protein
-287. LOC_Os03g12570.1	LOC_Os03g12570	16.285	OsCMT3b	expressed protein
-288. LOC_Os03g13320.1	LOC_Os03g13320	31.83		"retrotransposon protein, putative, unclassified, expressed"
-289. LOC_Os03g13614.1	LOC_Os03g13614	22.083		"transcription factor, putative, expressed"
-290. LOC_Os03g13614.3	LOC_Os03g13614	22.083		"transcription factor, putative, expressed"
-291. LOC_Os03g13614.2	LOC_Os03g13614	22.083		"transcription factor, putative, expressed"
-292. LOC_Os03g14615.1	LOC_Os03g14615	70.538		"LTPL117 - Protease inhibitor/seed storage/LTP family protein precursor, expressed"
-293. LOC_Os03g15000.1	LOC_Os03g15000	17.06		"Zinc finger, C3HC4 type domain containing protein, expressed"
-294. LOC_Os03g15160.1	LOC_Os03g15160	28.947		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-295. LOC_Os03g15700.1	LOC_Os03g15700	17.045		"splicing factor 3A subunit 2, putative, expressed"
-296. LOC_Os03g16730.1	LOC_Os03g16730	13.738		expressed protein
-297. LOC_Os03g16800.1	LOC_Os03g16800	14.543		"clathrin assembly protein, putative, expressed"
-298. LOC_Os03g16800.2	LOC_Os03g16800	14.543		"clathrin assembly protein, putative, expressed"
-299. LOC_Os03g17570.4	LOC_Os03g17570	14.002	OsCCT11|OsPRR73	"response regulator receiver domain containing protein, expressed"
-300. LOC_Os03g17570.3	LOC_Os03g17570	14.002	OsCCT11|OsPRR73	"response regulator receiver domain containing protein, expressed"
-301. LOC_Os03g17570.1	LOC_Os03g17570	14.002	OsCCT11|OsPRR73	"response regulator receiver domain containing protein, expressed"
-302. LOC_Os03g17570.2	LOC_Os03g17570	14.002	OsCCT11|OsPRR73	"response regulator receiver domain containing protein, expressed"
-303. LOC_Os03g17760.1	LOC_Os03g17760	13.251		"RNA recognition motif containing protein, putative, expressed"
-304. LOC_Os03g19600.1	LOC_Os03g19600	86.532		"retrotransposon protein, putative, unclassified, expressed"
-305. LOC_Os03g19600.2	LOC_Os03g19600	70.991		"retrotransposon protein, putative, unclassified, expressed"
-306. LOC_Os03g20790.1	LOC_Os03g20790	10.04	OsEIL1|MHZ6	"ethylene-insensitive 3, putative, expressed"
-307. LOC_Os03g22490.2	LOC_Os03g22490	22.319		"heavy metal-associated domain containing protein, expressed"
-308. LOC_Os03g22490.3	LOC_Os03g22490	22.319		"heavy metal-associated domain containing protein, expressed"
-309. LOC_Os03g22490.4	LOC_Os03g22490	22.319		"heavy metal-associated domain containing protein, expressed"
-310. LOC_Os03g22490.1	LOC_Os03g22490	22.319		"heavy metal-associated domain containing protein, expressed"
-311. LOC_Os03g23100.1	LOC_Os03g23100	27.62		"retrotransposon protein, putative, Ty3-gypsy subclass"
-312. LOC_Os03g23200.1	LOC_Os03g23200	17.398		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-313. LOC_Os03g23760.1	LOC_Os03g23760	28.52		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-314. LOC_Os03g23800.1	LOC_Os03g23800	29.447		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-315. LOC_Os03g23860.1	LOC_Os03g23860	29.173		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-316. LOC_Os03g24339.1	LOC_Os03g24339	23.089		"PWWP domain containing protein, expressed"
-317. LOC_Os03g25980.2	LOC_Os03g25980	30.603		"polypyrimidine tract-binding protein, putative, expressed"
-318. LOC_Os03g25980.1	LOC_Os03g25980	30.603		"polypyrimidine tract-binding protein, putative, expressed"
-319. LOC_Os03g26750.1	LOC_Os03g26750	24.172		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-320. LOC_Os03g26900.1	LOC_Os03g26900	14.926		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-321. LOC_Os03g27990.1	LOC_Os03g27990	14.691		"STRUBBELIG-RECEPTOR FAMILY 7 precursor, putative, expressed"
-322. LOC_Os03g28370.1	LOC_Os03g28370	14.616		"retrotransposon protein, putative, unclassified, expressed"
-323. LOC_Os03g29140.1	LOC_Os03g29140	11.326		expressed protein
-324. LOC_Os03g29750.1	LOC_Os03g29750	13.913		expressed protein
-325. LOC_Os03g29750.2	LOC_Os03g29750	13.913		expressed protein
-326. LOC_Os03g29970.1	LOC_Os03g29970	27.51		"histone-like transcription factor and archaeal histone, putative, expressed"
-327. LOC_Os03g30550.1	LOC_Os03g30550	18.516		"RNA-binding protein-like, putative, expressed"
-328. LOC_Os03g30700.1	LOC_Os03g30700	32.361		"retrotransposon protein, putative, unclassified, expressed"
-329. LOC_Os03g30710.1	LOC_Os03g30710	16.386		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-330. LOC_Os03g31010.1	LOC_Os03g31010	96.8		expressed protein
-331. LOC_Os03g31679.1	LOC_Os03g31679	29.889	OsWIH2	"annexin A7, putative, expressed"
-332. LOC_Os03g31880.1	LOC_Os03g31880	18.005	OsSHR2	"SHORT-ROOT, putative, expressed"
-333. LOC_Os03g31986.1	LOC_Os03g31986	28.086		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-334. LOC_Os03g32360.1	LOC_Os03g32360	16.176		"retrotransposon protein, putative, Ty3-gypsy subclass"
-335. LOC_Os03g32590.1	LOC_Os03g32590	17.697		"transcription initiation factor, putative, expressed"
-336. LOC_Os03g32590.2	LOC_Os03g32590	17.697		"transcription initiation factor, putative, expressed"
-337. LOC_Os03g32749.1	LOC_Os03g32749	16.92		"retrotransposon protein, putative, unclassified, expressed"
-338. LOC_Os03g32960.1	LOC_Os03g32960	12.404		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-339. LOC_Os03g33230.1	LOC_Os03g33230	15.106		"retrotransposon protein, putative, unclassified, expressed"
-340. LOC_Os03g33260.1	LOC_Os03g33260	32.468		"retrotransposon protein, putative, unclassified, expressed"
-341. LOC_Os03g33670.1	LOC_Os03g33670	20.812		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-342. LOC_Os03g33710.1	LOC_Os03g33710	14.226		"retrotransposon protein, putative, unclassified, expressed"
-343. LOC_Os03g34240.1	LOC_Os03g34240	13.275		"retrotransposon protein, putative, unclassified, expressed"
-344. LOC_Os03g35340.1	LOC_Os03g35340	20.405		expressed protein
-345. LOC_Os03g35390.1	LOC_Os03g35390	17.7		"retrotransposon protein, putative, unclassified, expressed"
-346. LOC_Os03g35540.1	LOC_Os03g35540	31.132		"retrotransposon protein, putative, unclassified, expressed"
-347. LOC_Os03g36030.1	LOC_Os03g36030	17.767		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-348. LOC_Os03g36050.1	LOC_Os03g36050	27.083		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-349. LOC_Os03g36239.1	LOC_Os03g36239	30.266		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-350. LOC_Os03g37194.1	LOC_Os03g37194	24.071		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-351. LOC_Os03g37270.1	LOC_Os03g37270	24.865		"RNA recognition motif containing protein, putative, expressed"
-352. LOC_Os03g37394.1	LOC_Os03g37394	10.21		"retrotransposon protein, putative, unclassified, expressed"
-353. LOC_Os03g39040.1	LOC_Os03g39040	34.361		"zinc knuckle domain containing protein, expressed"
-354. LOC_Os03g39350.1	LOC_Os03g39350	29.384		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-355. LOC_Os03g41600.1	LOC_Os03g41600	15.81		"DUF260 domain containing protein, putative, expressed"
-356. LOC_Os03g41770.1	LOC_Os03g41770	28.82		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-357. LOC_Os03g41960.1	LOC_Os03g41960	33.983		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-358. LOC_Os03g42900.1	LOC_Os03g42900	13.553		"KH domain containing protein, putative, expressed"
-359. LOC_Os03g43160.1	LOC_Os03g43160	16.529		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-360. LOC_Os03g45030.1	LOC_Os03g45030	23.991		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-361. LOC_Os03g45670.1	LOC_Os03g45670	24.748		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-362. LOC_Os03g46770.1	LOC_Os03g46770	21.244		"RNA recognition motif containing protein, expressed"
-363. LOC_Os03g48260.1	LOC_Os03g48260	38.708		expressed protein
-364. LOC_Os03g49110.1	LOC_Os03g49110	18.557		"retrotransposon protein, putative, unclassified, expressed"
-365. LOC_Os03g49660.1	LOC_Os03g49660	14.939		"retrotransposon protein, putative, Ty1-copia subclass, expressed"
-366. LOC_Os03g51330.1	LOC_Os03g51330	20.88	OsGRAS19|OsSCL7	"GRAS family transcription factor domain containing protein, expressed"
-367. LOC_Os03g52320.2	LOC_Os03g52320	28.631	MKB3	"GRF-interacting factor 1, putative, expressed"
-368. LOC_Os03g52320.1	LOC_Os03g52320	28.631	MKB3	"GRF-interacting factor 1, putative, expressed"
-369. LOC_Os03g52490.1	LOC_Os03g52490	43.006		"nucleic acid binding protein, putative, expressed"
-370. LOC_Os03g52594.4	LOC_Os03g52594	26.83		"CCR4-NOT transcription factor, putative, expressed"
-371. LOC_Os03g52594.5	LOC_Os03g52594	33.642		"CCR4-NOT transcription factor, putative, expressed"
-372. LOC_Os03g53670.2	LOC_Os03g53670	42.176		"YT521-B-like family domain containing protein, expressed"
-373. LOC_Os03g53670.1	LOC_Os03g53670	41.329		"YT521-B-like family domain containing protein, expressed"
-374. LOC_Os03g56950.7	LOC_Os03g56950	14.512	OsPIL13|OsPIL1	"phytochrome-interacting factor 4, putative, expressed"
-375. LOC_Os03g56950.4	LOC_Os03g56950	15.709	OsPIL13|OsPIL1	"phytochrome-interacting factor 4, putative, expressed"
-376. LOC_Os03g56950.1	LOC_Os03g56950	15.709	OsPIL13|OsPIL1	"phytochrome-interacting factor 4, putative, expressed"
-377. LOC_Os03g56950.2	LOC_Os03g56950	15.709	OsPIL13|OsPIL1	"phytochrome-interacting factor 4, putative, expressed"
-378. LOC_Os03g56950.3	LOC_Os03g56950	15.709	OsPIL13|OsPIL1	"phytochrome-interacting factor 4, putative, expressed"
-379. LOC_Os03g57210.2	LOC_Os03g57210	38.286		"glycine-rich protein, putative, expressed"
-380. LOC_Os03g57210.1	LOC_Os03g57210	38.286		"glycine-rich protein, putative, expressed"
-381. LOC_Os03g57430.1	LOC_Os03g57430	21.965		expressed protein
-382. LOC_Os03g58060.1	LOC_Os03g58060	26.976		"XRN 5'-3' exonuclease N-terminus domain containing protein, expressed"
-383. LOC_Os03g58600.1	LOC_Os03g58600	8.659	MEL1	"PAZ domain containing protein, putative, expressed"
-384. LOC_Os03g58780.2	LOC_Os03g58780	94.655		expressed protein
-385. LOC_Os03g58780.1	LOC_Os03g58780	94.655		expressed protein
-386. LOC_Os03g58910.2	LOC_Os03g58910	11.999		expressed protein
-387. LOC_Os03g59140.1	LOC_Os03g59140	27.219		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-388. LOC_Os03g59730.1	LOC_Os03g59730	15.73		"No apical meristem protein, putative, expressed"
-389. LOC_Os03g60050.1	LOC_Os03g60050	31.337		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-390. LOC_Os03g60470.1	LOC_Os03g60470	31.885		"glycine-rich protein A3, putative, expressed"
-391. LOC_Os03g62830.1	LOC_Os03g62830	62.234		"nuclear antigen, putative, expressed"
-392. LOC_Os03g64250.6	LOC_Os03g64250	14.892		expressed protein
-393. LOC_Os03g64250.2	LOC_Os03g64250	14.892		expressed protein
-394. LOC_Os03g64250.5	LOC_Os03g64250	14.892		expressed protein
-395. LOC_Os04g01040.1	LOC_Os04g01040	27.122		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-396. LOC_Os04g02000.2	LOC_Os04g02000	11.429		"zinc finger family protein, putative, expressed"
-397. LOC_Os04g02000.1	LOC_Os04g02000	12.312		"zinc finger family protein, putative, expressed"
-398. LOC_Os04g03630.1	LOC_Os04g03630	35.392		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-399. LOC_Os04g03860.1	LOC_Os04g03860	36.583		expressed protein
-400. LOC_Os04g04020.1	LOC_Os04g04020	29.166		"protein transport protein Sec24-like, putative, expressed"
-401. LOC_Os04g04150.1	LOC_Os04g04150	25.272		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-402. LOC_Os04g04550.1	LOC_Os04g04550	33.807		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-403. LOC_Os04g04574.1	LOC_Os04g04574	15.627		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-404. LOC_Os04g04850.1	LOC_Os04g04850	24.718		"retrotransposon protein, putative, Ty3-gypsy subclass"
-405. LOC_Os04g04900.1	LOC_Os04g04900	30.507		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-406. LOC_Os04g05380.1	LOC_Os04g05380	16.493		"retrotransposon protein, putative, unclassified"
-407. LOC_Os04g05840.1	LOC_Os04g05840	23.621		"retrotransposon protein, putative, unclassified, expressed"
-408. LOC_Os04g06080.1	LOC_Os04g06080	17.981		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-409. LOC_Os04g06130.1	LOC_Os04g06130	16.837		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-410. LOC_Os04g06430.1	LOC_Os04g06430	29.44		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-411. LOC_Os04g07060.1	LOC_Os04g07060	28.991		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-412. LOC_Os04g07370.1	LOC_Os04g07370	27.705		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-413. LOC_Os04g07650.1	LOC_Os04g07650	28.053		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-414. LOC_Os04g09360.1	LOC_Os04g09360	12.063		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-415. LOC_Os04g09480.1	LOC_Os04g09480	18.077		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-416. LOC_Os04g10070.1	LOC_Os04g10070	14.375		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-417. LOC_Os04g11090.1	LOC_Os04g11090	15.568		"retrotransposon protein, putative, unclassified, expressed"
-418. LOC_Os04g12250.1	LOC_Os04g12250	29.993		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-419. LOC_Os04g13510.1	LOC_Os04g13510	23.894		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-420. LOC_Os04g13820.1	LOC_Os04g13820	26.666		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-421. LOC_Os04g13920.1	LOC_Os04g13920	28.625		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-422. LOC_Os04g13930.1	LOC_Os04g13930	12.251		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-423. LOC_Os04g13970.1	LOC_Os04g13970	17.609		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-424. LOC_Os04g14620.1	LOC_Os04g14620	20.106		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-425. LOC_Os04g15944.1	LOC_Os04g15944	13.59		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-426. LOC_Os04g16100.1	LOC_Os04g16100	28.489		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-427. LOC_Os04g16430.1	LOC_Os04g16430	29.403		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-428. LOC_Os04g16500.1	LOC_Os04g16500	26.986		"retrotransposon protein, putative, Ty3-gypsy subclass"
-429. LOC_Os04g16510.1	LOC_Os04g16510	27.444		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-430. LOC_Os04g16590.1	LOC_Os04g16590	13.822		"retrotransposon protein, putative, Ty3-gypsy subclass"
-431. LOC_Os04g16810.1	LOC_Os04g16810	29.403		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-432. LOC_Os04g16860.1	LOC_Os04g16860	12.017		"retrotransposon protein, putative, unclassified, expressed"
-433. LOC_Os04g17240.1	LOC_Os04g17240	22.074		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-434. LOC_Os04g17410.1	LOC_Os04g17410	23.545		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-435. LOC_Os04g18460.1	LOC_Os04g18460	29.781		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-436. LOC_Os04g18640.1	LOC_Os04g18640	20.507		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-437. LOC_Os04g18760.1	LOC_Os04g18760	27.068		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-438. LOC_Os04g19090.1	LOC_Os04g19090	42.258		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-439. LOC_Os04g19270.1	LOC_Os04g19270	26.616		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-440. LOC_Os04g19280.1	LOC_Os04g19280	27.362		"retrotransposon protein, putative, unclassified, expressed"
-441. LOC_Os04g19360.1	LOC_Os04g19360	22.641		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-442. LOC_Os04g19610.1	LOC_Os04g19610	27.444		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-443. LOC_Os04g19960.1	LOC_Os04g19960	22.803		"retrotransposon protein, putative, unclassified, expressed"
-444. LOC_Os04g20030.1	LOC_Os04g20030	13.886		"retrotransposon protein, putative, Ty3-gypsy subclass"
-445. LOC_Os04g20040.1	LOC_Os04g20040	28.295		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-446. LOC_Os04g21200.1	LOC_Os04g21200	27.743		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-447. LOC_Os04g21210.1	LOC_Os04g21210	27.9		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-448. LOC_Os04g21220.1	LOC_Os04g21220	26.399		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-449. LOC_Os04g21860.1	LOC_Os04g21860	19.951		"transposon protein, putative, Pong sub-class, expressed"
-450. LOC_Os04g22000.1	LOC_Os04g22000	17.833		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-451. LOC_Os04g22600.1	LOC_Os04g22600	33.718		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-452. LOC_Os04g22680.1	LOC_Os04g22680	25.116		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-453. LOC_Os04g22990.1	LOC_Os04g22990	25.765		"retrotransposon protein, putative, unclassified, expressed"
-454. LOC_Os04g24060.1	LOC_Os04g24060	20.534		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-455. LOC_Os04g24989.1	LOC_Os04g24989	29.403		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-456. LOC_Os04g25020.1	LOC_Os04g25020	27.965		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-457. LOC_Os04g25030.1	LOC_Os04g25030	29.403		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-458. LOC_Os04g26660.1	LOC_Os04g26660	27.298		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-459. LOC_Os04g27490.1	LOC_Os04g27490	27.595		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-460. LOC_Os04g27570.1	LOC_Os04g27570	26		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-461. LOC_Os04g29700.1	LOC_Os04g29700	31.858		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-462. LOC_Os04g31620.1	LOC_Os04g31620	24.051		"retrotransposon protein, putative, unclassified, expressed"
-463. LOC_Os04g31940.1	LOC_Os04g31940	16.528		"dnaJ domain containing protein, expressed"
-464. LOC_Os04g32250.1	LOC_Os04g32250	22.646		expressed protein
-465. LOC_Os04g32260.1	LOC_Os04g32260	11.821		expressed protein
-466. LOC_Os04g34500.1	LOC_Os04g34500	14.946		"retrotransposon protein, putative, unclassified, expressed"
-467. LOC_Os04g35930.1	LOC_Os04g35930	12.378		"OsFBX134 - F-box domain containing protein, expressed"
-468. LOC_Os04g38180.1	LOC_Os04g38180	23.208		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-469. LOC_Os04g38190.1	LOC_Os04g38190	27.494		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-470. LOC_Os04g39320.4	LOC_Os04g39320	31.927		expressed protein
-471. LOC_Os04g39320.2	LOC_Os04g39320	31.927		expressed protein
-472. LOC_Os04g39520.1	LOC_Os04g39520	16.383		"ZOS4-08 - C2H2 zinc finger protein, expressed"
-473. LOC_Os04g40240.1	LOC_Os04g40240	14.148		"transposon protein, putative, CACTA, En/Spm sub-class"
-474. LOC_Os04g40300.1	LOC_Os04g40300	23.044		"transglutaminase, putative, expressed"
-475. LOC_Os04g42600.1	LOC_Os04g42600	21.517		"polyadenylate-binding protein, putative, expressed"
-476. LOC_Os04g42600.2	LOC_Os04g42600	21.517		"polyadenylate-binding protein, putative, expressed"
-477. LOC_Os04g45040.3	LOC_Os04g45040	26.343		"DEAD-box ATP-dependent RNA helicase, putative, expressed"
-478. LOC_Os04g45040.1	LOC_Os04g45040	26.343		"DEAD-box ATP-dependent RNA helicase, putative, expressed"
-479. LOC_Os04g45040.2	LOC_Os04g45040	26.343		"DEAD-box ATP-dependent RNA helicase, putative, expressed"
-480. LOC_Os04g45400.1	LOC_Os04g45400	29.993		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-481. LOC_Os04g45430.1	LOC_Os04g45430	31.183		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-482. LOC_Os04g45440.1	LOC_Os04g45440	29.518		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-483. LOC_Os04g45760.1	LOC_Os04g45760	22.508		"retrotransposon protein, putative, unclassified"
-484. LOC_Os04g45930.2	LOC_Os04g45930	13.509		"RNA recognition motif containing protein, expressed"
-485. LOC_Os04g45930.3	LOC_Os04g45930	13.509		"RNA recognition motif containing protein, expressed"
-486. LOC_Os04g45930.1	LOC_Os04g45930	13.509		"RNA recognition motif containing protein, expressed"
-487. LOC_Os04g45980.1	LOC_Os04g45980	13.903		"glycine-rich cell wall protein, putative, expressed"
-488. LOC_Os04g47000.1	LOC_Os04g47000	38.768		expressed protein
-489. LOC_Os04g47100.1	LOC_Os04g47100	28.557		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-490. LOC_Os04g47870.2	LOC_Os04g47870	29.398	OsAGO1b	"PINHEAD, putative, expressed"
-491. LOC_Os04g47870.1	LOC_Os04g47870	29.398	OsAGO1b	"PINHEAD, putative, expressed"
-492. LOC_Os04g48094.1	LOC_Os04g48094	18.953		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-493. LOC_Os04g48640.1	LOC_Os04g48640	24.442		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-494. LOC_Os04g49990.1	LOC_Os04g49990	10.009		"AT hook motif domain containing protein, expressed"
-495. LOC_Os04g49990.2	LOC_Os04g49990	10.009		"AT hook motif domain containing protein, expressed"
-496. LOC_Os04g51740.1	LOC_Os04g51740	17.757		"retrotransposon protein, putative, Ty3-gypsy subclass"
-497. LOC_Os04g51940.3	LOC_Os04g51940	13.855		"YT521-B, putative, expressed"
-498. LOC_Os04g51940.2	LOC_Os04g51940	13.855		"YT521-B, putative, expressed"
-499. LOC_Os04g51940.1	LOC_Os04g51940	13.855		"YT521-B, putative, expressed"
-500. LOC_Os04g52540.1	LOC_Os04g52540	20.66	OsAGO2	"retrotransposon protein, putative, unclassified, expressed"
-501. LOC_Os04g52560.1	LOC_Os04g52560	19.107		"transposon protein, putative, unclassified, expressed"
-502. LOC_Os04g53440.2	LOC_Os04g53440	28.912	RBP-L	"RNA recognition motif containing protein, putative, expressed"
-503. LOC_Os04g53440.1	LOC_Os04g53440	28.912	RBP-L	"RNA recognition motif containing protein, putative, expressed"
-504. LOC_Os04g53590.1	LOC_Os04g53590	28.951		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-505. LOC_Os04g54350.1	LOC_Os04g54350	52.276		"SPRY-domain containing protein, putative, expressed"
-506. LOC_Os04g54420.1	LOC_Os04g54420	39.188		"protein of unknown function, DUF618 domain containing protein, expressed"
-507. LOC_Os04g54440.3	LOC_Os04g54440	24.692	DHT1	"RNA binding protein, putative, expressed"
-508. LOC_Os04g54440.1	LOC_Os04g54440	24.692	DHT1	"RNA binding protein, putative, expressed"
-509. LOC_Os04g54440.2	LOC_Os04g54440	24.692	DHT1	"RNA binding protein, putative, expressed"
-510. LOC_Os04g54650.1	LOC_Os04g54650	16.411		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-511. LOC_Os04g55020.1	LOC_Os04g55020	30.822		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-512. LOC_Os04g55970.2	LOC_Os04g55970	21.856		"AP2-like ethylene-responsive transcription factor AINTEGUMENTA, putative, expressed"
-513. LOC_Os04g55970.1	LOC_Os04g55970	21.856		"AP2-like ethylene-responsive transcription factor AINTEGUMENTA, putative, expressed"
-514. LOC_Os04g56260.1	LOC_Os04g56260	29.14		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-515. LOC_Os04g56630.1	LOC_Os04g56630	20.392		"transposon protein, putative, unclassified, expressed"
-516. LOC_Os04g56630.2	LOC_Os04g56630	20.392		"transposon protein, putative, unclassified, expressed"
-517. LOC_Os04g57610.3	LOC_Os04g57610	20.96	OsARF12	"auxin response factor, putative, expressed"
-518. LOC_Os04g57610.1	LOC_Os04g57610	20.96	OsARF12	"auxin response factor, putative, expressed"
-519. LOC_Os04g58730.1	LOC_Os04g58730	15.893		"AT hook motif domain containing protein, expressed"
-520. LOC_Os04g59250.1	LOC_Os04g59250	32.299		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-521. LOC_Os05g01650.1	LOC_Os05g01650	15.006		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-522. LOC_Os05g02040.1	LOC_Os05g02040	37.869	RPA1c	"RPA1C - Putative single-stranded DNA binding complex subunit 1, expressed"
-523. LOC_Os05g02770.1	LOC_Os05g02770	19.423	OsGPRP3	"glycine-rich cell wall structural protein precursor, putative, expressed"
-524. LOC_Os05g02780.3	LOC_Os05g02780	34.854		"glycine-rich protein A3, putative, expressed"
-525. LOC_Os05g02780.1	LOC_Os05g02780	34.854		"glycine-rich protein A3, putative, expressed"
-526. LOC_Os05g02780.2	LOC_Os05g02780	34.854		"glycine-rich protein A3, putative, expressed"
-527. LOC_Os05g02780.4	LOC_Os05g02780	34.854		"glycine-rich protein A3, putative, expressed"
-528. LOC_Os05g03670.1	LOC_Os05g03670	28.681		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-529. LOC_Os05g03690.1	LOC_Os05g03690	21.537		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-530. LOC_Os05g05820.1	LOC_Os05g05820	13.769		"pro-resilin precursor, putative, expressed"
-531. LOC_Os05g05860.1	LOC_Os05g05860	31.302		"retrotransposon protein, putative, unclassified, expressed"
-532. LOC_Os05g05890.1	LOC_Os05g05890	18.587		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-533. LOC_Os05g07070.5	LOC_Os05g07070	17.167		"zinc finger, C3HC4 type domain containing protein, expressed"
-534. LOC_Os05g07070.1	LOC_Os05g07070	17.167		"zinc finger, C3HC4 type domain containing protein, expressed"
-535. LOC_Os05g07070.3	LOC_Os05g07070	17.167		"zinc finger, C3HC4 type domain containing protein, expressed"
-536. LOC_Os05g07070.8	LOC_Os05g07070	17.167		"zinc finger, C3HC4 type domain containing protein, expressed"
-537. LOC_Os05g07070.2	LOC_Os05g07070	17.167		"zinc finger, C3HC4 type domain containing protein, expressed"
-538. LOC_Os05g07070.7	LOC_Os05g07070	17.167		"zinc finger, C3HC4 type domain containing protein, expressed"
-539. LOC_Os05g07070.4	LOC_Os05g07070	17.167		"zinc finger, C3HC4 type domain containing protein, expressed"
-540. LOC_Os05g07350.1	LOC_Os05g07350	28.991		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-541. LOC_Os05g07380.1	LOC_Os05g07380	15.114		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-542. LOC_Os05g07400.1	LOC_Os05g07400	15.114		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-543. LOC_Os05g07500.1	LOC_Os05g07500	16.552		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-544. LOC_Os05g07520.1	LOC_Os05g07520	16.552		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-545. LOC_Os05g07730.1	LOC_Os05g07730	35.98		"retrotransposon protein, putative, unclassified, expressed"
-546. LOC_Os05g08290.1	LOC_Os05g08290	30.972		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-547. LOC_Os05g09080.1	LOC_Os05g09080	26.486		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-548. LOC_Os05g10890.1	LOC_Os05g10890	24.75		"retrotransposon protein, putative, unclassified, expressed"
-549. LOC_Os05g10960.1	LOC_Os05g10960	16.738		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-550. LOC_Os05g12310.1	LOC_Os05g12310	17.741		"retrotransposon protein, putative, unclassified, expressed"
-551. LOC_Os05g13470.1	LOC_Os05g13470	21.996		"retrotransposon protein, putative, unclassified, expressed"
-552. LOC_Os05g14090.1	LOC_Os05g14090	9.316		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-553. LOC_Os05g15270.1	LOC_Os05g15270	22.857		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-554. LOC_Os05g15430.1	LOC_Os05g15430	18.952		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-555. LOC_Os05g15580.1	LOC_Os05g15580	17.165		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-556. LOC_Os05g16270.1	LOC_Os05g16270	15.828		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-557. LOC_Os05g16390.1	LOC_Os05g16390	15.315		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-558. LOC_Os05g16960.1	LOC_Os05g16960	28.843		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-559. LOC_Os05g17000.1	LOC_Os05g17000	30.024		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-560. LOC_Os05g17100.1	LOC_Os05g17100	30.134		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-561. LOC_Os05g17260.1	LOC_Os05g17260	30.589		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-562. LOC_Os05g17270.1	LOC_Os05g17270	23.657		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-563. LOC_Os05g17320.1	LOC_Os05g17320	30.589		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-564. LOC_Os05g17360.1	LOC_Os05g17360	19.812		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-565. LOC_Os05g17410.1	LOC_Os05g17410	30.589		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-566. LOC_Os05g17420.1	LOC_Os05g17420	20.425		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-567. LOC_Os05g17630.1	LOC_Os05g17630	15.543		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-568. LOC_Os05g17780.1	LOC_Os05g17780	13.7		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-569. LOC_Os05g17910.1	LOC_Os05g17910	28.417		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-570. LOC_Os05g18230.1	LOC_Os05g18230	28.682		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-571. LOC_Os05g18340.1	LOC_Os05g18340	21.276		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-572. LOC_Os05g18380.1	LOC_Os05g18380	29.414		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-573. LOC_Os05g18480.1	LOC_Os05g18480	18.035		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-574. LOC_Os05g18490.1	LOC_Os05g18490	28.867		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-575. LOC_Os05g18520.1	LOC_Os05g18520	17.457		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-576. LOC_Os05g19200.1	LOC_Os05g19200	29.396		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-577. LOC_Os05g19560.1	LOC_Os05g19560	30.134		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-578. LOC_Os05g19850.1	LOC_Os05g19850	28.169		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-579. LOC_Os05g19870.1	LOC_Os05g19870	30.134		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-580. LOC_Os05g20160.1	LOC_Os05g20160	30.611		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-581. LOC_Os05g20180.1	LOC_Os05g20180	28.947		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-582. LOC_Os05g20200.1	LOC_Os05g20200	29.993		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-583. LOC_Os05g20230.1	LOC_Os05g20230	30.134		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-584. LOC_Os05g21040.1	LOC_Os05g21040	25.343		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-585. LOC_Os05g22314.1	LOC_Os05g22314	21.92		"retrotransposon protein, putative, unclassified, expressed"
-586. LOC_Os05g22390.1	LOC_Os05g22390	19.018		"retrotransposon protein, putative, unclassified, expressed"
-587. LOC_Os05g22410.1	LOC_Os05g22410	27.084		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-588. LOC_Os05g22550.1	LOC_Os05g22550	14.615		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-589. LOC_Os05g22770.1	LOC_Os05g22770	26.727		"retrotransposon protein, putative, unclassified, expressed"
-590. LOC_Os05g23010.1	LOC_Os05g23010	16.301		"retrotransposon protein, putative, Ty3-gypsy subclass"
-591. LOC_Os05g23080.1	LOC_Os05g23080	30.024		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-592. LOC_Os05g23370.1	LOC_Os05g23370	29.44		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-593. LOC_Os05g26290.1	LOC_Os05g26290	26.482		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-594. LOC_Os05g26320.1	LOC_Os05g26320	25.858		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-595. LOC_Os05g26420.1	LOC_Os05g26420	27.444		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-596. LOC_Os05g26500.1	LOC_Os05g26500	31.664		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-597. LOC_Os05g26810.1	LOC_Os05g26810	16.301		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-598. LOC_Os05g27320.2	LOC_Os05g27320	21.81		"VHS and GAT domain containing protein, expressed"
-599. LOC_Os05g27320.1	LOC_Os05g27320	21.81		"VHS and GAT domain containing protein, expressed"
-600. LOC_Os05g28770.1	LOC_Os05g28770	19.922		"GCRP9 - Glycine and cysteine rich family protein precursor, expressed"
-601. LOC_Os05g29110.1	LOC_Os05g29110	39.866		"retrotransposon protein, putative, unclassified, expressed"
-602. LOC_Os05g30070.1	LOC_Os05g30070	15.041		"retrotransposon protein, putative, unclassified, expressed"
-603. LOC_Os05g30240.1	LOC_Os05g30240	51.577		"PPR repeat domain containing protein, putative, expressed"
-604. LOC_Os05g30570.1	LOC_Os05g30570	20.634		"heavy metal-associated domain containing protein, expressed"
-605. LOC_Os05g30850.1	LOC_Os05g30850	19.918		"transposon protein, putative, Pong sub-class, expressed"
-606. LOC_Os05g30980.1	LOC_Os05g30980	39.555		"RNA recognition motif containing protein, putative, expressed"
-607. LOC_Os05g30980.2	LOC_Os05g30980	39.555		"RNA recognition motif containing protein, putative, expressed"
-608. LOC_Os05g31590.1	LOC_Os05g31590	20.501		"retrotransposon protein, putative, Ty1-copia subclass, expressed"
-609. LOC_Os05g32360.1	LOC_Os05g32360	55.25		"cyclin-dependent kinase C-1, putative, expressed"
-610. LOC_Os05g35390.1	LOC_Os05g35390	27.121		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-611. LOC_Os05g36240.1	LOC_Os05g36240	13.144		expressed protein
-612. LOC_Os05g36370.1	LOC_Os05g36370	59.894		expressed protein
-613. LOC_Os05g36400.1	LOC_Os05g36400	28.265		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-614. LOC_Os05g38730.2	LOC_Os05g38730	42.95		"SAC3/GANP family protein, putative, expressed"
-615. LOC_Os05g38730.1	LOC_Os05g38730	42.95		"SAC3/GANP family protein, putative, expressed"
-616. LOC_Os05g39720.1	LOC_Os05g39720	14.305	WRKY70|OsWRKY70	"WRKY70, expressed"
-617. LOC_Os05g39760.1	LOC_Os05g39760	44.771		"VHS and GAT domain containing protein, expressed"
-618. LOC_Os05g40790.1	LOC_Os05g40790	15.059		"CCR4-NOT transcription factor, putative, expressed"
-619. LOC_Os05g40790.2	LOC_Os05g40790	15.059		"CCR4-NOT transcription factor, putative, expressed"
-620. LOC_Os05g41930.3	LOC_Os05g41930	17.531		"N-rich protein, putative, expressed"
-621. LOC_Os05g41930.2	LOC_Os05g41930	17.531		"N-rich protein, putative, expressed"
-622. LOC_Os05g41930.1	LOC_Os05g41930	17.531		"N-rich protein, putative, expressed"
-623. LOC_Os05g42300.1	LOC_Os05g42300	48.29		"NAF1 domain containing protein, expressed"
-624. LOC_Os05g43780.2	LOC_Os05g43780	45.65		"ESP1, putative, expressed"
-625. LOC_Os05g43780.1	LOC_Os05g43780	45.65		"ESP1, putative, expressed"
-626. LOC_Os05g43950.1	LOC_Os05g43950	17.336	OsVOZ2	expressed protein
-627. LOC_Os05g44720.1	LOC_Os05g44720	13.799		"retrotransposon protein, putative, unclassified, expressed"
-628. LOC_Os05g45840.2	LOC_Os05g45840	14.071		"GTPase-activating protein, putative, expressed"
-629. LOC_Os05g45840.1	LOC_Os05g45840	14.071		"GTPase-activating protein, putative, expressed"
-630. LOC_Os05g47550.1	LOC_Os05g47550	26.021		"ANTH/ENTH domain containing protein, putative, expressed"
-631. LOC_Os05g47610.1	LOC_Os05g47610	27.362		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-632. LOC_Os05g48560.1	LOC_Os05g48560	19.191		expressed protein
-633. LOC_Os05g48580.1	LOC_Os05g48580	15.759		expressed protein
-634. LOC_Os05g48760.1	LOC_Os05g48760	33.14		"protein of unknown function DUF1421 domain containing protein, expressed"
-635. LOC_Os05g49020.1	LOC_Os05g49020	15.577		"60S ribosomal protein L18a-1, putative, expressed"
-636. LOC_Os05g49180.1	LOC_Os05g49180	37.924		"protein of unknown function DUF1296 domain containing protein, expressed"
-637. LOC_Os05g50480.1	LOC_Os05g50480	15.791		"protein of unknown function DUF1296 domain containing protein, expressed"
-638. LOC_Os05g50560.1	LOC_Os05g50560	12.29	OsMPK9	"CGMC_MAPKCMGC_2.9 - CGMC includes CDA, MAPK, GSK3, and CLKC kinases, expressed"
-639. LOC_Os05g51400.1	LOC_Os05g51400	8.573		"protein kinase APK1B, chloroplast precursor, putative, expressed"
-640. LOC_Os05g51550.1	LOC_Os05g51550	54.18		"DNA binding protein, putative, expressed"
-641. LOC_Os06g01030.1	LOC_Os06g01030	12.774		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-642. LOC_Os06g01534.1	LOC_Os06g01534	27.486		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-643. LOC_Os06g01650.2	LOC_Os06g01650	12.723		expressed protein
-644. LOC_Os06g01650.1	LOC_Os06g01650	12.723		expressed protein
-645. LOC_Os06g03590.1	LOC_Os06g03590	21.071		"retrotransposon protein, putative, unclassified, expressed"
-646. LOC_Os06g03600.1	LOC_Os06g03600	18.096		"transcriptional corepressor SEUSS, putative, expressed"
-647. LOC_Os06g03600.3	LOC_Os06g03600	18.096		"transcriptional corepressor SEUSS, putative, expressed"
-648. LOC_Os06g03600.2	LOC_Os06g03600	18.096		"transcriptional corepressor SEUSS, putative, expressed"
-649. LOC_Os06g05780.1	LOC_Os06g05780	29.575		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-650. LOC_Os06g06870.1	LOC_Os06g06870	14.977		"zinc finger protein, putative, expressed"
-651. LOC_Os06g07010.2	LOC_Os06g07010	9.076		"transposon protein, putative, unclassified, expressed"
-652. LOC_Os06g07010.1	LOC_Os06g07010	10.42		"transposon protein, putative, unclassified, expressed"
-653. LOC_Os06g07350.1	LOC_Os06g07350	36.148		"RNA-binding motif protein, putative, expressed"
-654. LOC_Os06g07650.1	LOC_Os06g07650	12.411		"myb-like DNA-binding domain, SHAQKYF class family protein, expressed"
-655. LOC_Os06g07660.1	LOC_Os06g07660	13.608		"myb-like DNA-binding domain, SHAQKYF class family protein, expressed"
-656. LOC_Os06g07830.1	LOC_Os06g07830	24.838		"ANTH/ENTH domain containing protein, putative, expressed"
-657. LOC_Os06g08280.1	LOC_Os06g08280	26.706		"protein kinase domain containing protein, expressed"
-658. LOC_Os06g09660.1	LOC_Os06g09660	26.769	OsARF16	"auxin response factor, putative, expressed"
-659. LOC_Os06g09870.1	LOC_Os06g09870	98.98		"retrotransposon protein, putative, unclassified, expressed"
-660. LOC_Os06g10430.3	LOC_Os06g10430	20.436		"protein of unknown function DUF1296 domain containing protein, expressed"
-661. LOC_Os06g10430.1	LOC_Os06g10430	20.436		"protein of unknown function DUF1296 domain containing protein, expressed"
-662. LOC_Os06g10430.2	LOC_Os06g10430	20.436		"protein of unknown function DUF1296 domain containing protein, expressed"
-663. LOC_Os06g10870.1	LOC_Os06g10870	102.991		"retrotransposon protein, putative, unclassified, expressed"
-664. LOC_Os06g11730.1	LOC_Os06g11730	23.841		"RNA recognition motif containing protein, putative, expressed"
-665. LOC_Os06g12230.1	LOC_Os06g12230	21.631	OsTCP19	"TCP-domain protein, putative, expressed"
-666. LOC_Os06g12580.1	LOC_Os06g12580	15.544		"pro-resilin precursor, putative, expressed"
-667. LOC_Os06g14570.1	LOC_Os06g14570	18.107		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-668. LOC_Os06g15150.1	LOC_Os06g15150	24.562		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-669. LOC_Os06g15310.1	LOC_Os06g15310	29.499		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-670. LOC_Os06g15630.1	LOC_Os06g15630	16.279		"retrotransposon protein, putative, unclassified, expressed"
-671. LOC_Os06g18030.1	LOC_Os06g18030	23.196		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-672. LOC_Os06g18950.1	LOC_Os06g18950	12.739		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-673. LOC_Os06g20660.1	LOC_Os06g20660	33.422		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-674. LOC_Os06g21140.1	LOC_Os06g21140	45.842		"glycine-rich cell wall structural protein precursor, putative, expressed"
-675. LOC_Os06g21210.1	LOC_Os06g21210	31.056		"glycine rich protein family protein, putative, expressed"
-676. LOC_Os06g21220.1	LOC_Os06g21220	29.457		"glycine rich protein family protein, putative, expressed"
-677. LOC_Os06g21230.1	LOC_Os06g21230	25.012		"glycine rich protein family protein, putative, expressed"
-678. LOC_Os06g21240.1	LOC_Os06g21240	32.784		"glycine rich protein family protein, putative, expressed"
-679. LOC_Os06g21250.1	LOC_Os06g21250	35.356		"glycine rich protein family protein, putative, expressed"
-680. LOC_Os06g21270.1	LOC_Os06g21270	25.538		"glycine rich protein family protein, putative, expressed"
-681. LOC_Os06g21270.2	LOC_Os06g21270	40.551		"glycine rich protein family protein, putative, expressed"
-682. LOC_Os06g22100.2	LOC_Os06g22100	10.454		"DNA binding protein, putative, expressed"
-683. LOC_Os06g22100.1	LOC_Os06g22100	10.454		"DNA binding protein, putative, expressed"
-684. LOC_Os06g22520.1	LOC_Os06g22520	34.002		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-685. LOC_Os06g22650.1	LOC_Os06g22650	62.913		"VHS and GAT domain containing protein, expressed"
-686. LOC_Os06g24350.1	LOC_Os06g24350	29.403		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-687. LOC_Os06g24630.1	LOC_Os06g24630	30.476		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-688. LOC_Os06g25100.1	LOC_Os06g25100	29.403		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-689. LOC_Os06g25810.1	LOC_Os06g25810	29.403		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-690. LOC_Os06g27480.1	LOC_Os06g27480	18.147		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-691. LOC_Os06g28390.1	LOC_Os06g28390	34.926		"retrotransposon protein, putative, unclassified, expressed"
-692. LOC_Os06g29080.1	LOC_Os06g29080	47.275		expressed protein
-693. LOC_Os06g30060.1	LOC_Os06g30060	16.07		expressed protein
-694. LOC_Os06g30060.2	LOC_Os06g30060	16.07		expressed protein
-695. LOC_Os06g30070.1	LOC_Os06g30070	28.695		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-696. LOC_Os06g31020.1	LOC_Os06g31020	28.276		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-697. LOC_Os06g31050.1	LOC_Os06g31050	18.367		"retrotransposon protein, putative, unclassified, expressed"
-698. LOC_Os06g31430.1	LOC_Os06g31430	29.246		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-699. LOC_Os06g31440.1	LOC_Os06g31440	12.172		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-700. LOC_Os06g31540.1	LOC_Os06g31540	29.384		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-701. LOC_Os06g31730.1	LOC_Os06g31730	24.287		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-702. LOC_Os06g31840.1	LOC_Os06g31840	26.55		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-703. LOC_Os06g31910.1	LOC_Os06g31910	19.777		"retrotransposon protein, putative, Ty3-gypsy subclass"
-704. LOC_Os06g32050.1	LOC_Os06g32050	30.589		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-705. LOC_Os06g32060.1	LOC_Os06g32060	28.991		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-706. LOC_Os06g32110.1	LOC_Os06g32110	29.086		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-707. LOC_Os06g32450.1	LOC_Os06g32450	17.757		"retrotransposon protein, putative, Ty3-gypsy subclass"
-708. LOC_Os06g32890.1	LOC_Os06g32890	28.605		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-709. LOC_Os06g33020.1	LOC_Os06g33020	13.504		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-710. LOC_Os06g33750.1	LOC_Os06g33750	27.743		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-711. LOC_Os06g34380.1	LOC_Os06g34380	16.499		"transposon protein, putative, Pong sub-class"
-712. LOC_Os06g35040.1	LOC_Os06g35040	29.453		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-713. LOC_Os06g35220.1	LOC_Os06g35220	45.295		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-714. LOC_Os06g36710.1	LOC_Os06g36710	17.747		"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
-715. LOC_Os06g37000.1	LOC_Os06g37000	36.546		"RNA recognition motif containing protein, expressed"
-716. LOC_Os06g37000.2	LOC_Os06g37000	36.546		"RNA recognition motif containing protein, expressed"
-717. LOC_Os06g38240.1	LOC_Os06g38240	33.256		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-718. LOC_Os06g38980.1	LOC_Os06g38980	24.428		"polyadenylate-binding protein, putative, expressed"
-719. LOC_Os06g39480.1	LOC_Os06g39480	28.021	LC3	"SPOC domain containing protein, putative, expressed"
-720. LOC_Os06g39624.2	LOC_Os06g39624	17.347		"transposon protein, putative, Pong sub-class, expressed"
-721. LOC_Os06g39624.1	LOC_Os06g39624	17.347		"transposon protein, putative, Pong sub-class, expressed"
-722. LOC_Os06g39624.3	LOC_Os06g39624	17.347		"transposon protein, putative, Pong sub-class, expressed"
-723. LOC_Os06g39790.1	LOC_Os06g39790	18.817		"retrotransposon protein, putative, unclassified, expressed"
-724. LOC_Os06g40020.1	LOC_Os06g40020	25.997		"DEAD-box ATP-dependent RNA helicase 52A, putative, expressed"
-725. LOC_Os06g41190.1	LOC_Os06g41190	24.152		"retrotransposon protein, putative, Ty1-copia subclass, expressed"
-726. LOC_Os06g41740.1	LOC_Os06g41740	29.42		"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
-727. LOC_Os06g41790.1	LOC_Os06g41790	24.845		"RNA recognition motif containing protein, putative, expressed"
-728. LOC_Os06g43190.2	LOC_Os06g43190	31.069		"retrotransposon protein, putative, unclassified, expressed"
-729. LOC_Os06g43190.3	LOC_Os06g43190	31.069		"retrotransposon protein, putative, unclassified, expressed"
-730. LOC_Os06g43190.1	LOC_Os06g43190	31.069		"retrotransposon protein, putative, unclassified, expressed"
-731. LOC_Os06g43910.1	LOC_Os06g43910	23.609		"two-component response regulator, putative, expressed"
-732. LOC_Os06g44280.1	LOC_Os06g44280	69.778		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-733. LOC_Os06g44750.1	LOC_Os06g44750	21.936	HL6|OsGL6	"AP2 domain containing protein, expressed"
-734. LOC_Os06g45050.1	LOC_Os06g45050	28.967		"clathrin assembly protein, putative, expressed"
-735. LOC_Os06g46400.1	LOC_Os06g46400	43.847		"ATCPSF30/CPSF30, putative, expressed"
-736. LOC_Os06g46410.1	LOC_Os06g46410	40.741	OsARF17	"auxin response factor, putative, expressed"
-737. LOC_Os06g46410.2	LOC_Os06g46410	40.741	OsARF17	"auxin response factor, putative, expressed"
-738. LOC_Os06g46880.1	LOC_Os06g46880	21.768		"surp module family protein, putative, expressed"
-739. LOC_Os06g47190.1	LOC_Os06g47190	22.174		"retrotransposon protein, putative, unclassified"
-740. LOC_Os06g47510.1	LOC_Os06g47510	16.591		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-741. LOC_Os06g48070.1	LOC_Os06g48070	14.408		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-742. LOC_Os06g48110.1	LOC_Os06g48110	29.993		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-743. LOC_Os06g48370.1	LOC_Os06g48370	17.818		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-744. LOC_Os06g48380.1	LOC_Os06g48380	17.818		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-745. LOC_Os06g48400.1	LOC_Os06g48400	17.818		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-746. LOC_Os06g48950.1	LOC_Os06g48950	58.992	OsARF19	"auxin response factor 19, putative, expressed"
-747. LOC_Os06g49080.1	LOC_Os06g49080	32.119	LIC|OsLIC1|OsLIC|OsFLA6	"zinc finger C-x8-C-x5-C-x3-H type family protein, expressed"
-748. LOC_Os06g49290.1	LOC_Os06g49290	13.247		"acanthoscurrin-1 precursor, putative, expressed"
-749. LOC_Os06g50840.1	LOC_Os06g50840	11.174		"zinc finger family protein, putative, expressed"
-750. LOC_Os06g51440.1	LOC_Os06g51440	72.511		"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
-751. LOC_Os07g01430.1	LOC_Os07g01430	29.787		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-752. LOC_Os07g03230.1	LOC_Os07g03230	12.025		"eukaryotic translation initiation factor 3 subunit C, putative, expressed"
-753. LOC_Os07g03230.2	LOC_Os07g03230	12.025		"eukaryotic translation initiation factor 3 subunit C, putative, expressed"
-754. LOC_Os07g03240.1	LOC_Os07g03240	21.463		"RNA recognition motif containing protein, putative, expressed"
-755. LOC_Os07g03560.1	LOC_Os07g03560	27.617		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-756. LOC_Os07g03630.1	LOC_Os07g03630	28.882		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-757. LOC_Os07g05010.3	LOC_Os07g05010	15.274	OsPIL14|OsPIF14	"helix-loop-helix DNA-binding domain containing protein, expressed"
-758. LOC_Os07g05010.2	LOC_Os07g05010	15.274	OsPIL14|OsPIF14	"helix-loop-helix DNA-binding domain containing protein, expressed"
-759. LOC_Os07g05010.1	LOC_Os07g05010	15.274	OsPIL14|OsPIF14	"helix-loop-helix DNA-binding domain containing protein, expressed"
-760. LOC_Os07g05810.1	LOC_Os07g05810	41.51		"glycine-rich protein, putative, expressed"
-761. LOC_Os07g06020.1	LOC_Os07g06020	29.248		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-762. LOC_Os07g06110.1	LOC_Os07g06110	13.399		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-763. LOC_Os07g06130.2	LOC_Os07g06130	15.81	OsEIN2	"ethylene-insensitive protein, putative, expressed"
-764. LOC_Os07g06130.3	LOC_Os07g06130	15.81	OsEIN2	"ethylene-insensitive protein, putative, expressed"
-765. LOC_Os07g06130.1	LOC_Os07g06130	15.81	OsEIN2	"ethylene-insensitive protein, putative, expressed"
-766. LOC_Os07g07220.1	LOC_Os07g07220	24.032		"LSM domain containing protein, expressed"
-767. LOC_Os07g07490.2	LOC_Os07g07490	20.801		"YT521-B, putative, expressed"
-768. LOC_Os07g07490.1	LOC_Os07g07490	20.801		"YT521-B, putative, expressed"
-769. LOC_Os07g08920.1	LOC_Os07g08920	13.208		"retrotransposon protein, putative, unclassified, expressed"
-770. LOC_Os07g09020.1	LOC_Os07g09020	15.47		"argonaute, putative, expressed"
-771. LOC_Os07g11400.1	LOC_Os07g11400	30.706		"retrotransposon protein, putative, unclassified, expressed"
-772. LOC_Os07g11590.1	LOC_Os07g11590	28.87		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-773. LOC_Os07g11640.1	LOC_Os07g11640	20.115		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-774. LOC_Os07g12360.1	LOC_Os07g12360	31.538		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-775. LOC_Os07g13120.1	LOC_Os07g13120	22.732		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-776. LOC_Os07g13280.1	LOC_Os07g13280	19.297		"RNA recognition motif containing protein, putative, expressed"
-777. LOC_Os07g14060.1	LOC_Os07g14060	17.671		"retrotransposon protein, putative, unclassified, expressed"
-778. LOC_Os07g14250.1	LOC_Os07g14250	19.562		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-779. LOC_Os07g14330.1	LOC_Os07g14330	12.963		expressed protein
-780. LOC_Os07g14340.1	LOC_Os07g14340	13.472		"retrotransposon protein, putative, unclassified, expressed"
-781. LOC_Os07g14380.1	LOC_Os07g14380	16.127		"retrotransposon protein, putative, unclassified, expressed"
-782. LOC_Os07g16460.1	LOC_Os07g16460	25.9		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-783. LOC_Os07g16520.1	LOC_Os07g16520	16.937		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-784. LOC_Os07g16560.1	LOC_Os07g16560	29.486		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-785. LOC_Os07g16630.1	LOC_Os07g16630	33.383		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-786. LOC_Os07g16650.1	LOC_Os07g16650	27.992		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-787. LOC_Os07g16700.1	LOC_Os07g16700	17.403		"retrotransposon protein, putative, Ty3-gypsy subclass"
-788. LOC_Os07g16720.1	LOC_Os07g16720	16.899		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-789. LOC_Os07g16750.1	LOC_Os07g16750	20.775		"retrotransposon protein, putative, unclassified, expressed"
-790. LOC_Os07g16770.1	LOC_Os07g16770	33.563		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-791. LOC_Os07g16830.1	LOC_Os07g16830	16.337		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-792. LOC_Os07g16850.1	LOC_Os07g16850	31.026		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-793. LOC_Os07g16860.1	LOC_Os07g16860	33.382		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-794. LOC_Os07g17610.1	LOC_Os07g17610	23.196		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-795. LOC_Os07g17620.1	LOC_Os07g17620	23.196		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-796. LOC_Os07g17800.1	LOC_Os07g17800	31.776		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-797. LOC_Os07g18050.1	LOC_Os07g18050	37.348		"RNA-binding motif protein, putative, expressed"
-798. LOC_Os07g18770.1	LOC_Os07g18770	25.181		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-799. LOC_Os07g20670.1	LOC_Os07g20670	25.319		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-800. LOC_Os07g22200.1	LOC_Os07g22200	12.905		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-801. LOC_Os07g23660.1	LOC_Os07g23660	16.859	RePRP2.1	"retrotransposon protein, putative, unclassified, expressed"
-802. LOC_Os07g24440.1	LOC_Os07g24440	13.792		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-803. LOC_Os07g24520.1	LOC_Os07g24520	13.792		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-804. LOC_Os07g24660.1	LOC_Os07g24660	22.748		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-805. LOC_Os07g24700.1	LOC_Os07g24700	27.444		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-806. LOC_Os07g24990.1	LOC_Os07g24990	14.38		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-807. LOC_Os07g25330.1	LOC_Os07g25330	14.079		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-808. LOC_Os07g25630.1	LOC_Os07g25630	25.974		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-809. LOC_Os07g25810.1	LOC_Os07g25810	16.782		"retrotransposon protein, putative, unclassified, expressed"
-810. LOC_Os07g26040.1	LOC_Os07g26040	13.579		"retrotransposon protein, putative, unclassified, expressed"
-811. LOC_Os07g26390.1	LOC_Os07g26390	12.175		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-812. LOC_Os07g27420.1	LOC_Os07g27420	27.029		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-813. LOC_Os07g27560.1	LOC_Os07g27560	22.954		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-814. LOC_Os07g28510.1	LOC_Os07g28510	17.457		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-815. LOC_Os07g28850.1	LOC_Os07g28850	35.028	AGO18|OsAGO18	"retrotransposon protein, putative, unclassified, expressed"
-816. LOC_Os07g29150.1	LOC_Os07g29150	17.006		"retrotransposon protein, putative, Ty1-copia subclass, expressed"
-817. LOC_Os07g29570.1	LOC_Os07g29570	29.563		"retrotransposon protein, putative, unclassified, expressed"
-818. LOC_Os07g30320.1	LOC_Os07g30320	31.031		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-819. LOC_Os07g30730.1	LOC_Os07g30730	18.294		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-820. LOC_Os07g30880.1	LOC_Os07g30880	18.927		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-821. LOC_Os07g31340.1	LOC_Os07g31340	37.542		"regulator of nonsense transcripts 1, putative, expressed"
-822. LOC_Os07g31340.2	LOC_Os07g31340	37.542		"regulator of nonsense transcripts 1, putative, expressed"
-823. LOC_Os07g31340.3	LOC_Os07g31340	37.214		"regulator of nonsense transcripts 1, putative, expressed"
-824. LOC_Os07g31540.1	LOC_Os07g31540	12.595	CRTintP	"ubiquitin family protein, putative, expressed"
-825. LOC_Os07g32450.1	LOC_Os07g32450	12.269		"protein kinase PKN/PRK1, effector, putative, expressed"
-826. LOC_Os07g32680.1	LOC_Os07g32680	64.006		"retrotransposon protein, putative, unclassified, expressed"
-827. LOC_Os07g32700.1	LOC_Os07g32700	36.305		"retrotransposon protein, putative, unclassified, expressed"
-828. LOC_Os07g32710.1	LOC_Os07g32710	52.339		"retrotransposon protein, putative, unclassified, expressed"
-829. LOC_Os07g33330.1	LOC_Os07g33330	39.44		"RNA recognition motif containing protein, putative, expressed"
-830. LOC_Os07g36940.1	LOC_Os07g36940	16.221	eIF4G	"eukaryotic translation initiation factor 4G, putative, expressed"
-831. LOC_Os07g36940.2	LOC_Os07g36940	16.221	eIF4G	"eukaryotic translation initiation factor 4G, putative, expressed"
-832. LOC_Os07g37610.1	LOC_Os07g37610	11.893	GD1	"B3 DNA binding domain containing protein, putative, expressed"
-833. LOC_Os07g37650.1	LOC_Os07g37650	19.348		"GTPase-activating protein, putative, expressed"
-834. LOC_Os07g38050.1	LOC_Os07g38050	18.607		expressed protein
-835. LOC_Os07g38320.1	LOC_Os07g38320	25.508		"retrotransposon protein, putative, Ty3-gypsy subclass"
-836. LOC_Os07g38340.1	LOC_Os07g38340	29.246		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-837. LOC_Os07g38350.1	LOC_Os07g38350	14.494		"retrotransposon protein, putative, Ty1-copia subclass, expressed"
-838. LOC_Os07g38360.3	LOC_Os07g38360	31.472		expressed protein
-839. LOC_Os07g38360.2	LOC_Os07g38360	31.472		expressed protein
-840. LOC_Os07g38360.4	LOC_Os07g38360	31.472		expressed protein
-841. LOC_Os07g38580.1	LOC_Os07g38580	15.941		"zinc finger family protein, putative, expressed"
-842. LOC_Os07g38780.1	LOC_Os07g38780	14.981		"transposon protein, putative, Pong sub-class"
-843. LOC_Os07g39560.3	LOC_Os07g39560	25.268		"RNA recognition motif containing protein, putative, expressed"
-844. LOC_Os07g39560.1	LOC_Os07g39560	25.268		"RNA recognition motif containing protein, putative, expressed"
-845. LOC_Os07g39560.2	LOC_Os07g39560	25.268		"RNA recognition motif containing protein, putative, expressed"
-846. LOC_Os07g39680.1	LOC_Os07g39680	25.17	OSPGYRP	"UV-induced protein uvi15, putative, expressed"
-847. LOC_Os07g39820.1	LOC_Os07g39820	29.744	OsSHR1	"SHR, putative, expressed"
-848. LOC_Os07g40270.1	LOC_Os07g40270	9.781		"frigida, putative, expressed"
-849. LOC_Os07g40510.1	LOC_Os07g40510	15.19		"retrotransposon protein, putative, unclassified, expressed"
-850. LOC_Os07g40900.1	LOC_Os07g40900	22.185		"retrotransposon protein, putative, unclassified, expressed"
-851. LOC_Os07g41100.1	LOC_Os07g41100	12.017		conserved hypothetical protein
-852. LOC_Os07g41120.1	LOC_Os07g41120	17.142		"RNA recognition motif containing protein, putative, expressed"
-853. LOC_Os07g41180.1	LOC_Os07g41180	60.295		"RNA-binding protein-like, putative, expressed"
-854. LOC_Os07g41580.1	LOC_Os07g41580	22.609		"histone-like transcription factor and archaeal histone, putative, expressed"
-855. LOC_Os07g41600.3	LOC_Os07g41600	20.311		"proline-rich protein, putative, expressed"
-856. LOC_Os07g41600.1	LOC_Os07g41600	20.311		"proline-rich protein, putative, expressed"
-857. LOC_Os07g41600.2	LOC_Os07g41600	20.311		"proline-rich protein, putative, expressed"
-858. LOC_Os07g43790.1	LOC_Os07g43790	20.297		"retrotransposon protein, putative, unclassified, expressed"
-859. LOC_Os07g45064.1	LOC_Os07g45064	16.216		"Phosphatidylinositol kinase and FAT containing domain protein, putative, expressed"
-860. LOC_Os07g45410.1	LOC_Os07g45410	24.462		"retrotransposon protein, putative, Ty1-copia subclass, expressed"
-861. LOC_Os07g45830.1	LOC_Os07g45830	15.323		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-862. LOC_Os07g46180.1	LOC_Os07g46180	18.701		"PWWP domain containing protein, expressed"
-863. LOC_Os07g46370.1	LOC_Os07g46370	38.413		"WD domain, G-beta repeat domain containing protein, expressed"
-864. LOC_Os07g47480.1	LOC_Os07g47480	14.842		"heavy metal-associated domain containing protein, expressed"
-865. LOC_Os07g47480.2	LOC_Os07g47480	14.842		"heavy metal-associated domain containing protein, expressed"
-866. LOC_Os07g48602.1	LOC_Os07g48602	40.808		"EMB1011, putative, expressed"
-867. LOC_Os07g48910.3	LOC_Os07g48910	16.972		"retrotransposon protein, putative, unclassified, expressed"
-868. LOC_Os07g48910.1	LOC_Os07g48910	60.808		"retrotransposon protein, putative, unclassified, expressed"
-869. LOC_Os07g48910.2	LOC_Os07g48910	40.219		"retrotransposon protein, putative, unclassified, expressed"
-870. LOC_Os08g01054.1	LOC_Os08g01054	25.169		"retrotransposon protein, putative, unclassified, expressed"
-871. LOC_Os08g01054.2	LOC_Os08g01054	25.169		"retrotransposon protein, putative, unclassified, expressed"
-872. LOC_Os08g01054.3	LOC_Os08g01054	25.169		"retrotransposon protein, putative, unclassified, expressed"
-873. LOC_Os08g01070.4	LOC_Os08g01070	12.839		"retrotransposon protein, putative, unclassified, expressed"
-874. LOC_Os08g01070.2	LOC_Os08g01070	12.839		"retrotransposon protein, putative, unclassified, expressed"
-875. LOC_Os08g01070.1	LOC_Os08g01070	12.839		"retrotransposon protein, putative, unclassified, expressed"
-876. LOC_Os08g01090.1	LOC_Os08g01090	14.846	IDEF1	"B3 DNA binding domain containing protein, expressed"
-877. LOC_Os08g01690.1	LOC_Os08g01690	9.824		"retrotransposon protein, putative, unclassified, expressed"
-878. LOC_Os08g01930.1	LOC_Os08g01930	132.511		"KH domain-containing protein, putative, expressed"
-879. LOC_Os08g03130.1	LOC_Os08g03130	27.943		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-880. LOC_Os08g04170.1	LOC_Os08g04170	16.49		"zinc finger C-x8-C-x5-C-x3-H type family protein, expressed"
-881. LOC_Os08g04510.1	LOC_Os08g04510	30.22		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-882. LOC_Os08g04730.1	LOC_Os08g04730	22.715		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-883. LOC_Os08g04950.1	LOC_Os08g04950	19.724		"retrotransposon protein, putative, Ty3-gypsy subclass"
-884. LOC_Os08g05940.1	LOC_Os08g05940	50.461		"retrotransposon protein, putative, unclassified, expressed"
-885. LOC_Os08g06310.1	LOC_Os08g06310	29.834		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-886. LOC_Os08g07870.1	LOC_Os08g07870	23.806		"retrotransposon protein, putative, unclassified, expressed"
-887. LOC_Os08g08000.1	LOC_Os08g08000	76.294		"DNA binding protein, putative, expressed"
-888. LOC_Os08g08460.1	LOC_Os08g08460	32.171		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-889. LOC_Os08g08550.1	LOC_Os08g08550	26.26		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-890. LOC_Os08g09100.1	LOC_Os08g09100	28.6		"RNA recognition motif containing protein, putative, expressed"
-891. LOC_Os08g11070.1	LOC_Os08g11070	11.209		"retrotransposon protein, putative, unclassified, expressed"
-892. LOC_Os08g11120.1	LOC_Os08g11120	35.072		"retrotransposon protein, putative, unclassified, expressed"
-893. LOC_Os08g11150.1	LOC_Os08g11150	17.648		"retrotransposon protein, putative, unclassified, expressed"
-894. LOC_Os08g11200.1	LOC_Os08g11200	14.411		"retrotransposon protein, putative, unclassified, expressed"
-895. LOC_Os08g11430.1	LOC_Os08g11430	20.469		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-896. LOC_Os08g11570.1	LOC_Os08g11570	20.115		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-897. LOC_Os08g11780.1	LOC_Os08g11780	16.445		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-898. LOC_Os08g11790.1	LOC_Os08g11790	23.998		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-899. LOC_Os08g11800.1	LOC_Os08g11800	37.561		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-900. LOC_Os08g11830.1	LOC_Os08g11830	16.11		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-901. LOC_Os08g11850.1	LOC_Os08g11850	20.115		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-902. LOC_Os08g11890.1	LOC_Os08g11890	15.726		"retrotransposon protein, putative, unclassified, expressed"
-903. LOC_Os08g11930.1	LOC_Os08g11930	30.939		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-904. LOC_Os08g11950.1	LOC_Os08g11950	12.521		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-905. LOC_Os08g11960.1	LOC_Os08g11960	17.938		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-906. LOC_Os08g11980.1	LOC_Os08g11980	27.865		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-907. LOC_Os08g12010.1	LOC_Os08g12010	31.944		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-908. LOC_Os08g12080.1	LOC_Os08g12080	13.051		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-909. LOC_Os08g12290.1	LOC_Os08g12290	30.589		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-910. LOC_Os08g12300.1	LOC_Os08g12300	27.329		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-911. LOC_Os08g12340.1	LOC_Os08g12340	22.407		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-912. LOC_Os08g12580.1	LOC_Os08g12580	12.128		"retrotransposon protein, putative, unclassified, expressed"
-913. LOC_Os08g12700.1	LOC_Os08g12700	21.448		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-914. LOC_Os08g12760.1	LOC_Os08g12760	16.622		"YT521-B, putative, expressed"
-915. LOC_Os08g12760.3	LOC_Os08g12760	16.622		"YT521-B, putative, expressed"
-916. LOC_Os08g12760.4	LOC_Os08g12760	16.622		"YT521-B, putative, expressed"
-917. LOC_Os08g12760.2	LOC_Os08g12760	15.061		"YT521-B, putative, expressed"
-918. LOC_Os08g12950.1	LOC_Os08g12950	22.576		"transposon protein, putative, Pong sub-class, expressed"
-919. LOC_Os08g14530.1	LOC_Os08g14530	25.365		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-920. LOC_Os08g16000.1	LOC_Os08g16000	31.887		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-921. LOC_Os08g16240.1	LOC_Os08g16240	27.518		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-922. LOC_Os08g17180.1	LOC_Os08g17180	20.013		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-923. LOC_Os08g19730.1	LOC_Os08g19730	18.625		"retrotransposon protein, putative, unclassified, expressed"
-924. LOC_Os08g19890.1	LOC_Os08g19890	27.189		"ZOS8-03 - C2H2 zinc finger protein, expressed"
-925. LOC_Os08g20030.1	LOC_Os08g20030	20.866		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-926. LOC_Os08g20370.1	LOC_Os08g20370	19.511		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-927. LOC_Os08g20410.1	LOC_Os08g20410	19.058		expressed protein
-928. LOC_Os08g20800.1	LOC_Os08g20800	30.548		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-929. LOC_Os08g20849.1	LOC_Os08g20849	30.316		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-930. LOC_Os08g20967.1	LOC_Os08g20967	26.144		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-931. LOC_Os08g21860.1	LOC_Os08g21860	26.176		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-932. LOC_Os08g22284.1	LOC_Os08g22284	16.048		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-933. LOC_Os08g22310.1	LOC_Os08g22310	16.881		"retrotransposon protein, putative, unclassified, expressed"
-934. LOC_Os08g22354.2	LOC_Os08g22354	20.194		"polyadenylate-binding protein, putative, expressed"
-935. LOC_Os08g22354.1	LOC_Os08g22354	20.194		"polyadenylate-binding protein, putative, expressed"
-936. LOC_Os08g23050.1	LOC_Os08g23050	16.196		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-937. LOC_Os08g23070.1	LOC_Os08g23070	28.972		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-938. LOC_Os08g23080.1	LOC_Os08g23080	26.19		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-939. LOC_Os08g23120.1	LOC_Os08g23120	17.357		"RNA recognition motif containing protein, putative, expressed"
-940. LOC_Os08g23170.1	LOC_Os08g23170	17.154		expressed protein
-941. LOC_Os08g23400.1	LOC_Os08g23400	21.648		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-942. LOC_Os08g24050.1	LOC_Os08g24050	14.792		"retrotransposon protein, putative, unclassified, expressed"
-943. LOC_Os08g24560.1	LOC_Os08g24560	28.972		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-944. LOC_Os08g24570.1	LOC_Os08g24570	12.554		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-945. LOC_Os08g24580.1	LOC_Os08g24580	16.071		"retrotransposon protein, putative, Ty3-gypsy subclass"
-946. LOC_Os08g25860.1	LOC_Os08g25860	22.057		expressed protein
-947. LOC_Os08g26350.1	LOC_Os08g26350	18.651		expressed protein
-948. LOC_Os08g26520.1	LOC_Os08g26520	16.018		expressed protein
-949. LOC_Os08g26920.1	LOC_Os08g26920	24.961		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-950. LOC_Os08g27110.1	LOC_Os08g27110	36.124		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-951. LOC_Os08g27900.1	LOC_Os08g27900	15.029		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-952. LOC_Os08g29124.1	LOC_Os08g29124	134.294		expressed protein
-953. LOC_Os08g29250.1	LOC_Os08g29250	29.403		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-954. LOC_Os08g29500.1	LOC_Os08g29500	62.088		"histone-like transcription factor and archaeal histone, putative, expressed"
-955. LOC_Os08g29500.2	LOC_Os08g29500	62.088		"histone-like transcription factor and archaeal histone, putative, expressed"
-956. LOC_Os08g30010.1	LOC_Os08g30010	21.118		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-957. LOC_Os08g30190.1	LOC_Os08g30190	26.308		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-958. LOC_Os08g30940.1	LOC_Os08g30940	24.513		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-959. LOC_Os08g31080.1	LOC_Os08g31080	16.936		"DUF260 domain containing protein, putative, expressed"
-960. LOC_Os08g31540.1	LOC_Os08g31540	30.963		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-961. LOC_Os08g32100.1	LOC_Os08g32100	17.429		"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
-962. LOC_Os08g32790.1	LOC_Os08g32790	17.376		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-963. LOC_Os08g33830.2	LOC_Os08g33830	13.431		"polypyrimidine tract-binding protein, putative, expressed"
-964. LOC_Os08g33830.1	LOC_Os08g33830	13.431		"polypyrimidine tract-binding protein, putative, expressed"
-965. LOC_Os08g34390.1	LOC_Os08g34390	34.373		"retrotransposon protein, putative, unclassified, expressed"
-966. LOC_Os08g35270.1	LOC_Os08g35270	20.816		"retrotransposon protein, putative, Ty3-gypsy subclass"
-967. LOC_Os08g35540.1	LOC_Os08g35540	24.085		"retrotransposon protein, putative, unclassified, expressed"
-968. LOC_Os08g36620.1	LOC_Os08g36620	25.912		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-969. LOC_Os08g38240.1	LOC_Os08g38240	30.387		"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
-970. LOC_Os08g38370.1	LOC_Os08g38370	28.93		"zinc finger C-x8-C-x5-C-x3-H type family protein, expressed"
-971. LOC_Os08g38410.3	LOC_Os08g38410	14.819	OsRBGD3	"RNA recognition motif containing protein, putative, expressed"
-972. LOC_Os08g39310.1	LOC_Os08g39310	26.562		"SWIB/MDM2 domain containing protein, expressed"
-973. LOC_Os08g40770.1	LOC_Os08g40770	16.808		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-974. LOC_Os08g40900.2	LOC_Os08g40900	32.694		"auxin response factor, putative, expressed"
-975. LOC_Os08g40900.1	LOC_Os08g40900	32.694		"auxin response factor, putative, expressed"
-976. LOC_Os08g41010.3	LOC_Os08g41010	17.858		"zinc finger family protein, putative, expressed"
-977. LOC_Os08g41010.6	LOC_Os08g41010	17.858		"zinc finger family protein, putative, expressed"
-978. LOC_Os08g41010.5	LOC_Os08g41010	17.282		"zinc finger family protein, putative, expressed"
-979. LOC_Os08g41010.1	LOC_Os08g41010	17.282		"zinc finger family protein, putative, expressed"
-980. LOC_Os08g41010.4	LOC_Os08g41010	17.858		"zinc finger family protein, putative, expressed"
-981. LOC_Os08g41010.7	LOC_Os08g41010	17.427		"zinc finger family protein, putative, expressed"
-982. LOC_Os08g41010.2	LOC_Os08g41010	17.282		"zinc finger family protein, putative, expressed"
-983. LOC_Os08g42450.1	LOC_Os08g42450	22.125		"annexin A7, putative, expressed"
-984. LOC_Os08g43060.2	LOC_Os08g43060	15.123		expressed protein
-985. LOC_Os08g43060.1	LOC_Os08g43060	15.123		expressed protein
-986. LOC_Os08g43060.3	LOC_Os08g43060	15.123		expressed protein
-987. LOC_Os08g43160.1	LOC_Os08g43160	12.572	PCF2|OsPCF2	"TCP family transcription factor, putative, expressed"
-988. LOC_Os08g44200.1	LOC_Os08g44200	13.519		"ECT5, putative, expressed"
-989. LOC_Os08g44390.1	LOC_Os08g44390	15.559		"EF hand family protein, putative, expressed"
-990. LOC_Os08g44390.2	LOC_Os08g44390	15.559		"EF hand family protein, putative, expressed"
-991. LOC_Os08g44390.4	LOC_Os08g44390	15.559		"EF hand family protein, putative, expressed"
-992. LOC_Os08g44390.3	LOC_Os08g44390	15.559		"EF hand family protein, putative, expressed"
-993. LOC_Os08g44850.1	LOC_Os08g44850	17.101		"C2 domain containing protein, putative, expressed"
-994. LOC_Os08g45080.1	LOC_Os08g45080	165.952		expressed protein
-995. LOC_Os09g01060.1	LOC_Os09g01060	28.913		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-996. LOC_Os09g01100.1	LOC_Os09g01100	16.636		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-997. LOC_Os09g01170.1	LOC_Os09g01170	23.098		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-998. LOC_Os09g01250.1	LOC_Os09g01250	28.989		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-999. LOC_Os09g01260.1	LOC_Os09g01260	17.649		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1000. LOC_Os09g01270.1	LOC_Os09g01270	16.394		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1001. LOC_Os09g01460.1	LOC_Os09g01460	11.818		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1002. LOC_Os09g02020.1	LOC_Os09g02020	22.635		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1003. LOC_Os09g02700.1	LOC_Os09g02700	25.127		"polyadenylate-binding protein, putative, expressed"
-1004. LOC_Os09g03110.1	LOC_Os09g03110	20.612		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1005. LOC_Os09g03350.1	LOC_Os09g03350	13.223		"retrotransposon protein, putative, Ty3-gypsy subclass"
-1006. LOC_Os09g03420.1	LOC_Os09g03420	17.291		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1007. LOC_Os09g03610.2	LOC_Os09g03610	63.136	FCA|OsFCA	"flowering time control protein FCA, putative, expressed"
-1008. LOC_Os09g03610.1	LOC_Os09g03610	63.136	FCA|OsFCA	"flowering time control protein FCA, putative, expressed"
-1009. LOC_Os09g03610.4	LOC_Os09g03610	63.136	FCA|OsFCA	"flowering time control protein FCA, putative, expressed"
-1010. LOC_Os09g03610.3	LOC_Os09g03610	63.136	FCA|OsFCA	"flowering time control protein FCA, putative, expressed"
-1011. LOC_Os09g03830.1	LOC_Os09g03830	22.303		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1012. LOC_Os09g04670.1	LOC_Os09g04670	55.536		"DAG protein, chloroplast precursor, putative, expressed"
-1013. LOC_Os09g06150.1	LOC_Os09g06150	13.238		"retrotransposon protein, putative, unclassified, expressed"
-1014. LOC_Os09g06270.1	LOC_Os09g06270	20.323		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1015. LOC_Os09g08180.1	LOC_Os09g08180	18.115		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1016. LOC_Os09g08900.1	LOC_Os09g08900	17.714		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1017. LOC_Os09g09050.1	LOC_Os09g09050	12.841		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1018. LOC_Os09g09100.1	LOC_Os09g09100	17.121		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1019. LOC_Os09g09130.1	LOC_Os09g09130	12.405		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1020. LOC_Os09g09770.1	LOC_Os09g09770	16.899		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1021. LOC_Os09g09960.1	LOC_Os09g09960	27.139		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1022. LOC_Os09g10240.1	LOC_Os09g10240	17.231		"retrotransposon protein, putative, unclassified, expressed"
-1023. LOC_Os09g10470.1	LOC_Os09g10470	26.98		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1024. LOC_Os09g11360.1	LOC_Os09g11360	23.608		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1025. LOC_Os09g11880.1	LOC_Os09g11880	15.766		"retrotransposon protein, putative, unclassified, expressed"
-1026. LOC_Os09g11970.1	LOC_Os09g11970	12.881		"keratin, type II cytoskeletal 2 epidermal, putative, expressed"
-1027. LOC_Os09g12890.1	LOC_Os09g12890	18.078		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1028. LOC_Os09g12940.1	LOC_Os09g12940	28.509		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1029. LOC_Os09g13100.1	LOC_Os09g13100	11.099		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1030. LOC_Os09g13150.1	LOC_Os09g13150	15.74		"retrotransposon protein, putative, unclassified, expressed"
-1031. LOC_Os09g13180.1	LOC_Os09g13180	28.217		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1032. LOC_Os09g13610.1	LOC_Os09g13610	121.952	OsMED25	"PFT1, putative, expressed"
-1033. LOC_Os09g13610.3	LOC_Os09g13610	38.731	OsMED25	"PFT1, putative, expressed"
-1034. LOC_Os09g13710.1	LOC_Os09g13710	29.086		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1035. LOC_Os09g14340.1	LOC_Os09g14340	31.314		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1036. LOC_Os09g14360.1	LOC_Os09g14360	28.681		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1037. LOC_Os09g15470.1	LOC_Os09g15470	14.975		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1038. LOC_Os09g16350.1	LOC_Os09g16350	18.348		"retrotransposon protein, putative, Ty3-gypsy subclass"
-1039. LOC_Os09g17020.1	LOC_Os09g17020	33.446		"retrotransposon protein, putative, Ty1-copia subclass, expressed"
-1040. LOC_Os09g17030.1	LOC_Os09g17030	19.448		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1041. LOC_Os09g17210.1	LOC_Os09g17210	11.212		"retrotransposon protein, putative, unclassified"
-1042. LOC_Os09g17410.1	LOC_Os09g17410	25.619		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1043. LOC_Os09g17450.1	LOC_Os09g17450	21.08		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1044. LOC_Os09g21640.1	LOC_Os09g21640	28.525		"retrotransposon protein, putative, Ty3-gypsy subclass"
-1045. LOC_Os09g21860.1	LOC_Os09g21860	24.952		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1046. LOC_Os09g22310.1	LOC_Os09g22310	19.041		"retrotransposon protein, putative, unclassified, expressed"
-1047. LOC_Os09g24090.1	LOC_Os09g24090	30.28		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1048. LOC_Os09g25040.1	LOC_Os09g25040	17.706		"joka8, putative, expressed"
-1049. LOC_Os09g25690.1	LOC_Os09g25690	34.418		"retrotransposon protein, putative, unclassified, expressed"
-1050. LOC_Os09g25710.1	LOC_Os09g25710	9.638		"keratin, type I cytoskeletal 9, putative, expressed"
-1051. LOC_Os09g25720.1	LOC_Os09g25720	11.042		"glycine-rich cell wall structural protein 2 precursor, putative, expressed"
-1052. LOC_Os09g28260.1	LOC_Os09g28260	17.376		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1053. LOC_Os09g29980.2	LOC_Os09g29980	27.25		"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
-1054. LOC_Os09g29980.1	LOC_Os09g29980	27.25		"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
-1055. LOC_Os09g30400.3	LOC_Os09g30400	14.639	OsWRKY80	"WRKY90, expressed"
-1056. LOC_Os09g30400.2	LOC_Os09g30400	14.639	OsWRKY80	"WRKY90, expressed"
-1057. LOC_Os09g30400.1	LOC_Os09g30400	14.639	OsWRKY80	"WRKY90, expressed"
-1058. LOC_Os09g30494.1	LOC_Os09g30494	22.303		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1059. LOC_Os09g33480.1	LOC_Os09g33480	69.658		"DAG protein, chloroplast precursor, putative, expressed"
-1060. LOC_Os09g33559.1	LOC_Os09g33559	20.664		"proline-rich family protein, putative, expressed"
-1061. LOC_Os09g34060.1	LOC_Os09g34060	32.148	RF2a|OsbZIP75	"transcription factor RF2a, putative, expressed"
-1062. LOC_Os09g34070.2	LOC_Os09g34070	17.834	OsRRMh	"RNA recognition motif containing protein, expressed"
-1063. LOC_Os09g34070.1	LOC_Os09g34070	17.834	OsRRMh	"RNA recognition motif containing protein, expressed"
-1064. LOC_Os09g36090.1	LOC_Os09g36090	56.528		"plus-3 domain containing protein, expressed"
-1065. LOC_Os09g36920.1	LOC_Os09g36920	35.992		"la domain containing protein, putative, expressed"
-1066. LOC_Os09g37520.1	LOC_Os09g37520	34.553		"DUF630/DUF632 domains containing protein, putative, expressed"
-1067. LOC_Os09g38180.1	LOC_Os09g38180	34.543		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1068. LOC_Os09g38340.3	LOC_Os09g38340	14.978		"ZOS9-17 - C2H2 zinc finger protein, expressed"
-1069. LOC_Os09g38340.2	LOC_Os09g38340	14.978		"ZOS9-17 - C2H2 zinc finger protein, expressed"
-1070. LOC_Os09g38340.1	LOC_Os09g38340	14.978		"ZOS9-17 - C2H2 zinc finger protein, expressed"
-1071. LOC_Os09g39770.1	LOC_Os09g39770	14.803	OsC2DP	"C2 domain containing protein, putative, expressed"
-1072. LOC_Os10g01890.1	LOC_Os10g01890	24.035		"retrotransposon protein, putative, unclassified, expressed"
-1073. LOC_Os10g01960.1	LOC_Os10g01960	15.387		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1074. LOC_Os10g02950.1	LOC_Os10g02950	11.845		hypothetical protein
-1075. LOC_Os10g02960.1	LOC_Os10g02960	9.746		"retrotransposon protein, putative, Ty1-copia subclass, expressed"
-1076. LOC_Os10g06070.1	LOC_Os10g06070	19.814		"retrotransposon protein, putative, unclassified, expressed"
-1077. LOC_Os10g06170.1	LOC_Os10g06170	29.544		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1078. LOC_Os10g06230.1	LOC_Os10g06230	12.53		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1079. LOC_Os10g06270.1	LOC_Os10g06270	15.296		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1080. LOC_Os10g06310.1	LOC_Os10g06310	32.472		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1081. LOC_Os10g06330.1	LOC_Os10g06330	29.403		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1082. LOC_Os10g06450.1	LOC_Os10g06450	30.28		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1083. LOC_Os10g06520.1	LOC_Os10g06520	16.636		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1084. LOC_Os10g06910.1	LOC_Os10g06910	19.751		expressed protein
-1085. LOC_Os10g08820.1	LOC_Os10g08820	18.474		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1086. LOC_Os10g09060.1	LOC_Os10g09060	16.021		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1087. LOC_Os10g09220.1	LOC_Os10g09220	26.866		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1088. LOC_Os10g09490.1	LOC_Os10g09490	29.447		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1089. LOC_Os10g10100.1	LOC_Os10g10100	21.928		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1090. LOC_Os10g10460.1	LOC_Os10g10460	22.712		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1091. LOC_Os10g11190.1	LOC_Os10g11190	17.705		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1092. LOC_Os10g11430.1	LOC_Os10g11430	13.311		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1093. LOC_Os10g11672.1	LOC_Os10g11672	26.716		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1094. LOC_Os10g11690.1	LOC_Os10g11690	31.792		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1095. LOC_Os10g11702.1	LOC_Os10g11702	31.94		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1096. LOC_Os10g12630.1	LOC_Os10g12630	17.442		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1097. LOC_Os10g12670.1	LOC_Os10g12670	30.589		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1098. LOC_Os10g12710.1	LOC_Os10g12710	29.44		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1099. LOC_Os10g12770.1	LOC_Os10g12770	28.094		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1100. LOC_Os10g12808.1	LOC_Os10g12808	29.483		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1101. LOC_Os10g13350.1	LOC_Os10g13350	30.589		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1102. LOC_Os10g13610.1	LOC_Os10g13610	13.493		"retrotransposon protein, putative, unclassified, expressed"
-1103. LOC_Os10g13670.1	LOC_Os10g13670	27.508		"Zinc finger, C3HC4 type domain containing protein, expressed"
-1104. LOC_Os10g15060.1	LOC_Os10g15060	12.32		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1105. LOC_Os10g16480.1	LOC_Os10g16480	29.13		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1106. LOC_Os10g16550.1	LOC_Os10g16550	25.364		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1107. LOC_Os10g16600.1	LOC_Os10g16600	28.971		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1108. LOC_Os10g16640.1	LOC_Os10g16640	30.085		expressed protein
-1109. LOC_Os10g16640.2	LOC_Os10g16640	30.085		expressed protein
-1110. LOC_Os10g16720.1	LOC_Os10g16720	16.078		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1111. LOC_Os10g16900.1	LOC_Os10g16900	16.552		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1112. LOC_Os10g16910.1	LOC_Os10g16910	30.589		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1113. LOC_Os10g16950.1	LOC_Os10g16950	20.729		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1114. LOC_Os10g17050.1	LOC_Os10g17050	22.303		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1115. LOC_Os10g17340.1	LOC_Os10g17340	28.989		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1116. LOC_Os10g17360.1	LOC_Os10g17360	29.575		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1117. LOC_Os10g17380.1	LOC_Os10g17380	10.857		"retrotransposon protein, putative, unclassified"
-1118. LOC_Os10g17410.1	LOC_Os10g17410	14.617		"retrotransposon protein, putative, unclassified, expressed"
-1119. LOC_Os10g17454.3	LOC_Os10g17454	32.409		"RNA recognition motif containing protein, expressed"
-1120. LOC_Os10g17454.2	LOC_Os10g17454	39.713		"RNA recognition motif containing protein, expressed"
-1121. LOC_Os10g17454.1	LOC_Os10g17454	39.713		"RNA recognition motif containing protein, expressed"
-1122. LOC_Os10g17560.1	LOC_Os10g17560	16.078		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1123. LOC_Os10g17800.1	LOC_Os10g17800	20.682		"retrotransposon protein, putative, unclassified, expressed"
-1124. LOC_Os10g17820.1	LOC_Os10g17820	17.623		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1125. LOC_Os10g18364.1	LOC_Os10g18364	16.581		"ZOS10-03 - C2H2 zinc finger protein, expressed"
-1126. LOC_Os10g18660.1	LOC_Os10g18660	23.487		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1127. LOC_Os10g20020.1	LOC_Os10g20020	27.743		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1128. LOC_Os10g20030.1	LOC_Os10g20030	25.256		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1129. LOC_Os10g20570.1	LOC_Os10g20570	13.493		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1130. LOC_Os10g24420.1	LOC_Os10g24420	29.854		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1131. LOC_Os10g24510.1	LOC_Os10g24510	25.526		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1132. LOC_Os10g24560.1	LOC_Os10g24560	27.444		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1133. LOC_Os10g24580.1	LOC_Os10g24580	26.918		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1134. LOC_Os10g24620.1	LOC_Os10g24620	17.398		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1135. LOC_Os10g25200.1	LOC_Os10g25200	142.24		expressed protein
-1136. LOC_Os10g25220.1	LOC_Os10g25220	20.267		"SAP domain containing protein, expressed"
-1137. LOC_Os10g25530.1	LOC_Os10g25530	29.403		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1138. LOC_Os10g25720.1	LOC_Os10g25720	16.184		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1139. LOC_Os10g26210.1	LOC_Os10g26210	21.758		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1140. LOC_Os10g26950.1	LOC_Os10g26950	21.819		"retrotransposon protein, putative, Ty1-copia subclass, expressed"
-1141. LOC_Os10g29490.1	LOC_Os10g29490	29.961		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1142. LOC_Os10g29980.1	LOC_Os10g29980	17.162		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1143. LOC_Os10g30450.1	LOC_Os10g30450	11.143		"heavy-metal-associated domain-containing protein, putative, expressed"
-1144. LOC_Os10g31320.2	LOC_Os10g31320	31.009		"retrotransposon protein, putative, unclassified, expressed"
-1145. LOC_Os10g31320.1	LOC_Os10g31320	64.158		"retrotransposon protein, putative, unclassified, expressed"
-1146. LOC_Os10g31330.3	LOC_Os10g31330	36.927	Osgrp-2|OsGRP2	"retrotransposon protein, putative, unclassified, expressed"
-1147. LOC_Os10g31330.6	LOC_Os10g31330	46.071	Osgrp-2|OsGRP2	"retrotransposon protein, putative, unclassified, expressed"
-1148. LOC_Os10g31330.1	LOC_Os10g31330	52.498	Osgrp-2|OsGRP2	"retrotransposon protein, putative, unclassified, expressed"
-1149. LOC_Os10g31330.2	LOC_Os10g31330	49.135	Osgrp-2|OsGRP2	"retrotransposon protein, putative, unclassified, expressed"
-1150. LOC_Os10g31330.5	LOC_Os10g31330	45.485	Osgrp-2|OsGRP2	"retrotransposon protein, putative, unclassified, expressed"
-1151. LOC_Os10g31370.1	LOC_Os10g31370	25.079		"retrotransposon protein, putative, unclassified, expressed"
-1152. LOC_Os10g31380.1	LOC_Os10g31380	52.452		"glycine-rich cell wall structural protein 2 precursor, putative, expressed"
-1153. LOC_Os10g31420.1	LOC_Os10g31420	79.815		"retrotransposon protein, putative, unclassified, expressed"
-1154. LOC_Os10g31440.1	LOC_Os10g31440	100.146		"retrotransposon protein, putative, unclassified, expressed"
-1155. LOC_Os10g31440.2	LOC_Os10g31440	95.372		"retrotransposon protein, putative, unclassified, expressed"
-1156. LOC_Os10g31460.4	LOC_Os10g31460	41.016	CAI1	"retrotransposon protein, putative, unclassified, expressed"
-1157. LOC_Os10g31460.5	LOC_Os10g31460	45.405	CAI1	"retrotransposon protein, putative, unclassified, expressed"
-1158. LOC_Os10g31460.2	LOC_Os10g31460	53.237	CAI1	"retrotransposon protein, putative, unclassified, expressed"
-1159. LOC_Os10g31460.1	LOC_Os10g31460	63.125	CAI1	"retrotransposon protein, putative, unclassified, expressed"
-1160. LOC_Os10g31490.1	LOC_Os10g31490	61.153		"retrotransposon protein, putative, unclassified, expressed"
-1161. LOC_Os10g31500.1	LOC_Os10g31500	48.181		"retrotransposon protein, putative, unclassified, expressed"
-1162. LOC_Os10g31510.1	LOC_Os10g31510	44.074		"glycine-rich cell wall structural protein 2 precursor, putative, expressed"
-1163. LOC_Os10g31530.1	LOC_Os10g31530	45.669		"glycine-rich cell wall protein, putative, expressed"
-1164. LOC_Os10g31540.1	LOC_Os10g31540	53.218		"glycine-rich cell wall structural protein 2 precursor, putative, expressed"
-1165. LOC_Os10g31560.1	LOC_Os10g31560	26.599		"glycine-rich cell wall structural protein 2 precursor, putative, expressed"
-1166. LOC_Os10g31690.1	LOC_Os10g31690	24.459		"glycine-rich cell wall structural protein 2 precursor, putative, expressed"
-1167. LOC_Os10g31620.1	LOC_Os10g31620	12.738		"glycine-rich cell wall structural protein 2 precursor, putative, expressed"
-1168. LOC_Os10g31630.1	LOC_Os10g31630	34.221		expressed protein
-1169. LOC_Os10g31640.1	LOC_Os10g31640	50.834		"glycine-rich cell wall structural protein 2 precursor, putative, expressed"
-1170. LOC_Os10g31660.1	LOC_Os10g31660	53.098		"glycine-rich cell wall structural protein 2 precursor, putative, expressed"
-1171. LOC_Os10g31670.1	LOC_Os10g31670	60.024		"retrotransposon protein, putative, unclassified, expressed"
-1172. LOC_Os10g31680.1	LOC_Os10g31680	52.721		"glycine-rich cell wall structural protein 2 precursor, putative, expressed"
-1173. LOC_Os10g31710.1	LOC_Os10g31710	54.296		"glycine-rich cell wall structural protein 2 precursor, putative, expressed"
-1174. LOC_Os10g31720.1	LOC_Os10g31720	47.385		"glycine-rich cell wall structural protein 2 precursor, putative, expressed"
-1175. LOC_Os10g31730.1	LOC_Os10g31730	46.606		"retrotransposon protein, putative, unclassified, expressed"
-1176. LOC_Os10g31740.1	LOC_Os10g31740	38.857		"glycine-rich cell wall structural protein 2 precursor, putative, expressed"
-1177. LOC_Os10g31900.1	LOC_Os10g31900	23.932		"RNA recognition motif containing protein, putative, expressed"
-1178. LOC_Os10g32850.1	LOC_Os10g32850	13.96		expressed protein
-1179. LOC_Os10g33230.1	LOC_Os10g33230	76.244		"RNA recognition motif containing protein, putative, expressed"
-1180. LOC_Os10g34380.1	LOC_Os10g34380	18.906		"retrotransposon protein, putative, unclassified, expressed"
-1181. LOC_Os10g34500.1	LOC_Os10g34500	12.596		"ZOS10-05 - C2H2 zinc finger protein, expressed"
-1182. LOC_Os10g35190.1	LOC_Os10g35190	21.918		"ZOS10-06 - C2H2 zinc finger protein, expressed"
-1183. LOC_Os10g35250.1	LOC_Os10g35250	51.733		"vacuolar protein-sorting protein bro1, putative, expressed"
-1184. LOC_Os10g35990.2	LOC_Os10g35990	40.497		"DEAD-box ATP-dependent RNA helicase, putative, expressed"
-1185. LOC_Os10g35990.1	LOC_Os10g35990	40.497		"DEAD-box ATP-dependent RNA helicase, putative, expressed"
-1186. LOC_Os10g38060.1	LOC_Os10g38060	36.68	OsPLDbeta1	"phospholipase D, putative, expressed"
-1187. LOC_Os10g38060.2	LOC_Os10g38060	36.68	OsPLDbeta1	"phospholipase D, putative, expressed"
-1188. LOC_Os10g38370.1	LOC_Os10g38370	22.533		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1189. LOC_Os10g38402.1	LOC_Os10g38402	12.884		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1190. LOC_Os10g39620.1	LOC_Os10g39620	13.565	RIF2	"ubiquitin family protein, putative, expressed"
-1191. LOC_Os10g39620.2	LOC_Os10g39620	13.565	RIF2	"ubiquitin family protein, putative, expressed"
-1192. LOC_Os10g40890.1	LOC_Os10g40890	16.916		"retrotransposon protein, putative, unclassified, expressed"
-1193. LOC_Os10g42364.1	LOC_Os10g42364	31.961		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1194. LOC_Os10g42950.1	LOC_Os10g42950	19.508		"cyclin-dependent kinase E-1, putative, expressed"
-1195. LOC_Os10g42950.3	LOC_Os10g42950	19.508		"cyclin-dependent kinase E-1, putative, expressed"
-1196. LOC_Os11g01700.1	LOC_Os11g01700	12.769		"retrotransposon protein, putative, Ty1-copia subclass, expressed"
-1197. LOC_Os11g01710.1	LOC_Os11g01710	12.769		"retrotransposon protein, putative, Ty1-copia subclass"
-1198. LOC_Os11g02320.2	LOC_Os11g02320	15.681		"nucleotidyltransferase, putative, expressed"
-1199. LOC_Os11g02320.3	LOC_Os11g02320	15.681		"nucleotidyltransferase, putative, expressed"
-1200. LOC_Os11g02320.1	LOC_Os11g02320	15.681		"nucleotidyltransferase, putative, expressed"
-1201. LOC_Os11g02780.1	LOC_Os11g02780	28.009		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1202. LOC_Os11g03310.1	LOC_Os11g03310	16.496		"no apical meristem protein, putative, expressed"
-1203. LOC_Os11g03570.1	LOC_Os11g03570	26.657		"protein of unknown function, DUF618 domain containing protein, expressed"
-1204. LOC_Os11g04480.1	LOC_Os11g04480	25.508		"peflin, putative, expressed"
-1205. LOC_Os11g05010.2	LOC_Os11g05010	70.53		"heavy-metal-associated domain-containing protein, putative, expressed"
-1206. LOC_Os11g05010.1	LOC_Os11g05010	70.53		"heavy-metal-associated domain-containing protein, putative, expressed"
-1207. LOC_Os11g05010.3	LOC_Os11g05010	70.53		"heavy-metal-associated domain-containing protein, putative, expressed"
-1208. LOC_Os11g05840.1	LOC_Os11g05840	13.435		"retrotransposon protein, putative, Ty1-copia subclass, expressed"
-1209. LOC_Os11g06170.2	LOC_Os11g06170	29.243	OsbZIP81	"bZIP transcriptional activator RSG, putative, expressed"
-1210. LOC_Os11g06920.1	LOC_Os11g06920	27.815		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1211. LOC_Os11g08080.1	LOC_Os11g08080	25.065	OsSWI3C|OsCHB705|CHB705	"SWIRM domain containing protein, expressed"
-1212. LOC_Os11g08150.1	LOC_Os11g08150	29.404		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1213. LOC_Os11g10060.1	LOC_Os11g10060	26.537		"transcriptional corepressor SEUSS, putative, expressed"
-1214. LOC_Os11g10070.1	LOC_Os11g10070	36.159		"transcriptional corepressor SEUSS, putative, expressed"
-1215. LOC_Os11g10490.1	LOC_Os11g10490	14.451		"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
-1216. LOC_Os11g10900.1	LOC_Os11g10900	16.301		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1217. LOC_Os11g11020.1	LOC_Os11g11020	62.1		"DAG protein, chloroplast precursor, putative, expressed"
-1218. LOC_Os11g11160.1	LOC_Os11g11160	23.04		"retrotransposon protein, putative, Ty3-gypsy subclass"
-1219. LOC_Os11g12060.1	LOC_Os11g12060	20.106		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-1220. LOC_Os11g12090.1	LOC_Os11g12090	30.899		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-#REF!	LOC_Os11g12130	20.115		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g12210	30.589		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g12850	16.648		"retrotransposon protein, putative, Ty3-gypsy subclass"
-	LOC_Os11g12874	16.648		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g14090	17.194		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os11g14300	35.431		"la domain containing protein, expressed"
-	LOC_Os11g14580	14.002		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g16870	15.038		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g17230	16.592		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g18410	26.763		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g19130	24.45		expressed protein
-	LOC_Os11g19420	27.236		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g19520	18.891		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os11g19970	13.345		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g20450	12.679		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g21790	19.833		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g22342	24.869		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g22430	12.175		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g22900	21.088		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g23736	18.555		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g23870	15.901		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g24012	22.965		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g26050	22.354		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g26370	19.65		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g26540	17.757		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g26670	26.838		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g27210	9.79		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os11g27410	16.472		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g27790	13.656		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os11g28250	13.224		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os11g30700	24.731		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os11g30990	14.858		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os11g31230	29.123		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g31510	20.367		"transposon protein, putative, Pong sub-class, expressed"
-	LOC_Os11g31890	14.213		"NLI interacting factor-like phosphatase, putative, expressed"
-	LOC_Os11g32270	13.486		"N-rich protein, putative, expressed"
-	LOC_Os11g32270	13.486		"N-rich protein, putative, expressed"
-	LOC_Os11g32270	13.486		"N-rich protein, putative, expressed"
-	LOC_Os11g32720	15.097		"zinc knuckle domain containing protein, expressed"
-	LOC_Os11g33000	18.029		"SSA5 - 2S albumin seed storage family protein precursor, expressed"
-	LOC_Os11g33030	13.968		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os11g34290	20.851		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g34490	16.974		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g35740	36.756		"retrotransposon protein, putative, Ty1-copia subclass, expressed"
-	LOC_Os11g35750	19.995		expressed protein
-	LOC_Os11g37090	22.069		"pumilio-family RNA binding repeat domain containing protein, expressed"
-	LOC_Os11g37440	17.191		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g38090	15.859		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g38870	14.025	OsbHLH061	"helix-loop-helix DNA-binding domain containing protein, expressed"
-	LOC_Os11g38870	14.025	OsbHLH061	"helix-loop-helix DNA-binding domain containing protein, expressed"
-	LOC_Os11g39170	21.212		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os11g39790	28.729		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g40100	22.033		"GRF-interacting factor 2, putative, expressed"
-	LOC_Os11g40100	24.102		"GRF-interacting factor 2, putative, expressed"
-	LOC_Os11g40450	18.301		"retrotransposon protein, putative, Ty1-copia subclass, expressed"
-	LOC_Os11g40470	28.559		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g40730	31.858		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g41890	46.989	LGG	"RNA recognition motif containing protein, putative, expressed"
-	LOC_Os11g42630	22.972		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g44150	31.508		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g44730	30.931		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os11g44770	33.895		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os11g46240	128.593		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os12g01320	31.025		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g02260	18.407		"nucleotidyltransferase, putative, expressed"
-	LOC_Os12g02260	18.407		"nucleotidyltransferase, putative, expressed"
-	LOC_Os12g02770	25.33		"retrotransposon protein, putative, Ty1-copia subclass, expressed"
-	LOC_Os12g03050	17.484	ONAC300	"no apical meristem protein, putative, expressed"
-	LOC_Os12g03340	27.29		"protein of unknown function, DUF618 domain containing protein, expressed"
-	LOC_Os12g03760	28.542		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g04240	22.36	OsCBP	"peflin, putative, expressed"
-	LOC_Os12g04240	22.36	OsCBP	"peflin, putative, expressed"
-	LOC_Os12g04810	20.763		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g05040	74.893		"heavy-metal-associated domain-containing protein, putative, expressed"
-	LOC_Os12g05040	72.152		"heavy-metal-associated domain-containing protein, putative, expressed"
-	LOC_Os12g05040	74.893		"heavy-metal-associated domain-containing protein, putative, expressed"
-	LOC_Os12g05040	74.893		"heavy-metal-associated domain-containing protein, putative, expressed"
-	LOC_Os12g05920	12.128		"ZOS12-01 - C2H2 zinc finger protein, expressed"
-	LOC_Os12g06520	30.226	RSG	"bZIP transcription factor domain containing protein, expressed"
-	LOC_Os12g06870	26.574		"OsNucAP2 - Putative Nucleoporin Autopeptidase homologue, expressed"
-	LOC_Os12g06890	23.97		"OsNucAP3 - Putative Nucleoporin Autopeptidase homologue, expressed"
-	LOC_Os12g07480	13.18		"TCP family transcription factor, putative, expressed"
-	LOC_Os12g07730	65.865		"SWIRM domain containing protein, expressed"
-	LOC_Os12g07750	27.757		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g08510	23.585		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g09800	17.278		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os12g09990	13.141		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os12g11290	13.202		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g12020	15.328		"retrotransposon protein, putative, Ty1-copia subclass"
-	LOC_Os12g12060	17.165		"retrotransposon protein, putative, Ty1-copia subclass"
-	LOC_Os12g12410	16.078		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g12800	30.504		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g13840	51.851		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os12g13860	41.254		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os12g13890	90.315		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os12g13890	32.204		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os12g13990	18.964		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g14374	19.802		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g14460	16.2		"retrotransposon protein, putative, Ty3-gypsy subclass"
-	LOC_Os12g14800	24.124		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g14984	13.798		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os12g15750	23.589		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g15820	23.589		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g17510	21.959		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g18350	16.726		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g18460	26.672		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g19150	30.403		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g19620	33.923		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g19700	20.73		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g19750	25.97		"retrotransposon protein, putative, Ty3-gypsy subclass"
-	LOC_Os12g19900	27.444		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g19920	29.36		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g19980	29.403		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g20110	15.75		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g20270	26.867		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g20450	18.88		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g20470	21.418		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g21580	16.426		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g22040	35.132		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os12g22200	37.021		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os12g22250	27.227		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g22990	30.899		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g23120	23.364		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g23130	20.605		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g23580	29.36		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g24100	14.741		"retrotransposon protein, putative, unclassified"
-	LOC_Os12g24110	27.113		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g24220	27.452		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os12g24250	45.949		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os12g25910	18.064		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g26260	18.13		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g26340	28.483		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g26710	14.759		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g27150	29.483		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g27870	30.901		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g27880	20.425		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g27994	38.015	DEC	expressed protein
-	LOC_Os12g27994	24.816	DEC	expressed protein
-	LOC_Os12g28470	18.251		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g28490	28.053		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g28920	27.786		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g28990	30.354		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g29020	29.903		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g29070	25.47		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g29100	19.511		"retrotransposon protein, putative, Ty3-gypsy subclass"
-	LOC_Os12g29130	26.005		"retrotransposon protein, putative, Ty3-gypsy subclass"
-	LOC_Os12g30214	32.489		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g30700	18.048		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g31070	32.742		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g31570	17.757		"retrotransposon protein, putative, Ty3-gypsy subclass"
-	LOC_Os12g31800	32.391		"glycine-rich RNA-binding protein 7, putative, expressed"
-	LOC_Os12g33120	9.606	DX1	expressed protein
-	LOC_Os12g33360	22.955		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g33650	15.537		"retrotransposon protein, putative, unclassified, expressed"
-	LOC_Os12g33690	14.579		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g34090	30.134		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g34180	30.783		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g34740	19.627		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g35110	28.053		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g36260	11.326		"retrotransposon protein, putative, Ty1-copia subclass, expressed"
-	LOC_Os12g37300	28.498		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g37860	14.184		expressed protein
-	LOC_Os12g38030	28.533		"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
-	LOC_Os12g40520	10.336		"MATH domain containing protein, expressed"
-	LOC_Os12g41715	19.564		"DEAD-box ATP-dependent RNA helicase, putative, expressed"
-	LOC_Os12g43600	24.099	Osgr-rbp4|Osgrp1	"RNA recognition motif containing protein, expressed"
-	LOC_Os12g44170	19.463		"pentatricopeptide, putative, expressed"
-	ChrUn.fgenesh.mRNA.12	16.206		expressed protein
-	ChrUn.fgenesh.mRNA.15	27.857		expressed protein
-	ChrUn.fgenesh.mRNA.52	16.86		expressed protein
-	ChrSy.fgenesh.mRNA.17	29.403		expressed protein
-	ChrSy.fgenesh.mRNA.38	18.107		expressed protein
-	ChrSy.fgenesh.mRNA.68	13.385		expressed protein
-	ChrSy.fgenesh.mRNA.77	14.827		expressed protein
-	ChrSy.fgenesh.mRNA.87	23.664		expressed protein
+1. LOC_Os01g01470.1	LOC_Os01g01470	16.738	ONAC020
+2. LOC_Os01g02160.1	LOC_Os01g02160	19.802	
+3. LOC_Os01g02860.1	LOC_Os01g02860	13.145	
+4. LOC_Os01g03490.1	LOC_Os01g03490	61.816	
+5. LOC_Os01g03610.1	LOC_Os01g03610	27.597	
+6. LOC_Os01g04650.1	LOC_Os01g04650	31.36	
+7. LOC_Os01g06310.1	LOC_Os01g06310	16.297	
+8. LOC_Os01g06770.1	LOC_Os01g06770	29.452	
+9. LOC_Os01g07070.3	LOC_Os01g07070	24.967	
+10. LOC_Os01g07070.4	LOC_Os01g07070	24.967	
+11. LOC_Os01g07070.1	LOC_Os01g07070	24.967	
+12. LOC_Os01g07070.2	LOC_Os01g07070	24.967	
+13. LOC_Os01g07520.1	LOC_Os01g07520	43.697	
+14. LOC_Os01g07740.3	LOC_Os01g07740	23.02	
+15. LOC_Os01g07740.1	LOC_Os01g07740	23.02	
+16. LOC_Os01g07740.2	LOC_Os01g07740	22.819	
+17. LOC_Os01g08530.1	LOC_Os01g08530	51.741	
+18. LOC_Os01g08580.1	LOC_Os01g08580	8.94	
+19. LOC_Os01g10490.1	LOC_Os01g10490	17.234	OsGAE1
+20. LOC_Os01g11550.1	LOC_Os01g11550	18.336	
+21. LOC_Os01g12880.1	LOC_Os01g12880	84.715	
+22. LOC_Os01g13160.1	LOC_Os01g13160	22.52	
+23. LOC_Os01g14470.1	LOC_Os01g14470	22.849	
+24. LOC_Os01g16090.1	LOC_Os01g16090	12.604	RBP-P
+25. LOC_Os01g16110.2	LOC_Os01g16110	17.812	
+26. LOC_Os01g16110.1	LOC_Os01g16110	17.812	
+27. LOC_Os01g18080.1	LOC_Os01g18080	58.221	
+28. LOC_Os01g20780.1	LOC_Os01g20780	21.352	
+29. LOC_Os01g21590.1	LOC_Os01g21590	17.167	
+30. LOC_Os01g22170.1	LOC_Os01g22170	25.841	
+31. LOC_Os01g23040.1	LOC_Os01g23040	20.534	
+32. LOC_Os01g23980.1	LOC_Os01g23980	32.612	
+33. LOC_Os01g25860.1	LOC_Os01g25860	30.589	
+34. LOC_Os01g27960.1	LOC_Os01g27960	17.622	
+35. LOC_Os01g28000.1	LOC_Os01g28000	15.167	
+36. LOC_Os01g28950.1	LOC_Os01g28950	17.414	
+37. LOC_Os01g29530.1	LOC_Os01g29530	14.855	
+38. LOC_Os01g29670.1	LOC_Os01g29670	27.82	
+39. LOC_Os01g29840.1	LOC_Os01g29840	30.397	ONAC026
+40. LOC_Os01g30936.1	LOC_Os01g30936	27.227	
+41. LOC_Os01g31190.1	LOC_Os01g31190	27.264	
+42. LOC_Os01g31360.6	LOC_Os01g31360	10.322	
+43. LOC_Os01g32220.1	LOC_Os01g32220	30.053	
+44. LOC_Os01g35450.1	LOC_Os01g35450	25.169	
+45. LOC_Os01g35660.1	LOC_Os01g35660	26.481	
+46. LOC_Os01g36040.1	LOC_Os01g36040	26.709	
+47. LOC_Os01g36170.1	LOC_Os01g36170	30.546	
+48. LOC_Os01g36360.1	LOC_Os01g36360	27.6	
+49. LOC_Os01g36450.1	LOC_Os01g36450	15.945	
+50. LOC_Os01g36950.1	LOC_Os01g36950	31.333	
+51. LOC_Os01g36950.4	LOC_Os01g36950	31.333	
+52. LOC_Os01g36950.2	LOC_Os01g36950	31.333	
+53. LOC_Os01g36950.3	LOC_Os01g36950	31.333	
+54. LOC_Os01g37060.1	LOC_Os01g37060	30.492	
+55. LOC_Os01g37710.1	LOC_Os01g37710	15.428	
+56. LOC_Os01g38410.1	LOC_Os01g38410	23.161	
+57. LOC_Os01g39570.1	LOC_Os01g39570	13.428	
+58. LOC_Os01g40590.1	LOC_Os01g40590	10.502	
+59. LOC_Os01g41120.1	LOC_Os01g41120	13.913	
+60. LOC_Os01g41190.1	LOC_Os01g41190	15.166	
+61. LOC_Os01g41190.2	LOC_Os01g41190	15.166	
+62. LOC_Os01g42260.1	LOC_Os01g42260	59.153	OsLUGL
+63. LOC_Os01g42260.2	LOC_Os01g42260	59.153	OsLUGL
+64. LOC_Os01g42260.3	LOC_Os01g42260	59.153	OsLUGL
+65. LOC_Os01g42260.4	LOC_Os01g42260	59.153	OsLUGL
+66. LOC_Os01g42490.1	LOC_Os01g42490	23.294	
+67. LOC_Os01g42820.2	LOC_Os01g42820	43.561	
+68. LOC_Os01g42820.3	LOC_Os01g42820	43.561	
+69. LOC_Os01g42820.1	LOC_Os01g42820	43.561	
+70. LOC_Os01g43170.2	LOC_Os01g43170	49.898	
+71. LOC_Os01g43170.1	LOC_Os01g43170	49.898	
+72. LOC_Os01g43170.3	LOC_Os01g43170	49.898	
+73. LOC_Os01g44150.1	LOC_Os01g44150	16.036	
+74. LOC_Os01g44970.1	LOC_Os01g44970	13.262	
+75. LOC_Os01g45330.1	LOC_Os01g45330	31.847	
+76. LOC_Os01g45490.1	LOC_Os01g45490	31.235	
+77. LOC_Os01g47150.1	LOC_Os01g47150	31.235	
+78. LOC_Os01g47430.1	LOC_Os01g47430	16.608	
+79. LOC_Os01g47430.2	LOC_Os01g47430	25.013	
+80. LOC_Os01g47680.1	LOC_Os01g47680	14.831	
+81. LOC_Os01g47680.2	LOC_Os01g47680	14.831	
+82. LOC_Os01g50010.1	LOC_Os01g50010	25.215	
+83. LOC_Os01g51820.1	LOC_Os01g51820	15.321	
+84. LOC_Os01g53610.1	LOC_Os01g53610	53.486	
+85. LOC_Os01g54160.1	LOC_Os01g54160	18.771	
+86. LOC_Os01g54714.1	LOC_Os01g54714	12.528	
+87. LOC_Os01g54830.1	LOC_Os01g54830	19.95	
+88. LOC_Os01g55050.2	LOC_Os01g55050	90.077	
+89. LOC_Os01g55050.1	LOC_Os01g55050	90.077	
+90. LOC_Os01g55660.1	LOC_Os01g55660	11.326	
+91. LOC_Os01g56300.1	LOC_Os01g56300	14.238	
+92. LOC_Os01g57800.1	LOC_Os01g57800	21.172	
+93. LOC_Os01g59860.1	LOC_Os01g59860	22.541	
+94. LOC_Os01g59980.1	LOC_Os01g59980	62.461	
+95. LOC_Os01g60980.1	LOC_Os01g60980	28.972	
+96. LOC_Os01g61030.1	LOC_Os01g61030	26.445	
+97. LOC_Os01g61080.1	LOC_Os01g61080	14.174	OsWRKY24
+98. LOC_Os01g61930.1	LOC_Os01g61930	66.653	
+99. LOC_Os01g62780.1	LOC_Os01g62780	15.755	OsHESO1
+100. LOC_Os01g62820.2	LOC_Os01g62820	73.65	
+101. LOC_Os01g62820.3	LOC_Os01g62820	73.65	
+102. LOC_Os01g62820.1	LOC_Os01g62820	72.151	
+103. LOC_Os01g62920.1	LOC_Os01g62920	14.158	qSH1|RIL1
+104. LOC_Os01g63120.1	LOC_Os01g63120	16.852	
+105. LOC_Os01g63150.1	LOC_Os01g63150	20.229	
+106. LOC_Os01g63470.1	LOC_Os01g63470	13.501	
+107. LOC_Os01g63550.1	LOC_Os01g63550	28.559	
+108. LOC_Os01g63940.1	LOC_Os01g63940	61.74	
+109. LOC_Os01g63960.1	LOC_Os01g63960	20.277	
+110. LOC_Os01g64000.3	LOC_Os01g64000	16.112	
+111. LOC_Os01g64000.2	LOC_Os01g64000	16.112	
+112. LOC_Os01g64000.1	LOC_Os01g64000	16.112	
+113. LOC_Os01g64020.1	LOC_Os01g64020	12.949	OsLG2
+114. LOC_Os01g64080.1	LOC_Os01g64080	15.201	
+115. LOC_Os01g65220.1	LOC_Os01g65220	45.567	OsXrn3
+116. LOC_Os01g65550.2	LOC_Os01g65550	19.447	
+117. LOC_Os01g65550.1	LOC_Os01g65550	19.447	
+118. LOC_Os01g66090.1	LOC_Os01g66090	37.021	
+119. LOC_Os01g67390.1	LOC_Os01g67390	39.586	
+120. LOC_Os01g68060.1	LOC_Os01g68060	23.237	
+121. LOC_Os01g68410.1	LOC_Os01g68410	32.19	
+122. LOC_Os01g68720.1	LOC_Os01g68720	23.859	
+123. LOC_Os01g68730.1	LOC_Os01g68730	37.307	
+124. LOC_Os01g68730.2	LOC_Os01g68730	37.307	
+125. LOC_Os01g68740.1	LOC_Os01g68740	19.386	
+126. LOC_Os01g68860.3	LOC_Os01g68860	12.358	C3H12
+127. LOC_Os01g68860.2	LOC_Os01g68860	12.358	C3H12
+128. LOC_Os01g68860.1	LOC_Os01g68860	12.358	C3H12
+129. LOC_Os01g69020.2	LOC_Os01g69020	11.289	
+130. LOC_Os01g69020.1	LOC_Os01g69020	11.289	
+131. LOC_Os01g69990.1	LOC_Os01g69990	29.344	
+132. LOC_Os01g70710.1	LOC_Os01g70710	16.653	
+133. LOC_Os01g70710.2	LOC_Os01g70710	16.653	
+134. LOC_Os01g70790.1	LOC_Os01g70790	26.391	
+135. LOC_Os01g70810.1	LOC_Os01g70810	15.031	
+136. LOC_Os01g71200.1	LOC_Os01g71200	31.053	
+137. LOC_Os01g72220.1	LOC_Os01g72220	56.867	OsFY
+138. LOC_Os01g72790.1	LOC_Os01g72790	53.798	CDKC1
+139. LOC_Os01g72834.1	LOC_Os01g72834	20.554	
+140. LOC_Os01g73320.1	LOC_Os01g73320	29.995	
+141. LOC_Os01g73344.1	LOC_Os01g73344	19.511	
+142. LOC_Os02g01030.4	LOC_Os02g01030	14.345	HSP40
+143. LOC_Os02g01030.3	LOC_Os02g01030	14.345	HSP40
+144. LOC_Os02g01030.1	LOC_Os02g01030	14.345	HSP40
+145. LOC_Os02g01030.2	LOC_Os02g01030	14.345	HSP40
+146. LOC_Os02g01490.1	LOC_Os02g01490	19.152	
+147. LOC_Os02g01640.1	LOC_Os02g01640	19.225	
+148. LOC_Os02g01670.1	LOC_Os02g01670	19.225	
+149. LOC_Os02g02050.1	LOC_Os02g02050	13.32	
+150. LOC_Os02g02290.1	LOC_Os02g02290	57.249	OsBRM
+151. LOC_Os02g02920.2	LOC_Os02g02920	12.914	
+152. LOC_Os02g02920.1	LOC_Os02g02920	12.914	
+153. LOC_Os02g03130.1	LOC_Os02g03130	20.041	
+154. LOC_Os02g04490.1	LOC_Os02g04490	51.066	OsHAC703
+155. LOC_Os02g04540.1	LOC_Os02g04540	26.781	
+156. LOC_Os02g04810.1	LOC_Os02g04810	40.831	
+157. LOC_Os02g06870.1	LOC_Os02g06870	32.731	
+158. LOC_Os02g06910.1	LOC_Os02g06910	33.632	
+159. LOC_Os02g07450.1	LOC_Os02g07450	22.131	
+160. LOC_Os02g07450.2	LOC_Os02g07450	22.131	
+161. LOC_Os02g07520.1	LOC_Os02g07520	36.557	
+162. LOC_Os02g07900.1	LOC_Os02g07900	40.077	OsANTH3
+163. LOC_Os02g07920.1	LOC_Os02g07920	17.702	
+164. LOC_Os02g08500.1	LOC_Os02g08500	13.815	LEPTO1|OsRR24|DLC1
+165. LOC_Os02g09630.1	LOC_Os02g09630	26.067	
+166. LOC_Os02g09890.1	LOC_Os02g09890	21.292	
+167. LOC_Os02g09890.2	LOC_Os02g09890	21.292	
+168. LOC_Os02g11660.1	LOC_Os02g11660	20.548	
+169. LOC_Os02g11780.1	LOC_Os02g11780	34.921	
+170. LOC_Os02g11820.1	LOC_Os02g11820	33.944	
+171. LOC_Os02g11820.2	LOC_Os02g11820	32.6	
+172. LOC_Os02g12850.1	LOC_Os02g12850	39.768	
+173. LOC_Os02g13130.1	LOC_Os02g13130	130	
+174. LOC_Os02g14780.2	LOC_Os02g14780	17.404	
+175. LOC_Os02g14780.1	LOC_Os02g14780	17.404	
+176. LOC_Os02g14900.1	LOC_Os02g14900	16.545	
+177. LOC_Os02g15350.1	LOC_Os02g15350	14.262	RPBF|OsDof3
+178. LOC_Os02g16400.1	LOC_Os02g16400	26.733	
+179. LOC_Os02g16640.1	LOC_Os02g16640	17.156	
+180. LOC_Os02g17350.1	LOC_Os02g17350	62.097	
+181. LOC_Os02g17350.2	LOC_Os02g17350	62.097	
+182. LOC_Os02g18310.1	LOC_Os02g18310	11.016	
+183. LOC_Os02g19220.1	LOC_Os02g19220	19.435	
+184. LOC_Os02g19220.2	LOC_Os02g19220	19.435	
+185. LOC_Os02g19300.1	LOC_Os02g19300	24.752	
+186. LOC_Os02g19330.1	LOC_Os02g19330	23.017	
+187. LOC_Os02g19330.2	LOC_Os02g19330	23.017	
+188. LOC_Os02g20040.1	LOC_Os02g20040	13.738	
+189. LOC_Os02g20110.1	LOC_Os02g20110	14.032	
+190. LOC_Os02g22020.1	LOC_Os02g22020	9.342	NIGT1
+191. LOC_Os02g22300.1	LOC_Os02g22300	22.842	
+192. LOC_Os02g22500.1	LOC_Os02g22500	27.842	
+193. LOC_Os02g22520.1	LOC_Os02g22520	15.654	
+194. LOC_Os02g22790.1	LOC_Os02g22790	17.56	
+195. LOC_Os02g24250.1	LOC_Os02g24250	23.196	
+196. LOC_Os02g24670.1	LOC_Os02g24670	25.77	
+197. LOC_Os02g25230.1	LOC_Os02g25230	12.536	TAC4|SG2
+198. LOC_Os02g25770.1	LOC_Os02g25770	29.163	
+199. LOC_Os02g25810.1	LOC_Os02g25810	13.558	
+200. LOC_Os02g27950.1	LOC_Os02g27950	25.27	
+201. LOC_Os02g27950.2	LOC_Os02g27950	25.207	
+202. LOC_Os02g28620.1	LOC_Os02g28620	28.884	
+203. LOC_Os02g29660.1	LOC_Os02g29660	15.886	
+204. LOC_Os02g30620.2	LOC_Os02g30620	15.103	
+205. LOC_Os02g30620.1	LOC_Os02g30620	15.103	
+206. LOC_Os02g30620.3	LOC_Os02g30620	15.103	
+207. LOC_Os02g30640.1	LOC_Os02g30640	26.92	
+208. LOC_Os02g31220.2	LOC_Os02g31220	12.692	
+209. LOC_Os02g31220.1	LOC_Os02g31220	12.692	
+210. LOC_Os02g33360.1	LOC_Os02g33360	24.699	
+211. LOC_Os02g33530.1	LOC_Os02g33530	21.843	
+212. LOC_Os02g33910.1	LOC_Os02g33910	30.169	
+213. LOC_Os02g35470.1	LOC_Os02g35470	13.236	
+214. LOC_Os02g35470.4	LOC_Os02g35470	13.236	
+215. LOC_Os02g35470.3	LOC_Os02g35470	13.236	
+216. LOC_Os02g35470.2	LOC_Os02g35470	13.236	
+217. LOC_Os02g35540.1	LOC_Os02g35540	18.374	
+218. LOC_Os02g36100.1	LOC_Os02g36100	16.193	
+219. LOC_Os02g36640.1	LOC_Os02g36640	17.759	
+220. LOC_Os02g37180.1	LOC_Os02g37180	11.62	
+221. LOC_Os02g37400.1	LOC_Os02g37400	30.58	
+222. LOC_Os02g37460.1	LOC_Os02g37460	14.137	
+223. LOC_Os02g37520.1	LOC_Os02g37520	56.614	
+224. LOC_Os02g37550.1	LOC_Os02g37550	16.657	
+225. LOC_Os02g38550.1	LOC_Os02g38550	31.292	
+226. LOC_Os02g38620.1	LOC_Os02g38620	30.74	
+227. LOC_Os02g40510.1	LOC_Os02g40510	17.816	OsPRR1
+228. LOC_Os02g40570.1	LOC_Os02g40570	30.409	
+229. LOC_Os02g40580.1	LOC_Os02g40580	12.702	
+230. LOC_Os02g41740.1	LOC_Os02g41740	29.018	
+231. LOC_Os02g42080.1	LOC_Os02g42080	20.534	
+232. LOC_Os02g42750.1	LOC_Os02g42750	16.87	
+233. LOC_Os02g42860.1	LOC_Os02g42860	32.759	
+234. LOC_Os02g43390.1	LOC_Os02g43390	24.853	
+235. LOC_Os02g43450.1	LOC_Os02g43450	32.136	
+236. LOC_Os02g43540.1	LOC_Os02g43540	23.696	
+237. LOC_Os02g43750.1	LOC_Os02g43750	33.474	
+238. LOC_Os02g43800.1	LOC_Os02g43800	31.374	
+239. LOC_Os02g45054.1	LOC_Os02g45054	20.93	SID1|OsIDD4
+240. LOC_Os02g45070.1	LOC_Os02g45070	22.778	OsAGO1a
+241. LOC_Os02g45070.2	LOC_Os02g45070	22.778	OsAGO1a
+242. LOC_Os02g45370.1	LOC_Os02g45370	30.772	
+243. LOC_Os02g46240.1	LOC_Os02g46240	32.99	
+244. LOC_Os02g46880.1	LOC_Os02g46880	32.083	
+245. LOC_Os02g47690.1	LOC_Os02g47690	18.374	
+246. LOC_Os02g48320.1	LOC_Os02g48320	8.491	
+247. LOC_Os02g48320.2	LOC_Os02g48320	8.491	
+248. LOC_Os02g48320.3	LOC_Os02g48320	8.491	
+249. LOC_Os02g49370.1	LOC_Os02g49370	8.771	OsHAP3E|LEC1|OsLEC1
+250. LOC_Os02g49370.2	LOC_Os02g49370	8.771	OsHAP3E|LEC1|OsLEC1
+251. LOC_Os02g51240.1	LOC_Os02g51240	34.18	
+252. LOC_Os02g51280.1	LOC_Os02g51280	39.073	
+253. LOC_Os02g51890.1	LOC_Os02g51890	25.566	
+254. LOC_Os02g52690.1	LOC_Os02g52690	22.356	
+255. LOC_Os02g54120.1	LOC_Os02g54120	27.584	
+256. LOC_Os02g54120.3	LOC_Os02g54120	27.584	
+257. LOC_Os02g54120.2	LOC_Os02g54120	27.584	
+258. LOC_Os02g54120.4	LOC_Os02g54120	27.584	
+259. LOC_Os02g55250.1	LOC_Os02g55250	15.254	
+260. LOC_Os02g55970.2	LOC_Os02g55970	45.015	
+261. LOC_Os02g55970.1	LOC_Os02g55970	45.015	
+262. LOC_Os02g56270.1	LOC_Os02g56270	55.989	
+263. LOC_Os02g56880.1	LOC_Os02g56880	33.397	
+264. LOC_Os02g57930.1	LOC_Os02g57930	18.559	
+265. LOC_Os03g01320.1	LOC_Os03g01320	24.624	qLTG3-1
+266. LOC_Os03g03180.1	LOC_Os03g03180	24.947	
+267. LOC_Os03g03830.1	LOC_Os03g03830	52.109	
+268. LOC_Os03g03920.1	LOC_Os03g03920	16.591	OsDSK2a
+269. LOC_Os03g04030.1	LOC_Os03g04030	15.309	
+270. LOC_Os03g04860.1	LOC_Os03g04860	27.606	
+271. LOC_Os03g05750.1	LOC_Os03g05750	22.807	
+272. LOC_Os03g06240.2	LOC_Os03g06240	24.28	
+273. LOC_Os03g06240.1	LOC_Os03g06240	24.28	
+274. LOC_Os03g06980.1	LOC_Os03g06980	56.152	
+275. LOC_Os03g07450.1	LOC_Os03g07450	8.633	
+276. LOC_Os03g07710.1	LOC_Os03g07710	13.144	
+277. LOC_Os03g07720.1	LOC_Os03g07720	86.272	
+278. LOC_Os03g08770.1	LOC_Os03g08770	15.195	
+279. LOC_Os03g08770.2	LOC_Os03g08770	14.994	
+280. LOC_Os03g09280.2	LOC_Os03g09280	12.265	
+281. LOC_Os03g09280.3	LOC_Os03g09280	12.265	
+282. LOC_Os03g09280.1	LOC_Os03g09280	12.265	
+283. LOC_Os03g09300.1	LOC_Os03g09300	23.177	
+284. LOC_Os03g11200.1	LOC_Os03g11200	20.22	
+285. LOC_Os03g11460.1	LOC_Os03g11460	14.868	
+286. LOC_Os03g11580.1	LOC_Os03g11580	36.918	
+287. LOC_Os03g12570.1	LOC_Os03g12570	16.285	OsCMT3b
+288. LOC_Os03g13320.1	LOC_Os03g13320	31.83	
+289. LOC_Os03g13614.1	LOC_Os03g13614	22.083	
+290. LOC_Os03g13614.3	LOC_Os03g13614	22.083	
+291. LOC_Os03g13614.2	LOC_Os03g13614	22.083	
+292. LOC_Os03g14615.1	LOC_Os03g14615	70.538	
+293. LOC_Os03g15000.1	LOC_Os03g15000	17.06	
+294. LOC_Os03g15160.1	LOC_Os03g15160	28.947	
+295. LOC_Os03g15700.1	LOC_Os03g15700	17.045	
+296. LOC_Os03g16730.1	LOC_Os03g16730	13.738	
+297. LOC_Os03g16800.1	LOC_Os03g16800	14.543	
+298. LOC_Os03g16800.2	LOC_Os03g16800	14.543	
+299. LOC_Os03g17570.4	LOC_Os03g17570	14.002	OsCCT11|OsPRR73
+300. LOC_Os03g17570.3	LOC_Os03g17570	14.002	OsCCT11|OsPRR73
+301. LOC_Os03g17570.1	LOC_Os03g17570	14.002	OsCCT11|OsPRR73
+302. LOC_Os03g17570.2	LOC_Os03g17570	14.002	OsCCT11|OsPRR73
+303. LOC_Os03g17760.1	LOC_Os03g17760	13.251	
+304. LOC_Os03g19600.1	LOC_Os03g19600	86.532	
+305. LOC_Os03g19600.2	LOC_Os03g19600	70.991	
+306. LOC_Os03g20790.1	LOC_Os03g20790	10.04	OsEIL1|MHZ6
+307. LOC_Os03g22490.2	LOC_Os03g22490	22.319	
+308. LOC_Os03g22490.3	LOC_Os03g22490	22.319	
+309. LOC_Os03g22490.4	LOC_Os03g22490	22.319	
+310. LOC_Os03g22490.1	LOC_Os03g22490	22.319	
+311. LOC_Os03g23100.1	LOC_Os03g23100	27.62	
+312. LOC_Os03g23200.1	LOC_Os03g23200	17.398	
+313. LOC_Os03g23760.1	LOC_Os03g23760	28.52	
+314. LOC_Os03g23800.1	LOC_Os03g23800	29.447	
+315. LOC_Os03g23860.1	LOC_Os03g23860	29.173	
+316. LOC_Os03g24339.1	LOC_Os03g24339	23.089	
+317. LOC_Os03g25980.2	LOC_Os03g25980	30.603	
+318. LOC_Os03g25980.1	LOC_Os03g25980	30.603	
+319. LOC_Os03g26750.1	LOC_Os03g26750	24.172	
+320. LOC_Os03g26900.1	LOC_Os03g26900	14.926	
+321. LOC_Os03g27990.1	LOC_Os03g27990	14.691	
+322. LOC_Os03g28370.1	LOC_Os03g28370	14.616	
+323. LOC_Os03g29140.1	LOC_Os03g29140	11.326	
+324. LOC_Os03g29750.1	LOC_Os03g29750	13.913	
+325. LOC_Os03g29750.2	LOC_Os03g29750	13.913	
+326. LOC_Os03g29970.1	LOC_Os03g29970	27.51	
+327. LOC_Os03g30550.1	LOC_Os03g30550	18.516	
+328. LOC_Os03g30700.1	LOC_Os03g30700	32.361	
+329. LOC_Os03g30710.1	LOC_Os03g30710	16.386	
+330. LOC_Os03g31010.1	LOC_Os03g31010	96.8	
+331. LOC_Os03g31679.1	LOC_Os03g31679	29.889	OsWIH2
+332. LOC_Os03g31880.1	LOC_Os03g31880	18.005	OsSHR2
+333. LOC_Os03g31986.1	LOC_Os03g31986	28.086	
+334. LOC_Os03g32360.1	LOC_Os03g32360	16.176	
+335. LOC_Os03g32590.1	LOC_Os03g32590	17.697	
+336. LOC_Os03g32590.2	LOC_Os03g32590	17.697	
+337. LOC_Os03g32749.1	LOC_Os03g32749	16.92	
+338. LOC_Os03g32960.1	LOC_Os03g32960	12.404	
+339. LOC_Os03g33230.1	LOC_Os03g33230	15.106	
+340. LOC_Os03g33260.1	LOC_Os03g33260	32.468	
+341. LOC_Os03g33670.1	LOC_Os03g33670	20.812	
+342. LOC_Os03g33710.1	LOC_Os03g33710	14.226	
+343. LOC_Os03g34240.1	LOC_Os03g34240	13.275	
+344. LOC_Os03g35340.1	LOC_Os03g35340	20.405	
+345. LOC_Os03g35390.1	LOC_Os03g35390	17.7	
+346. LOC_Os03g35540.1	LOC_Os03g35540	31.132	
+347. LOC_Os03g36030.1	LOC_Os03g36030	17.767	
+348. LOC_Os03g36050.1	LOC_Os03g36050	27.083	
+349. LOC_Os03g36239.1	LOC_Os03g36239	30.266	
+350. LOC_Os03g37194.1	LOC_Os03g37194	24.071	
+351. LOC_Os03g37270.1	LOC_Os03g37270	24.865	
+352. LOC_Os03g37394.1	LOC_Os03g37394	10.21	
+353. LOC_Os03g39040.1	LOC_Os03g39040	34.361	
+354. LOC_Os03g39350.1	LOC_Os03g39350	29.384	
+355. LOC_Os03g41600.1	LOC_Os03g41600	15.81	
+356. LOC_Os03g41770.1	LOC_Os03g41770	28.82	
+357. LOC_Os03g41960.1	LOC_Os03g41960	33.983	
+358. LOC_Os03g42900.1	LOC_Os03g42900	13.553	
+359. LOC_Os03g43160.1	LOC_Os03g43160	16.529	
+360. LOC_Os03g45030.1	LOC_Os03g45030	23.991	
+361. LOC_Os03g45670.1	LOC_Os03g45670	24.748	
+362. LOC_Os03g46770.1	LOC_Os03g46770	21.244	
+363. LOC_Os03g48260.1	LOC_Os03g48260	38.708	
+364. LOC_Os03g49110.1	LOC_Os03g49110	18.557	
+365. LOC_Os03g49660.1	LOC_Os03g49660	14.939	
+366. LOC_Os03g51330.1	LOC_Os03g51330	20.88	OsGRAS19|OsSCL7
+367. LOC_Os03g52320.2	LOC_Os03g52320	28.631	MKB3
+368. LOC_Os03g52320.1	LOC_Os03g52320	28.631	MKB3
+369. LOC_Os03g52490.1	LOC_Os03g52490	43.006	
+370. LOC_Os03g52594.4	LOC_Os03g52594	26.83	
+371. LOC_Os03g52594.5	LOC_Os03g52594	33.642	
+372. LOC_Os03g53670.2	LOC_Os03g53670	42.176	
+373. LOC_Os03g53670.1	LOC_Os03g53670	41.329	
+374. LOC_Os03g56950.7	LOC_Os03g56950	14.512	OsPIL13|OsPIL1
+375. LOC_Os03g56950.4	LOC_Os03g56950	15.709	OsPIL13|OsPIL1
+376. LOC_Os03g56950.1	LOC_Os03g56950	15.709	OsPIL13|OsPIL1
+377. LOC_Os03g56950.2	LOC_Os03g56950	15.709	OsPIL13|OsPIL1
+378. LOC_Os03g56950.3	LOC_Os03g56950	15.709	OsPIL13|OsPIL1
+379. LOC_Os03g57210.2	LOC_Os03g57210	38.286	
+380. LOC_Os03g57210.1	LOC_Os03g57210	38.286	
+381. LOC_Os03g57430.1	LOC_Os03g57430	21.965	
+382. LOC_Os03g58060.1	LOC_Os03g58060	26.976	
+383. LOC_Os03g58600.1	LOC_Os03g58600	8.659	MEL1
+384. LOC_Os03g58780.2	LOC_Os03g58780	94.655	
+385. LOC_Os03g58780.1	LOC_Os03g58780	94.655	
+386. LOC_Os03g58910.2	LOC_Os03g58910	11.999	
+387. LOC_Os03g59140.1	LOC_Os03g59140	27.219	
+388. LOC_Os03g59730.1	LOC_Os03g59730	15.73	
+389. LOC_Os03g60050.1	LOC_Os03g60050	31.337	
+390. LOC_Os03g60470.1	LOC_Os03g60470	31.885	
+391. LOC_Os03g62830.1	LOC_Os03g62830	62.234	
+392. LOC_Os03g64250.6	LOC_Os03g64250	14.892	
+393. LOC_Os03g64250.2	LOC_Os03g64250	14.892	
+394. LOC_Os03g64250.5	LOC_Os03g64250	14.892	
+395. LOC_Os04g01040.1	LOC_Os04g01040	27.122	
+396. LOC_Os04g02000.2	LOC_Os04g02000	11.429	
+397. LOC_Os04g02000.1	LOC_Os04g02000	12.312	
+398. LOC_Os04g03630.1	LOC_Os04g03630	35.392	
+399. LOC_Os04g03860.1	LOC_Os04g03860	36.583	
+400. LOC_Os04g04020.1	LOC_Os04g04020	29.166	
+401. LOC_Os04g04150.1	LOC_Os04g04150	25.272	
+402. LOC_Os04g04550.1	LOC_Os04g04550	33.807	
+403. LOC_Os04g04574.1	LOC_Os04g04574	15.627	
+404. LOC_Os04g04850.1	LOC_Os04g04850	24.718	
+405. LOC_Os04g04900.1	LOC_Os04g04900	30.507	
+406. LOC_Os04g05380.1	LOC_Os04g05380	16.493	
+407. LOC_Os04g05840.1	LOC_Os04g05840	23.621	
+408. LOC_Os04g06080.1	LOC_Os04g06080	17.981	
+409. LOC_Os04g06130.1	LOC_Os04g06130	16.837	
+410. LOC_Os04g06430.1	LOC_Os04g06430	29.44	
+411. LOC_Os04g07060.1	LOC_Os04g07060	28.991	
+412. LOC_Os04g07370.1	LOC_Os04g07370	27.705	
+413. LOC_Os04g07650.1	LOC_Os04g07650	28.053	
+414. LOC_Os04g09360.1	LOC_Os04g09360	12.063	
+415. LOC_Os04g09480.1	LOC_Os04g09480	18.077	
+416. LOC_Os04g10070.1	LOC_Os04g10070	14.375	
+417. LOC_Os04g11090.1	LOC_Os04g11090	15.568	
+418. LOC_Os04g12250.1	LOC_Os04g12250	29.993	
+419. LOC_Os04g13510.1	LOC_Os04g13510	23.894	
+420. LOC_Os04g13820.1	LOC_Os04g13820	26.666	
+421. LOC_Os04g13920.1	LOC_Os04g13920	28.625	
+422. LOC_Os04g13930.1	LOC_Os04g13930	12.251	
+423. LOC_Os04g13970.1	LOC_Os04g13970	17.609	
+424. LOC_Os04g14620.1	LOC_Os04g14620	20.106	
+425. LOC_Os04g15944.1	LOC_Os04g15944	13.59	
+426. LOC_Os04g16100.1	LOC_Os04g16100	28.489	
+427. LOC_Os04g16430.1	LOC_Os04g16430	29.403	
+428. LOC_Os04g16500.1	LOC_Os04g16500	26.986	
+429. LOC_Os04g16510.1	LOC_Os04g16510	27.444	
+430. LOC_Os04g16590.1	LOC_Os04g16590	13.822	
+431. LOC_Os04g16810.1	LOC_Os04g16810	29.403	
+432. LOC_Os04g16860.1	LOC_Os04g16860	12.017	
+433. LOC_Os04g17240.1	LOC_Os04g17240	22.074	
+434. LOC_Os04g17410.1	LOC_Os04g17410	23.545	
+435. LOC_Os04g18460.1	LOC_Os04g18460	29.781	
+436. LOC_Os04g18640.1	LOC_Os04g18640	20.507	
+437. LOC_Os04g18760.1	LOC_Os04g18760	27.068	
+438. LOC_Os04g19090.1	LOC_Os04g19090	42.258	
+439. LOC_Os04g19270.1	LOC_Os04g19270	26.616	
+440. LOC_Os04g19280.1	LOC_Os04g19280	27.362	
+441. LOC_Os04g19360.1	LOC_Os04g19360	22.641	
+442. LOC_Os04g19610.1	LOC_Os04g19610	27.444	
+443. LOC_Os04g19960.1	LOC_Os04g19960	22.803	
+444. LOC_Os04g20030.1	LOC_Os04g20030	13.886	
+445. LOC_Os04g20040.1	LOC_Os04g20040	28.295	
+446. LOC_Os04g21200.1	LOC_Os04g21200	27.743	
+447. LOC_Os04g21210.1	LOC_Os04g21210	27.9	
+448. LOC_Os04g21220.1	LOC_Os04g21220	26.399	
+449. LOC_Os04g21860.1	LOC_Os04g21860	19.951	
+450. LOC_Os04g22000.1	LOC_Os04g22000	17.833	
+451. LOC_Os04g22600.1	LOC_Os04g22600	33.718	
+452. LOC_Os04g22680.1	LOC_Os04g22680	25.116	
+453. LOC_Os04g22990.1	LOC_Os04g22990	25.765	
+454. LOC_Os04g24060.1	LOC_Os04g24060	20.534	
+455. LOC_Os04g24989.1	LOC_Os04g24989	29.403	
+456. LOC_Os04g25020.1	LOC_Os04g25020	27.965	
+457. LOC_Os04g25030.1	LOC_Os04g25030	29.403	
+458. LOC_Os04g26660.1	LOC_Os04g26660	27.298	
+459. LOC_Os04g27490.1	LOC_Os04g27490	27.595	
+460. LOC_Os04g27570.1	LOC_Os04g27570	26	
+461. LOC_Os04g29700.1	LOC_Os04g29700	31.858	
+462. LOC_Os04g31620.1	LOC_Os04g31620	24.051	
+463. LOC_Os04g31940.1	LOC_Os04g31940	16.528	
+464. LOC_Os04g32250.1	LOC_Os04g32250	22.646	
+465. LOC_Os04g32260.1	LOC_Os04g32260	11.821	
+466. LOC_Os04g34500.1	LOC_Os04g34500	14.946	
+467. LOC_Os04g35930.1	LOC_Os04g35930	12.378	
+468. LOC_Os04g38180.1	LOC_Os04g38180	23.208	
+469. LOC_Os04g38190.1	LOC_Os04g38190	27.494	
+470. LOC_Os04g39320.4	LOC_Os04g39320	31.927	
+471. LOC_Os04g39320.2	LOC_Os04g39320	31.927	
+472. LOC_Os04g39520.1	LOC_Os04g39520	16.383	
+473. LOC_Os04g40240.1	LOC_Os04g40240	14.148	
+474. LOC_Os04g40300.1	LOC_Os04g40300	23.044	
+475. LOC_Os04g42600.1	LOC_Os04g42600	21.517	
+476. LOC_Os04g42600.2	LOC_Os04g42600	21.517	
+477. LOC_Os04g45040.3	LOC_Os04g45040	26.343	
+478. LOC_Os04g45040.1	LOC_Os04g45040	26.343	
+479. LOC_Os04g45040.2	LOC_Os04g45040	26.343	
+480. LOC_Os04g45400.1	LOC_Os04g45400	29.993	
+481. LOC_Os04g45430.1	LOC_Os04g45430	31.183	
+482. LOC_Os04g45440.1	LOC_Os04g45440	29.518	
+483. LOC_Os04g45760.1	LOC_Os04g45760	22.508	
+484. LOC_Os04g45930.2	LOC_Os04g45930	13.509	
+485. LOC_Os04g45930.3	LOC_Os04g45930	13.509	
+486. LOC_Os04g45930.1	LOC_Os04g45930	13.509	
+487. LOC_Os04g45980.1	LOC_Os04g45980	13.903	
+488. LOC_Os04g47000.1	LOC_Os04g47000	38.768	
+489. LOC_Os04g47100.1	LOC_Os04g47100	28.557	
+490. LOC_Os04g47870.2	LOC_Os04g47870	29.398	OsAGO1b
+491. LOC_Os04g47870.1	LOC_Os04g47870	29.398	OsAGO1b
+492. LOC_Os04g48094.1	LOC_Os04g48094	18.953	
+493. LOC_Os04g48640.1	LOC_Os04g48640	24.442	
+494. LOC_Os04g49990.1	LOC_Os04g49990	10.009	
+495. LOC_Os04g49990.2	LOC_Os04g49990	10.009	
+496. LOC_Os04g51740.1	LOC_Os04g51740	17.757	
+497. LOC_Os04g51940.3	LOC_Os04g51940	13.855	
+498. LOC_Os04g51940.2	LOC_Os04g51940	13.855	
+499. LOC_Os04g51940.1	LOC_Os04g51940	13.855	
+500. LOC_Os04g52540.1	LOC_Os04g52540	20.66	OsAGO2
+501. LOC_Os04g52560.1	LOC_Os04g52560	19.107	
+502. LOC_Os04g53440.2	LOC_Os04g53440	28.912	RBP-L
+503. LOC_Os04g53440.1	LOC_Os04g53440	28.912	RBP-L
+504. LOC_Os04g53590.1	LOC_Os04g53590	28.951	
+505. LOC_Os04g54350.1	LOC_Os04g54350	52.276	
+506. LOC_Os04g54420.1	LOC_Os04g54420	39.188	
+507. LOC_Os04g54440.3	LOC_Os04g54440	24.692	DHT1
+508. LOC_Os04g54440.1	LOC_Os04g54440	24.692	DHT1
+509. LOC_Os04g54440.2	LOC_Os04g54440	24.692	DHT1
+510. LOC_Os04g54650.1	LOC_Os04g54650	16.411	
+511. LOC_Os04g55020.1	LOC_Os04g55020	30.822	
+512. LOC_Os04g55970.2	LOC_Os04g55970	21.856	
+513. LOC_Os04g55970.1	LOC_Os04g55970	21.856	
+514. LOC_Os04g56260.1	LOC_Os04g56260	29.14	
+515. LOC_Os04g56630.1	LOC_Os04g56630	20.392	
+516. LOC_Os04g56630.2	LOC_Os04g56630	20.392	
+517. LOC_Os04g57610.3	LOC_Os04g57610	20.96	OsARF12
+518. LOC_Os04g57610.1	LOC_Os04g57610	20.96	OsARF12
+519. LOC_Os04g58730.1	LOC_Os04g58730	15.893	
+520. LOC_Os04g59250.1	LOC_Os04g59250	32.299	
+521. LOC_Os05g01650.1	LOC_Os05g01650	15.006	
+522. LOC_Os05g02040.1	LOC_Os05g02040	37.869	RPA1c
+523. LOC_Os05g02770.1	LOC_Os05g02770	19.423	OsGPRP3
+524. LOC_Os05g02780.3	LOC_Os05g02780	34.854	
+525. LOC_Os05g02780.1	LOC_Os05g02780	34.854	
+526. LOC_Os05g02780.2	LOC_Os05g02780	34.854	
+527. LOC_Os05g02780.4	LOC_Os05g02780	34.854	
+528. LOC_Os05g03670.1	LOC_Os05g03670	28.681	
+529. LOC_Os05g03690.1	LOC_Os05g03690	21.537	
+530. LOC_Os05g05820.1	LOC_Os05g05820	13.769	
+531. LOC_Os05g05860.1	LOC_Os05g05860	31.302	
+532. LOC_Os05g05890.1	LOC_Os05g05890	18.587	
+533. LOC_Os05g07070.5	LOC_Os05g07070	17.167	
+534. LOC_Os05g07070.1	LOC_Os05g07070	17.167	
+535. LOC_Os05g07070.3	LOC_Os05g07070	17.167	
+536. LOC_Os05g07070.8	LOC_Os05g07070	17.167	
+537. LOC_Os05g07070.2	LOC_Os05g07070	17.167	
+538. LOC_Os05g07070.7	LOC_Os05g07070	17.167	
+539. LOC_Os05g07070.4	LOC_Os05g07070	17.167	
+540. LOC_Os05g07350.1	LOC_Os05g07350	28.991	
+541. LOC_Os05g07380.1	LOC_Os05g07380	15.114	
+542. LOC_Os05g07400.1	LOC_Os05g07400	15.114	
+543. LOC_Os05g07500.1	LOC_Os05g07500	16.552	
+544. LOC_Os05g07520.1	LOC_Os05g07520	16.552	
+545. LOC_Os05g07730.1	LOC_Os05g07730	35.98	
+546. LOC_Os05g08290.1	LOC_Os05g08290	30.972	
+547. LOC_Os05g09080.1	LOC_Os05g09080	26.486	
+548. LOC_Os05g10890.1	LOC_Os05g10890	24.75	
+549. LOC_Os05g10960.1	LOC_Os05g10960	16.738	
+550. LOC_Os05g12310.1	LOC_Os05g12310	17.741	
+551. LOC_Os05g13470.1	LOC_Os05g13470	21.996	
+552. LOC_Os05g14090.1	LOC_Os05g14090	9.316	
+553. LOC_Os05g15270.1	LOC_Os05g15270	22.857	
+554. LOC_Os05g15430.1	LOC_Os05g15430	18.952	
+555. LOC_Os05g15580.1	LOC_Os05g15580	17.165	
+556. LOC_Os05g16270.1	LOC_Os05g16270	15.828	
+557. LOC_Os05g16390.1	LOC_Os05g16390	15.315	
+558. LOC_Os05g16960.1	LOC_Os05g16960	28.843	
+559. LOC_Os05g17000.1	LOC_Os05g17000	30.024	
+560. LOC_Os05g17100.1	LOC_Os05g17100	30.134	
+561. LOC_Os05g17260.1	LOC_Os05g17260	30.589	
+562. LOC_Os05g17270.1	LOC_Os05g17270	23.657	
+563. LOC_Os05g17320.1	LOC_Os05g17320	30.589	
+564. LOC_Os05g17360.1	LOC_Os05g17360	19.812	
+565. LOC_Os05g17410.1	LOC_Os05g17410	30.589	
+566. LOC_Os05g17420.1	LOC_Os05g17420	20.425	
+567. LOC_Os05g17630.1	LOC_Os05g17630	15.543	
+568. LOC_Os05g17780.1	LOC_Os05g17780	13.7	
+569. LOC_Os05g17910.1	LOC_Os05g17910	28.417	
+570. LOC_Os05g18230.1	LOC_Os05g18230	28.682	
+571. LOC_Os05g18340.1	LOC_Os05g18340	21.276	
+572. LOC_Os05g18380.1	LOC_Os05g18380	29.414	
+573. LOC_Os05g18480.1	LOC_Os05g18480	18.035	
+574. LOC_Os05g18490.1	LOC_Os05g18490	28.867	
+575. LOC_Os05g18520.1	LOC_Os05g18520	17.457	
+576. LOC_Os05g19200.1	LOC_Os05g19200	29.396	
+577. LOC_Os05g19560.1	LOC_Os05g19560	30.134	
+578. LOC_Os05g19850.1	LOC_Os05g19850	28.169	
+579. LOC_Os05g19870.1	LOC_Os05g19870	30.134	
+580. LOC_Os05g20160.1	LOC_Os05g20160	30.611	
+581. LOC_Os05g20180.1	LOC_Os05g20180	28.947	
+582. LOC_Os05g20200.1	LOC_Os05g20200	29.993	
+583. LOC_Os05g20230.1	LOC_Os05g20230	30.134	
+584. LOC_Os05g21040.1	LOC_Os05g21040	25.343	
+585. LOC_Os05g22314.1	LOC_Os05g22314	21.92	
+586. LOC_Os05g22390.1	LOC_Os05g22390	19.018	
+587. LOC_Os05g22410.1	LOC_Os05g22410	27.084	
+588. LOC_Os05g22550.1	LOC_Os05g22550	14.615	
+589. LOC_Os05g22770.1	LOC_Os05g22770	26.727	
+590. LOC_Os05g23010.1	LOC_Os05g23010	16.301	
+591. LOC_Os05g23080.1	LOC_Os05g23080	30.024	
+592. LOC_Os05g23370.1	LOC_Os05g23370	29.44	
+593. LOC_Os05g26290.1	LOC_Os05g26290	26.482	
+594. LOC_Os05g26320.1	LOC_Os05g26320	25.858	
+595. LOC_Os05g26420.1	LOC_Os05g26420	27.444	
+596. LOC_Os05g26500.1	LOC_Os05g26500	31.664	
+597. LOC_Os05g26810.1	LOC_Os05g26810	16.301	
+598. LOC_Os05g27320.2	LOC_Os05g27320	21.81	
+599. LOC_Os05g27320.1	LOC_Os05g27320	21.81	
+600. LOC_Os05g28770.1	LOC_Os05g28770	19.922	
+601. LOC_Os05g29110.1	LOC_Os05g29110	39.866	
+602. LOC_Os05g30070.1	LOC_Os05g30070	15.041	
+603. LOC_Os05g30240.1	LOC_Os05g30240	51.577	
+604. LOC_Os05g30570.1	LOC_Os05g30570	20.634	
+605. LOC_Os05g30850.1	LOC_Os05g30850	19.918	
+606. LOC_Os05g30980.1	LOC_Os05g30980	39.555	
+607. LOC_Os05g30980.2	LOC_Os05g30980	39.555	
+608. LOC_Os05g31590.1	LOC_Os05g31590	20.501	
+609. LOC_Os05g32360.1	LOC_Os05g32360	55.25	
+610. LOC_Os05g35390.1	LOC_Os05g35390	27.121	
+611. LOC_Os05g36240.1	LOC_Os05g36240	13.144	
+612. LOC_Os05g36370.1	LOC_Os05g36370	59.894	
+613. LOC_Os05g36400.1	LOC_Os05g36400	28.265	
+614. LOC_Os05g38730.2	LOC_Os05g38730	42.95	
+615. LOC_Os05g38730.1	LOC_Os05g38730	42.95	
+616. LOC_Os05g39720.1	LOC_Os05g39720	14.305	WRKY70|OsWRKY70
+617. LOC_Os05g39760.1	LOC_Os05g39760	44.771	
+618. LOC_Os05g40790.1	LOC_Os05g40790	15.059	
+619. LOC_Os05g40790.2	LOC_Os05g40790	15.059	
+620. LOC_Os05g41930.3	LOC_Os05g41930	17.531	
+621. LOC_Os05g41930.2	LOC_Os05g41930	17.531	
+622. LOC_Os05g41930.1	LOC_Os05g41930	17.531	
+623. LOC_Os05g42300.1	LOC_Os05g42300	48.29	
+624. LOC_Os05g43780.2	LOC_Os05g43780	45.65	
+625. LOC_Os05g43780.1	LOC_Os05g43780	45.65	
+626. LOC_Os05g43950.1	LOC_Os05g43950	17.336	OsVOZ2
+627. LOC_Os05g44720.1	LOC_Os05g44720	13.799	
+628. LOC_Os05g45840.2	LOC_Os05g45840	14.071	
+629. LOC_Os05g45840.1	LOC_Os05g45840	14.071	
+630. LOC_Os05g47550.1	LOC_Os05g47550	26.021	
+631. LOC_Os05g47610.1	LOC_Os05g47610	27.362	
+632. LOC_Os05g48560.1	LOC_Os05g48560	19.191	
+633. LOC_Os05g48580.1	LOC_Os05g48580	15.759	
+634. LOC_Os05g48760.1	LOC_Os05g48760	33.14	
+635. LOC_Os05g49020.1	LOC_Os05g49020	15.577	
+636. LOC_Os05g49180.1	LOC_Os05g49180	37.924	
+637. LOC_Os05g50480.1	LOC_Os05g50480	15.791	
+638. LOC_Os05g50560.1	LOC_Os05g50560	12.29	OsMPK9
+639. LOC_Os05g51400.1	LOC_Os05g51400	8.573	
+640. LOC_Os05g51550.1	LOC_Os05g51550	54.18	
+641. LOC_Os06g01030.1	LOC_Os06g01030	12.774	
+642. LOC_Os06g01534.1	LOC_Os06g01534	27.486	
+643. LOC_Os06g01650.2	LOC_Os06g01650	12.723	
+644. LOC_Os06g01650.1	LOC_Os06g01650	12.723	
+645. LOC_Os06g03590.1	LOC_Os06g03590	21.071	
+646. LOC_Os06g03600.1	LOC_Os06g03600	18.096	
+647. LOC_Os06g03600.3	LOC_Os06g03600	18.096	
+648. LOC_Os06g03600.2	LOC_Os06g03600	18.096	
+649. LOC_Os06g05780.1	LOC_Os06g05780	29.575	
+650. LOC_Os06g06870.1	LOC_Os06g06870	14.977	
+651. LOC_Os06g07010.2	LOC_Os06g07010	9.076	
+652. LOC_Os06g07010.1	LOC_Os06g07010	10.42	
+653. LOC_Os06g07350.1	LOC_Os06g07350	36.148	
+654. LOC_Os06g07650.1	LOC_Os06g07650	12.411	
+655. LOC_Os06g07660.1	LOC_Os06g07660	13.608	
+656. LOC_Os06g07830.1	LOC_Os06g07830	24.838	
+657. LOC_Os06g08280.1	LOC_Os06g08280	26.706	
+658. LOC_Os06g09660.1	LOC_Os06g09660	26.769	OsARF16
+659. LOC_Os06g09870.1	LOC_Os06g09870	98.98	
+660. LOC_Os06g10430.3	LOC_Os06g10430	20.436	
+661. LOC_Os06g10430.1	LOC_Os06g10430	20.436	
+662. LOC_Os06g10430.2	LOC_Os06g10430	20.436	
+663. LOC_Os06g10870.1	LOC_Os06g10870	102.991	
+664. LOC_Os06g11730.1	LOC_Os06g11730	23.841	
+665. LOC_Os06g12230.1	LOC_Os06g12230	21.631	OsTCP19
+666. LOC_Os06g12580.1	LOC_Os06g12580	15.544	
+667. LOC_Os06g14570.1	LOC_Os06g14570	18.107	
+668. LOC_Os06g15150.1	LOC_Os06g15150	24.562	
+669. LOC_Os06g15310.1	LOC_Os06g15310	29.499	
+670. LOC_Os06g15630.1	LOC_Os06g15630	16.279	
+671. LOC_Os06g18030.1	LOC_Os06g18030	23.196	
+672. LOC_Os06g18950.1	LOC_Os06g18950	12.739	
+673. LOC_Os06g20660.1	LOC_Os06g20660	33.422	
+674. LOC_Os06g21140.1	LOC_Os06g21140	45.842	
+675. LOC_Os06g21210.1	LOC_Os06g21210	31.056	
+676. LOC_Os06g21220.1	LOC_Os06g21220	29.457	
+677. LOC_Os06g21230.1	LOC_Os06g21230	25.012	
+678. LOC_Os06g21240.1	LOC_Os06g21240	32.784	
+679. LOC_Os06g21250.1	LOC_Os06g21250	35.356	
+680. LOC_Os06g21270.1	LOC_Os06g21270	25.538	
+681. LOC_Os06g21270.2	LOC_Os06g21270	40.551	
+682. LOC_Os06g22100.2	LOC_Os06g22100	10.454	
+683. LOC_Os06g22100.1	LOC_Os06g22100	10.454	
+684. LOC_Os06g22520.1	LOC_Os06g22520	34.002	
+685. LOC_Os06g22650.1	LOC_Os06g22650	62.913	
+686. LOC_Os06g24350.1	LOC_Os06g24350	29.403	
+687. LOC_Os06g24630.1	LOC_Os06g24630	30.476	
+688. LOC_Os06g25100.1	LOC_Os06g25100	29.403	
+689. LOC_Os06g25810.1	LOC_Os06g25810	29.403	
+690. LOC_Os06g27480.1	LOC_Os06g27480	18.147	
+691. LOC_Os06g28390.1	LOC_Os06g28390	34.926	
+692. LOC_Os06g29080.1	LOC_Os06g29080	47.275	
+693. LOC_Os06g30060.1	LOC_Os06g30060	16.07	
+694. LOC_Os06g30060.2	LOC_Os06g30060	16.07	
+695. LOC_Os06g30070.1	LOC_Os06g30070	28.695	
+696. LOC_Os06g31020.1	LOC_Os06g31020	28.276	
+697. LOC_Os06g31050.1	LOC_Os06g31050	18.367	
+698. LOC_Os06g31430.1	LOC_Os06g31430	29.246	
+699. LOC_Os06g31440.1	LOC_Os06g31440	12.172	
+700. LOC_Os06g31540.1	LOC_Os06g31540	29.384	
+701. LOC_Os06g31730.1	LOC_Os06g31730	24.287	
+702. LOC_Os06g31840.1	LOC_Os06g31840	26.55	
+703. LOC_Os06g31910.1	LOC_Os06g31910	19.777	
+704. LOC_Os06g32050.1	LOC_Os06g32050	30.589	
+705. LOC_Os06g32060.1	LOC_Os06g32060	28.991	
+706. LOC_Os06g32110.1	LOC_Os06g32110	29.086	
+707. LOC_Os06g32450.1	LOC_Os06g32450	17.757	
+708. LOC_Os06g32890.1	LOC_Os06g32890	28.605	
+709. LOC_Os06g33020.1	LOC_Os06g33020	13.504	
+710. LOC_Os06g33750.1	LOC_Os06g33750	27.743	
+711. LOC_Os06g34380.1	LOC_Os06g34380	16.499	
+712. LOC_Os06g35040.1	LOC_Os06g35040	29.453	
+713. LOC_Os06g35220.1	LOC_Os06g35220	45.295	
+714. LOC_Os06g36710.1	LOC_Os06g36710	17.747	
+715. LOC_Os06g37000.1	LOC_Os06g37000	36.546	
+716. LOC_Os06g37000.2	LOC_Os06g37000	36.546	
+717. LOC_Os06g38240.1	LOC_Os06g38240	33.256	
+718. LOC_Os06g38980.1	LOC_Os06g38980	24.428	
+719. LOC_Os06g39480.1	LOC_Os06g39480	28.021	LC3
+720. LOC_Os06g39624.2	LOC_Os06g39624	17.347	
+721. LOC_Os06g39624.1	LOC_Os06g39624	17.347	
+722. LOC_Os06g39624.3	LOC_Os06g39624	17.347	
+723. LOC_Os06g39790.1	LOC_Os06g39790	18.817	
+724. LOC_Os06g40020.1	LOC_Os06g40020	25.997	
+725. LOC_Os06g41190.1	LOC_Os06g41190	24.152	
+726. LOC_Os06g41740.1	LOC_Os06g41740	29.42	
+727. LOC_Os06g41790.1	LOC_Os06g41790	24.845	
+728. LOC_Os06g43190.2	LOC_Os06g43190	31.069	
+729. LOC_Os06g43190.3	LOC_Os06g43190	31.069	
+730. LOC_Os06g43190.1	LOC_Os06g43190	31.069	
+731. LOC_Os06g43910.1	LOC_Os06g43910	23.609	
+732. LOC_Os06g44280.1	LOC_Os06g44280	69.778	
+733. LOC_Os06g44750.1	LOC_Os06g44750	21.936	HL6|OsGL6
+734. LOC_Os06g45050.1	LOC_Os06g45050	28.967	
+735. LOC_Os06g46400.1	LOC_Os06g46400	43.847	
+736. LOC_Os06g46410.1	LOC_Os06g46410	40.741	OsARF17
+737. LOC_Os06g46410.2	LOC_Os06g46410	40.741	OsARF17
+738. LOC_Os06g46880.1	LOC_Os06g46880	21.768	
+739. LOC_Os06g47190.1	LOC_Os06g47190	22.174	
+740. LOC_Os06g47510.1	LOC_Os06g47510	16.591	
+741. LOC_Os06g48070.1	LOC_Os06g48070	14.408	
+742. LOC_Os06g48110.1	LOC_Os06g48110	29.993	
+743. LOC_Os06g48370.1	LOC_Os06g48370	17.818	
+744. LOC_Os06g48380.1	LOC_Os06g48380	17.818	
+745. LOC_Os06g48400.1	LOC_Os06g48400	17.818	
+746. LOC_Os06g48950.1	LOC_Os06g48950	58.992	OsARF19
+747. LOC_Os06g49080.1	LOC_Os06g49080	32.119	LIC|OsLIC1|OsLIC|OsFLA6
+748. LOC_Os06g49290.1	LOC_Os06g49290	13.247	
+749. LOC_Os06g50840.1	LOC_Os06g50840	11.174	
+750. LOC_Os06g51440.1	LOC_Os06g51440	72.511	
+751. LOC_Os07g01430.1	LOC_Os07g01430	29.787	
+752. LOC_Os07g03230.1	LOC_Os07g03230	12.025	
+753. LOC_Os07g03230.2	LOC_Os07g03230	12.025	
+754. LOC_Os07g03240.1	LOC_Os07g03240	21.463	
+755. LOC_Os07g03560.1	LOC_Os07g03560	27.617	
+756. LOC_Os07g03630.1	LOC_Os07g03630	28.882	
+757. LOC_Os07g05010.3	LOC_Os07g05010	15.274	OsPIL14|OsPIF14
+758. LOC_Os07g05010.2	LOC_Os07g05010	15.274	OsPIL14|OsPIF14
+759. LOC_Os07g05010.1	LOC_Os07g05010	15.274	OsPIL14|OsPIF14
+760. LOC_Os07g05810.1	LOC_Os07g05810	41.51	
+761. LOC_Os07g06020.1	LOC_Os07g06020	29.248	
+762. LOC_Os07g06110.1	LOC_Os07g06110	13.399	
+763. LOC_Os07g06130.2	LOC_Os07g06130	15.81	OsEIN2
+764. LOC_Os07g06130.3	LOC_Os07g06130	15.81	OsEIN2
+765. LOC_Os07g06130.1	LOC_Os07g06130	15.81	OsEIN2
+766. LOC_Os07g07220.1	LOC_Os07g07220	24.032	
+767. LOC_Os07g07490.2	LOC_Os07g07490	20.801	
+768. LOC_Os07g07490.1	LOC_Os07g07490	20.801	
+769. LOC_Os07g08920.1	LOC_Os07g08920	13.208	
+770. LOC_Os07g09020.1	LOC_Os07g09020	15.47	
+771. LOC_Os07g11400.1	LOC_Os07g11400	30.706	
+772. LOC_Os07g11590.1	LOC_Os07g11590	28.87	
+773. LOC_Os07g11640.1	LOC_Os07g11640	20.115	
+774. LOC_Os07g12360.1	LOC_Os07g12360	31.538	
+775. LOC_Os07g13120.1	LOC_Os07g13120	22.732	
+776. LOC_Os07g13280.1	LOC_Os07g13280	19.297	
+777. LOC_Os07g14060.1	LOC_Os07g14060	17.671	
+778. LOC_Os07g14250.1	LOC_Os07g14250	19.562	
+779. LOC_Os07g14330.1	LOC_Os07g14330	12.963	
+780. LOC_Os07g14340.1	LOC_Os07g14340	13.472	
+781. LOC_Os07g14380.1	LOC_Os07g14380	16.127	
+782. LOC_Os07g16460.1	LOC_Os07g16460	25.9	
+783. LOC_Os07g16520.1	LOC_Os07g16520	16.937	
+784. LOC_Os07g16560.1	LOC_Os07g16560	29.486	
+785. LOC_Os07g16630.1	LOC_Os07g16630	33.383	
+786. LOC_Os07g16650.1	LOC_Os07g16650	27.992	
+787. LOC_Os07g16700.1	LOC_Os07g16700	17.403	
+788. LOC_Os07g16720.1	LOC_Os07g16720	16.899	
+789. LOC_Os07g16750.1	LOC_Os07g16750	20.775	
+790. LOC_Os07g16770.1	LOC_Os07g16770	33.563	
+791. LOC_Os07g16830.1	LOC_Os07g16830	16.337	
+792. LOC_Os07g16850.1	LOC_Os07g16850	31.026	
+793. LOC_Os07g16860.1	LOC_Os07g16860	33.382	
+794. LOC_Os07g17610.1	LOC_Os07g17610	23.196	
+795. LOC_Os07g17620.1	LOC_Os07g17620	23.196	
+796. LOC_Os07g17800.1	LOC_Os07g17800	31.776	
+797. LOC_Os07g18050.1	LOC_Os07g18050	37.348	
+798. LOC_Os07g18770.1	LOC_Os07g18770	25.181	
+799. LOC_Os07g20670.1	LOC_Os07g20670	25.319	
+800. LOC_Os07g22200.1	LOC_Os07g22200	12.905	
+801. LOC_Os07g23660.1	LOC_Os07g23660	16.859	RePRP2.1
+802. LOC_Os07g24440.1	LOC_Os07g24440	13.792	
+803. LOC_Os07g24520.1	LOC_Os07g24520	13.792	
+804. LOC_Os07g24660.1	LOC_Os07g24660	22.748	
+805. LOC_Os07g24700.1	LOC_Os07g24700	27.444	
+806. LOC_Os07g24990.1	LOC_Os07g24990	14.38	
+807. LOC_Os07g25330.1	LOC_Os07g25330	14.079	
+808. LOC_Os07g25630.1	LOC_Os07g25630	25.974	
+809. LOC_Os07g25810.1	LOC_Os07g25810	16.782	
+810. LOC_Os07g26040.1	LOC_Os07g26040	13.579	
+811. LOC_Os07g26390.1	LOC_Os07g26390	12.175	
+812. LOC_Os07g27420.1	LOC_Os07g27420	27.029	
+813. LOC_Os07g27560.1	LOC_Os07g27560	22.954	
+814. LOC_Os07g28510.1	LOC_Os07g28510	17.457	
+815. LOC_Os07g28850.1	LOC_Os07g28850	35.028	AGO18|OsAGO18
+816. LOC_Os07g29150.1	LOC_Os07g29150	17.006	
+817. LOC_Os07g29570.1	LOC_Os07g29570	29.563	
+818. LOC_Os07g30320.1	LOC_Os07g30320	31.031	
+819. LOC_Os07g30730.1	LOC_Os07g30730	18.294	
+820. LOC_Os07g30880.1	LOC_Os07g30880	18.927	
+821. LOC_Os07g31340.1	LOC_Os07g31340	37.542	
+822. LOC_Os07g31340.2	LOC_Os07g31340	37.542	
+823. LOC_Os07g31340.3	LOC_Os07g31340	37.214	
+824. LOC_Os07g31540.1	LOC_Os07g31540	12.595	CRTintP
+825. LOC_Os07g32450.1	LOC_Os07g32450	12.269	
+826. LOC_Os07g32680.1	LOC_Os07g32680	64.006	
+827. LOC_Os07g32700.1	LOC_Os07g32700	36.305	
+828. LOC_Os07g32710.1	LOC_Os07g32710	52.339	
+829. LOC_Os07g33330.1	LOC_Os07g33330	39.44	
+830. LOC_Os07g36940.1	LOC_Os07g36940	16.221	eIF4G
+831. LOC_Os07g36940.2	LOC_Os07g36940	16.221	eIF4G
+832. LOC_Os07g37610.1	LOC_Os07g37610	11.893	GD1
+833. LOC_Os07g37650.1	LOC_Os07g37650	19.348	
+834. LOC_Os07g38050.1	LOC_Os07g38050	18.607	
+835. LOC_Os07g38320.1	LOC_Os07g38320	25.508	
+836. LOC_Os07g38340.1	LOC_Os07g38340	29.246	
+837. LOC_Os07g38350.1	LOC_Os07g38350	14.494	
+838. LOC_Os07g38360.3	LOC_Os07g38360	31.472	
+839. LOC_Os07g38360.2	LOC_Os07g38360	31.472	
+840. LOC_Os07g38360.4	LOC_Os07g38360	31.472	
+841. LOC_Os07g38580.1	LOC_Os07g38580	15.941	
+842. LOC_Os07g38780.1	LOC_Os07g38780	14.981	
+843. LOC_Os07g39560.3	LOC_Os07g39560	25.268	
+844. LOC_Os07g39560.1	LOC_Os07g39560	25.268	
+845. LOC_Os07g39560.2	LOC_Os07g39560	25.268	
+846. LOC_Os07g39680.1	LOC_Os07g39680	25.17	OSPGYRP
+847. LOC_Os07g39820.1	LOC_Os07g39820	29.744	OsSHR1
+848. LOC_Os07g40270.1	LOC_Os07g40270	9.781	
+849. LOC_Os07g40510.1	LOC_Os07g40510	15.19	
+850. LOC_Os07g40900.1	LOC_Os07g40900	22.185	
+851. LOC_Os07g41100.1	LOC_Os07g41100	12.017	
+852. LOC_Os07g41120.1	LOC_Os07g41120	17.142	
+853. LOC_Os07g41180.1	LOC_Os07g41180	60.295	
+854. LOC_Os07g41580.1	LOC_Os07g41580	22.609	
+855. LOC_Os07g41600.3	LOC_Os07g41600	20.311	
+856. LOC_Os07g41600.1	LOC_Os07g41600	20.311	
+857. LOC_Os07g41600.2	LOC_Os07g41600	20.311	
+858. LOC_Os07g43790.1	LOC_Os07g43790	20.297	
+859. LOC_Os07g45064.1	LOC_Os07g45064	16.216	
+860. LOC_Os07g45410.1	LOC_Os07g45410	24.462	
+861. LOC_Os07g45830.1	LOC_Os07g45830	15.323	
+862. LOC_Os07g46180.1	LOC_Os07g46180	18.701	
+863. LOC_Os07g46370.1	LOC_Os07g46370	38.413	
+864. LOC_Os07g47480.1	LOC_Os07g47480	14.842	
+865. LOC_Os07g47480.2	LOC_Os07g47480	14.842	
+866. LOC_Os07g48602.1	LOC_Os07g48602	40.808	
+867. LOC_Os07g48910.3	LOC_Os07g48910	16.972	
+868. LOC_Os07g48910.1	LOC_Os07g48910	60.808	
+869. LOC_Os07g48910.2	LOC_Os07g48910	40.219	
+870. LOC_Os08g01054.1	LOC_Os08g01054	25.169	
+871. LOC_Os08g01054.2	LOC_Os08g01054	25.169	
+872. LOC_Os08g01054.3	LOC_Os08g01054	25.169	
+873. LOC_Os08g01070.4	LOC_Os08g01070	12.839	
+874. LOC_Os08g01070.2	LOC_Os08g01070	12.839	
+875. LOC_Os08g01070.1	LOC_Os08g01070	12.839	
+876. LOC_Os08g01090.1	LOC_Os08g01090	14.846	IDEF1
+877. LOC_Os08g01690.1	LOC_Os08g01690	9.824	
+878. LOC_Os08g01930.1	LOC_Os08g01930	132.511	
+879. LOC_Os08g03130.1	LOC_Os08g03130	27.943	
+880. LOC_Os08g04170.1	LOC_Os08g04170	16.49	
+881. LOC_Os08g04510.1	LOC_Os08g04510	30.22	
+882. LOC_Os08g04730.1	LOC_Os08g04730	22.715	
+883. LOC_Os08g04950.1	LOC_Os08g04950	19.724	
+884. LOC_Os08g05940.1	LOC_Os08g05940	50.461	
+885. LOC_Os08g06310.1	LOC_Os08g06310	29.834	
+886. LOC_Os08g07870.1	LOC_Os08g07870	23.806	
+887. LOC_Os08g08000.1	LOC_Os08g08000	76.294	
+888. LOC_Os08g08460.1	LOC_Os08g08460	32.171	
+889. LOC_Os08g08550.1	LOC_Os08g08550	26.26	
+890. LOC_Os08g09100.1	LOC_Os08g09100	28.6	
+891. LOC_Os08g11070.1	LOC_Os08g11070	11.209	
+892. LOC_Os08g11120.1	LOC_Os08g11120	35.072	
+893. LOC_Os08g11150.1	LOC_Os08g11150	17.648	
+894. LOC_Os08g11200.1	LOC_Os08g11200	14.411	
+895. LOC_Os08g11430.1	LOC_Os08g11430	20.469	
+896. LOC_Os08g11570.1	LOC_Os08g11570	20.115	
+897. LOC_Os08g11780.1	LOC_Os08g11780	16.445	
+898. LOC_Os08g11790.1	LOC_Os08g11790	23.998	
+899. LOC_Os08g11800.1	LOC_Os08g11800	37.561	
+900. LOC_Os08g11830.1	LOC_Os08g11830	16.11	
+901. LOC_Os08g11850.1	LOC_Os08g11850	20.115	
+902. LOC_Os08g11890.1	LOC_Os08g11890	15.726	
+903. LOC_Os08g11930.1	LOC_Os08g11930	30.939	
+904. LOC_Os08g11950.1	LOC_Os08g11950	12.521	
+905. LOC_Os08g11960.1	LOC_Os08g11960	17.938	
+906. LOC_Os08g11980.1	LOC_Os08g11980	27.865	
+907. LOC_Os08g12010.1	LOC_Os08g12010	31.944	
+908. LOC_Os08g12080.1	LOC_Os08g12080	13.051	
+909. LOC_Os08g12290.1	LOC_Os08g12290	30.589	
+910. LOC_Os08g12300.1	LOC_Os08g12300	27.329	
+911. LOC_Os08g12340.1	LOC_Os08g12340	22.407	
+912. LOC_Os08g12580.1	LOC_Os08g12580	12.128	
+913. LOC_Os08g12700.1	LOC_Os08g12700	21.448	
+914. LOC_Os08g12760.1	LOC_Os08g12760	16.622	
+915. LOC_Os08g12760.3	LOC_Os08g12760	16.622	
+916. LOC_Os08g12760.4	LOC_Os08g12760	16.622	
+917. LOC_Os08g12760.2	LOC_Os08g12760	15.061	
+918. LOC_Os08g12950.1	LOC_Os08g12950	22.576	
+919. LOC_Os08g14530.1	LOC_Os08g14530	25.365	
+920. LOC_Os08g16000.1	LOC_Os08g16000	31.887	
+921. LOC_Os08g16240.1	LOC_Os08g16240	27.518	
+922. LOC_Os08g17180.1	LOC_Os08g17180	20.013	
+923. LOC_Os08g19730.1	LOC_Os08g19730	18.625	
+924. LOC_Os08g19890.1	LOC_Os08g19890	27.189	
+925. LOC_Os08g20030.1	LOC_Os08g20030	20.866	
+926. LOC_Os08g20370.1	LOC_Os08g20370	19.511	
+927. LOC_Os08g20410.1	LOC_Os08g20410	19.058	
+928. LOC_Os08g20800.1	LOC_Os08g20800	30.548	
+929. LOC_Os08g20849.1	LOC_Os08g20849	30.316	
+930. LOC_Os08g20967.1	LOC_Os08g20967	26.144	
+931. LOC_Os08g21860.1	LOC_Os08g21860	26.176	
+932. LOC_Os08g22284.1	LOC_Os08g22284	16.048	
+933. LOC_Os08g22310.1	LOC_Os08g22310	16.881	
+934. LOC_Os08g22354.2	LOC_Os08g22354	20.194	
+935. LOC_Os08g22354.1	LOC_Os08g22354	20.194	
+936. LOC_Os08g23050.1	LOC_Os08g23050	16.196	
+937. LOC_Os08g23070.1	LOC_Os08g23070	28.972	
+938. LOC_Os08g23080.1	LOC_Os08g23080	26.19	
+939. LOC_Os08g23120.1	LOC_Os08g23120	17.357	
+940. LOC_Os08g23170.1	LOC_Os08g23170	17.154	
+941. LOC_Os08g23400.1	LOC_Os08g23400	21.648	
+942. LOC_Os08g24050.1	LOC_Os08g24050	14.792	
+943. LOC_Os08g24560.1	LOC_Os08g24560	28.972	
+944. LOC_Os08g24570.1	LOC_Os08g24570	12.554	
+945. LOC_Os08g24580.1	LOC_Os08g24580	16.071	
+946. LOC_Os08g25860.1	LOC_Os08g25860	22.057	
+947. LOC_Os08g26350.1	LOC_Os08g26350	18.651	
+948. LOC_Os08g26520.1	LOC_Os08g26520	16.018	
+949. LOC_Os08g26920.1	LOC_Os08g26920	24.961	
+950. LOC_Os08g27110.1	LOC_Os08g27110	36.124	
+951. LOC_Os08g27900.1	LOC_Os08g27900	15.029	
+952. LOC_Os08g29124.1	LOC_Os08g29124	134.294	
+953. LOC_Os08g29250.1	LOC_Os08g29250	29.403	
+954. LOC_Os08g29500.1	LOC_Os08g29500	62.088	
+955. LOC_Os08g29500.2	LOC_Os08g29500	62.088	
+956. LOC_Os08g30010.1	LOC_Os08g30010	21.118	
+957. LOC_Os08g30190.1	LOC_Os08g30190	26.308	
+958. LOC_Os08g30940.1	LOC_Os08g30940	24.513	
+959. LOC_Os08g31080.1	LOC_Os08g31080	16.936	
+960. LOC_Os08g31540.1	LOC_Os08g31540	30.963	
+961. LOC_Os08g32100.1	LOC_Os08g32100	17.429	
+962. LOC_Os08g32790.1	LOC_Os08g32790	17.376	
+963. LOC_Os08g33830.2	LOC_Os08g33830	13.431	
+964. LOC_Os08g33830.1	LOC_Os08g33830	13.431	
+965. LOC_Os08g34390.1	LOC_Os08g34390	34.373	
+966. LOC_Os08g35270.1	LOC_Os08g35270	20.816	
+967. LOC_Os08g35540.1	LOC_Os08g35540	24.085	
+968. LOC_Os08g36620.1	LOC_Os08g36620	25.912	
+969. LOC_Os08g38240.1	LOC_Os08g38240	30.387	
+970. LOC_Os08g38370.1	LOC_Os08g38370	28.93	
+971. LOC_Os08g38410.3	LOC_Os08g38410	14.819	OsRBGD3
+972. LOC_Os08g39310.1	LOC_Os08g39310	26.562	
+973. LOC_Os08g40770.1	LOC_Os08g40770	16.808	
+974. LOC_Os08g40900.2	LOC_Os08g40900	32.694	
+975. LOC_Os08g40900.1	LOC_Os08g40900	32.694	
+976. LOC_Os08g41010.3	LOC_Os08g41010	17.858	
+977. LOC_Os08g41010.6	LOC_Os08g41010	17.858	
+978. LOC_Os08g41010.5	LOC_Os08g41010	17.282	
+979. LOC_Os08g41010.1	LOC_Os08g41010	17.282	
+980. LOC_Os08g41010.4	LOC_Os08g41010	17.858	
+981. LOC_Os08g41010.7	LOC_Os08g41010	17.427	
+982. LOC_Os08g41010.2	LOC_Os08g41010	17.282	
+983. LOC_Os08g42450.1	LOC_Os08g42450	22.125	
+984. LOC_Os08g43060.2	LOC_Os08g43060	15.123	
+985. LOC_Os08g43060.1	LOC_Os08g43060	15.123	
+986. LOC_Os08g43060.3	LOC_Os08g43060	15.123	
+987. LOC_Os08g43160.1	LOC_Os08g43160	12.572	PCF2|OsPCF2
+988. LOC_Os08g44200.1	LOC_Os08g44200	13.519	
+989. LOC_Os08g44390.1	LOC_Os08g44390	15.559	
+990. LOC_Os08g44390.2	LOC_Os08g44390	15.559	
+991. LOC_Os08g44390.4	LOC_Os08g44390	15.559	
+992. LOC_Os08g44390.3	LOC_Os08g44390	15.559	
+993. LOC_Os08g44850.1	LOC_Os08g44850	17.101	
+994. LOC_Os08g45080.1	LOC_Os08g45080	165.952	
+995. LOC_Os09g01060.1	LOC_Os09g01060	28.913	
+996. LOC_Os09g01100.1	LOC_Os09g01100	16.636	
+997. LOC_Os09g01170.1	LOC_Os09g01170	23.098	
+998. LOC_Os09g01250.1	LOC_Os09g01250	28.989	
+999. LOC_Os09g01260.1	LOC_Os09g01260	17.649	
+1000. LOC_Os09g01270.1	LOC_Os09g01270	16.394	
+1001. LOC_Os09g01460.1	LOC_Os09g01460	11.818	
+1002. LOC_Os09g02020.1	LOC_Os09g02020	22.635	
+1003. LOC_Os09g02700.1	LOC_Os09g02700	25.127	
+1004. LOC_Os09g03110.1	LOC_Os09g03110	20.612	
+1005. LOC_Os09g03350.1	LOC_Os09g03350	13.223	
+1006. LOC_Os09g03420.1	LOC_Os09g03420	17.291	
+1007. LOC_Os09g03610.2	LOC_Os09g03610	63.136	FCA|OsFCA
+1008. LOC_Os09g03610.1	LOC_Os09g03610	63.136	FCA|OsFCA
+1009. LOC_Os09g03610.4	LOC_Os09g03610	63.136	FCA|OsFCA
+1010. LOC_Os09g03610.3	LOC_Os09g03610	63.136	FCA|OsFCA
+1011. LOC_Os09g03830.1	LOC_Os09g03830	22.303	
+1012. LOC_Os09g04670.1	LOC_Os09g04670	55.536	
+1013. LOC_Os09g06150.1	LOC_Os09g06150	13.238	
+1014. LOC_Os09g06270.1	LOC_Os09g06270	20.323	
+1015. LOC_Os09g08180.1	LOC_Os09g08180	18.115	
+1016. LOC_Os09g08900.1	LOC_Os09g08900	17.714	
+1017. LOC_Os09g09050.1	LOC_Os09g09050	12.841	
+1018. LOC_Os09g09100.1	LOC_Os09g09100	17.121	
+1019. LOC_Os09g09130.1	LOC_Os09g09130	12.405	
+1020. LOC_Os09g09770.1	LOC_Os09g09770	16.899	
+1021. LOC_Os09g09960.1	LOC_Os09g09960	27.139	
+1022. LOC_Os09g10240.1	LOC_Os09g10240	17.231	
+1023. LOC_Os09g10470.1	LOC_Os09g10470	26.98	
+1024. LOC_Os09g11360.1	LOC_Os09g11360	23.608	
+1025. LOC_Os09g11880.1	LOC_Os09g11880	15.766	
+1026. LOC_Os09g11970.1	LOC_Os09g11970	12.881	
+1027. LOC_Os09g12890.1	LOC_Os09g12890	18.078	
+1028. LOC_Os09g12940.1	LOC_Os09g12940	28.509	
+1029. LOC_Os09g13100.1	LOC_Os09g13100	11.099	
+1030. LOC_Os09g13150.1	LOC_Os09g13150	15.74	
+1031. LOC_Os09g13180.1	LOC_Os09g13180	28.217	
+1032. LOC_Os09g13610.1	LOC_Os09g13610	121.952	OsMED25
+1033. LOC_Os09g13610.3	LOC_Os09g13610	38.731	OsMED25
+1034. LOC_Os09g13710.1	LOC_Os09g13710	29.086	
+1035. LOC_Os09g14340.1	LOC_Os09g14340	31.314	
+1036. LOC_Os09g14360.1	LOC_Os09g14360	28.681	
+1037. LOC_Os09g15470.1	LOC_Os09g15470	14.975	
+1038. LOC_Os09g16350.1	LOC_Os09g16350	18.348	
+1039. LOC_Os09g17020.1	LOC_Os09g17020	33.446	
+1040. LOC_Os09g17030.1	LOC_Os09g17030	19.448	
+1041. LOC_Os09g17210.1	LOC_Os09g17210	11.212	
+1042. LOC_Os09g17410.1	LOC_Os09g17410	25.619	
+1043. LOC_Os09g17450.1	LOC_Os09g17450	21.08	
+1044. LOC_Os09g21640.1	LOC_Os09g21640	28.525	
+1045. LOC_Os09g21860.1	LOC_Os09g21860	24.952	
+1046. LOC_Os09g22310.1	LOC_Os09g22310	19.041	
+1047. LOC_Os09g24090.1	LOC_Os09g24090	30.28	
+1048. LOC_Os09g25040.1	LOC_Os09g25040	17.706	
+1049. LOC_Os09g25690.1	LOC_Os09g25690	34.418	
+1050. LOC_Os09g25710.1	LOC_Os09g25710	9.638	
+1051. LOC_Os09g25720.1	LOC_Os09g25720	11.042	
+1052. LOC_Os09g28260.1	LOC_Os09g28260	17.376	
+1053. LOC_Os09g29980.2	LOC_Os09g29980	27.25	
+1054. LOC_Os09g29980.1	LOC_Os09g29980	27.25	
+1055. LOC_Os09g30400.3	LOC_Os09g30400	14.639	OsWRKY80
+1056. LOC_Os09g30400.2	LOC_Os09g30400	14.639	OsWRKY80
+1057. LOC_Os09g30400.1	LOC_Os09g30400	14.639	OsWRKY80
+1058. LOC_Os09g30494.1	LOC_Os09g30494	22.303	
+1059. LOC_Os09g33480.1	LOC_Os09g33480	69.658	
+1060. LOC_Os09g33559.1	LOC_Os09g33559	20.664	
+1061. LOC_Os09g34060.1	LOC_Os09g34060	32.148	RF2a|OsbZIP75
+1062. LOC_Os09g34070.2	LOC_Os09g34070	17.834	OsRRMh
+1063. LOC_Os09g34070.1	LOC_Os09g34070	17.834	OsRRMh
+1064. LOC_Os09g36090.1	LOC_Os09g36090	56.528	
+1065. LOC_Os09g36920.1	LOC_Os09g36920	35.992	
+1066. LOC_Os09g37520.1	LOC_Os09g37520	34.553	
+1067. LOC_Os09g38180.1	LOC_Os09g38180	34.543	
+1068. LOC_Os09g38340.3	LOC_Os09g38340	14.978	
+1069. LOC_Os09g38340.2	LOC_Os09g38340	14.978	
+1070. LOC_Os09g38340.1	LOC_Os09g38340	14.978	
+1071. LOC_Os09g39770.1	LOC_Os09g39770	14.803	OsC2DP
+1072. LOC_Os10g01890.1	LOC_Os10g01890	24.035	
+1073. LOC_Os10g01960.1	LOC_Os10g01960	15.387	
+1074. LOC_Os10g02950.1	LOC_Os10g02950	11.845	
+1075. LOC_Os10g02960.1	LOC_Os10g02960	9.746	
+1076. LOC_Os10g06070.1	LOC_Os10g06070	19.814	
+1077. LOC_Os10g06170.1	LOC_Os10g06170	29.544	
+1078. LOC_Os10g06230.1	LOC_Os10g06230	12.53	
+1079. LOC_Os10g06270.1	LOC_Os10g06270	15.296	
+1080. LOC_Os10g06310.1	LOC_Os10g06310	32.472	
+1081. LOC_Os10g06330.1	LOC_Os10g06330	29.403	
+1082. LOC_Os10g06450.1	LOC_Os10g06450	30.28	
+1083. LOC_Os10g06520.1	LOC_Os10g06520	16.636	
+1084. LOC_Os10g06910.1	LOC_Os10g06910	19.751	
+1085. LOC_Os10g08820.1	LOC_Os10g08820	18.474	
+1086. LOC_Os10g09060.1	LOC_Os10g09060	16.021	
+1087. LOC_Os10g09220.1	LOC_Os10g09220	26.866	
+1088. LOC_Os10g09490.1	LOC_Os10g09490	29.447	
+1089. LOC_Os10g10100.1	LOC_Os10g10100	21.928	
+1090. LOC_Os10g10460.1	LOC_Os10g10460	22.712	
+1091. LOC_Os10g11190.1	LOC_Os10g11190	17.705	
+1092. LOC_Os10g11430.1	LOC_Os10g11430	13.311	
+1093. LOC_Os10g11672.1	LOC_Os10g11672	26.716	
+1094. LOC_Os10g11690.1	LOC_Os10g11690	31.792	
+1095. LOC_Os10g11702.1	LOC_Os10g11702	31.94	
+1096. LOC_Os10g12630.1	LOC_Os10g12630	17.442	
+1097. LOC_Os10g12670.1	LOC_Os10g12670	30.589	
+1098. LOC_Os10g12710.1	LOC_Os10g12710	29.44	
+1099. LOC_Os10g12770.1	LOC_Os10g12770	28.094	
+1100. LOC_Os10g12808.1	LOC_Os10g12808	29.483	
+1101. LOC_Os10g13350.1	LOC_Os10g13350	30.589	
+1102. LOC_Os10g13610.1	LOC_Os10g13610	13.493	
+1103. LOC_Os10g13670.1	LOC_Os10g13670	27.508	
+1104. LOC_Os10g15060.1	LOC_Os10g15060	12.32	
+1105. LOC_Os10g16480.1	LOC_Os10g16480	29.13	
+1106. LOC_Os10g16550.1	LOC_Os10g16550	25.364	
+1107. LOC_Os10g16600.1	LOC_Os10g16600	28.971	
+1108. LOC_Os10g16640.1	LOC_Os10g16640	30.085	
+1109. LOC_Os10g16640.2	LOC_Os10g16640	30.085	
+1110. LOC_Os10g16720.1	LOC_Os10g16720	16.078	
+1111. LOC_Os10g16900.1	LOC_Os10g16900	16.552	
+1112. LOC_Os10g16910.1	LOC_Os10g16910	30.589	
+1113. LOC_Os10g16950.1	LOC_Os10g16950	20.729	
+1114. LOC_Os10g17050.1	LOC_Os10g17050	22.303	
+1115. LOC_Os10g17340.1	LOC_Os10g17340	28.989	
+1116. LOC_Os10g17360.1	LOC_Os10g17360	29.575	
+1117. LOC_Os10g17380.1	LOC_Os10g17380	10.857	
+1118. LOC_Os10g17410.1	LOC_Os10g17410	14.617	
+1119. LOC_Os10g17454.3	LOC_Os10g17454	32.409	
+1120. LOC_Os10g17454.2	LOC_Os10g17454	39.713	
+1121. LOC_Os10g17454.1	LOC_Os10g17454	39.713	
+1122. LOC_Os10g17560.1	LOC_Os10g17560	16.078	
+1123. LOC_Os10g17800.1	LOC_Os10g17800	20.682	
+1124. LOC_Os10g17820.1	LOC_Os10g17820	17.623	
+1125. LOC_Os10g18364.1	LOC_Os10g18364	16.581	
+1126. LOC_Os10g18660.1	LOC_Os10g18660	23.487	
+1127. LOC_Os10g20020.1	LOC_Os10g20020	27.743	
+1128. LOC_Os10g20030.1	LOC_Os10g20030	25.256	
+1129. LOC_Os10g20570.1	LOC_Os10g20570	13.493	
+1130. LOC_Os10g24420.1	LOC_Os10g24420	29.854	
+1131. LOC_Os10g24510.1	LOC_Os10g24510	25.526	
+1132. LOC_Os10g24560.1	LOC_Os10g24560	27.444	
+1133. LOC_Os10g24580.1	LOC_Os10g24580	26.918	
+1134. LOC_Os10g24620.1	LOC_Os10g24620	17.398	
+1135. LOC_Os10g25200.1	LOC_Os10g25200	142.24	
+1136. LOC_Os10g25220.1	LOC_Os10g25220	20.267	
+1137. LOC_Os10g25530.1	LOC_Os10g25530	29.403	
+1138. LOC_Os10g25720.1	LOC_Os10g25720	16.184	
+1139. LOC_Os10g26210.1	LOC_Os10g26210	21.758	
+1140. LOC_Os10g26950.1	LOC_Os10g26950	21.819	
+1141. LOC_Os10g29490.1	LOC_Os10g29490	29.961	
+1142. LOC_Os10g29980.1	LOC_Os10g29980	17.162	
+1143. LOC_Os10g30450.1	LOC_Os10g30450	11.143	
+1144. LOC_Os10g31320.2	LOC_Os10g31320	31.009	
+1145. LOC_Os10g31320.1	LOC_Os10g31320	64.158	
+1146. LOC_Os10g31330.3	LOC_Os10g31330	36.927	Osgrp-2|OsGRP2
+1147. LOC_Os10g31330.6	LOC_Os10g31330	46.071	Osgrp-2|OsGRP2
+1148. LOC_Os10g31330.1	LOC_Os10g31330	52.498	Osgrp-2|OsGRP2
+1149. LOC_Os10g31330.2	LOC_Os10g31330	49.135	Osgrp-2|OsGRP2
+1150. LOC_Os10g31330.5	LOC_Os10g31330	45.485	Osgrp-2|OsGRP2
+1151. LOC_Os10g31370.1	LOC_Os10g31370	25.079	
+1152. LOC_Os10g31380.1	LOC_Os10g31380	52.452	
+1153. LOC_Os10g31420.1	LOC_Os10g31420	79.815	
+1154. LOC_Os10g31440.1	LOC_Os10g31440	100.146	
+1155. LOC_Os10g31440.2	LOC_Os10g31440	95.372	
+1156. LOC_Os10g31460.4	LOC_Os10g31460	41.016	CAI1
+1157. LOC_Os10g31460.5	LOC_Os10g31460	45.405	CAI1
+1158. LOC_Os10g31460.2	LOC_Os10g31460	53.237	CAI1
+1159. LOC_Os10g31460.1	LOC_Os10g31460	63.125	CAI1
+1160. LOC_Os10g31490.1	LOC_Os10g31490	61.153	
+1161. LOC_Os10g31500.1	LOC_Os10g31500	48.181	
+1162. LOC_Os10g31510.1	LOC_Os10g31510	44.074	
+1163. LOC_Os10g31530.1	LOC_Os10g31530	45.669	
+1164. LOC_Os10g31540.1	LOC_Os10g31540	53.218	
+1165. LOC_Os10g31560.1	LOC_Os10g31560	26.599	
+1166. LOC_Os10g31690.1	LOC_Os10g31690	24.459	
+1167. LOC_Os10g31620.1	LOC_Os10g31620	12.738	
+1168. LOC_Os10g31630.1	LOC_Os10g31630	34.221	
+1169. LOC_Os10g31640.1	LOC_Os10g31640	50.834	
+1170. LOC_Os10g31660.1	LOC_Os10g31660	53.098	
+1171. LOC_Os10g31670.1	LOC_Os10g31670	60.024	
+1172. LOC_Os10g31680.1	LOC_Os10g31680	52.721	
+1173. LOC_Os10g31710.1	LOC_Os10g31710	54.296	
+1174. LOC_Os10g31720.1	LOC_Os10g31720	47.385	
+1175. LOC_Os10g31730.1	LOC_Os10g31730	46.606	
+1176. LOC_Os10g31740.1	LOC_Os10g31740	38.857	
+1177. LOC_Os10g31900.1	LOC_Os10g31900	23.932	
+1178. LOC_Os10g32850.1	LOC_Os10g32850	13.96	
+1179. LOC_Os10g33230.1	LOC_Os10g33230	76.244	
+1180. LOC_Os10g34380.1	LOC_Os10g34380	18.906	
+1181. LOC_Os10g34500.1	LOC_Os10g34500	12.596	
+1182. LOC_Os10g35190.1	LOC_Os10g35190	21.918	
+1183. LOC_Os10g35250.1	LOC_Os10g35250	51.733	
+1184. LOC_Os10g35990.2	LOC_Os10g35990	40.497	
+1185. LOC_Os10g35990.1	LOC_Os10g35990	40.497	
+1186. LOC_Os10g38060.1	LOC_Os10g38060	36.68	OsPLDbeta1
+1187. LOC_Os10g38060.2	LOC_Os10g38060	36.68	OsPLDbeta1
+1188. LOC_Os10g38370.1	LOC_Os10g38370	22.533	
+1189. LOC_Os10g38402.1	LOC_Os10g38402	12.884	
+1190. LOC_Os10g39620.1	LOC_Os10g39620	13.565	RIF2
+1191. LOC_Os10g39620.2	LOC_Os10g39620	13.565	RIF2
+1192. LOC_Os10g40890.1	LOC_Os10g40890	16.916	
+1193. LOC_Os10g42364.1	LOC_Os10g42364	31.961	
+1194. LOC_Os10g42950.1	LOC_Os10g42950	19.508	
+1195. LOC_Os10g42950.3	LOC_Os10g42950	19.508	
+1196. LOC_Os11g01700.1	LOC_Os11g01700	12.769	
+1197. LOC_Os11g01710.1	LOC_Os11g01710	12.769	
+1198. LOC_Os11g02320.2	LOC_Os11g02320	15.681	
+1199. LOC_Os11g02320.3	LOC_Os11g02320	15.681	
+1200. LOC_Os11g02320.1	LOC_Os11g02320	15.681	
+1201. LOC_Os11g02780.1	LOC_Os11g02780	28.009	
+1202. LOC_Os11g03310.1	LOC_Os11g03310	16.496	
+1203. LOC_Os11g03570.1	LOC_Os11g03570	26.657	
+1204. LOC_Os11g04480.1	LOC_Os11g04480	25.508	
+1205. LOC_Os11g05010.2	LOC_Os11g05010	70.53	
+1206. LOC_Os11g05010.1	LOC_Os11g05010	70.53	
+1207. LOC_Os11g05010.3	LOC_Os11g05010	70.53	
+1208. LOC_Os11g05840.1	LOC_Os11g05840	13.435	
+1209. LOC_Os11g06170.2	LOC_Os11g06170	29.243	OsbZIP81
+1210. LOC_Os11g06920.1	LOC_Os11g06920	27.815	
+1211. LOC_Os11g08080.1	LOC_Os11g08080	25.065	OsSWI3C|OsCHB705|CHB705
+1212. LOC_Os11g08150.1	LOC_Os11g08150	29.404	
+1213. LOC_Os11g10060.1	LOC_Os11g10060	26.537	
+1214. LOC_Os11g10070.1	LOC_Os11g10070	36.159	
+1215. LOC_Os11g10490.1	LOC_Os11g10490	14.451	
+1216. LOC_Os11g10900.1	LOC_Os11g10900	16.301	
+1217. LOC_Os11g11020.1	LOC_Os11g11020	62.1	
+1218. LOC_Os11g11160.1	LOC_Os11g11160	23.04	
+1219. LOC_Os11g12060.1	LOC_Os11g12060	20.106	
+1220. LOC_Os11g12090.1	LOC_Os11g12090	30.899	
+#REF!	LOC_Os11g12130	20.115	
+	LOC_Os11g12210	30.589	
+	LOC_Os11g12850	16.648	
+	LOC_Os11g12874	16.648	
+	LOC_Os11g14090	17.194	
+	LOC_Os11g14300	35.431	
+	LOC_Os11g14580	14.002	
+	LOC_Os11g16870	15.038	
+	LOC_Os11g17230	16.592	
+	LOC_Os11g18410	26.763	
+	LOC_Os11g19130	24.45	
+	LOC_Os11g19420	27.236	
+	LOC_Os11g19520	18.891	
+	LOC_Os11g19970	13.345	
+	LOC_Os11g20450	12.679	
+	LOC_Os11g21790	19.833	
+	LOC_Os11g22342	24.869	
+	LOC_Os11g22430	12.175	
+	LOC_Os11g22900	21.088	
+	LOC_Os11g23736	18.555	
+	LOC_Os11g23870	15.901	
+	LOC_Os11g24012	22.965	
+	LOC_Os11g26050	22.354	
+	LOC_Os11g26370	19.65	
+	LOC_Os11g26540	17.757	
+	LOC_Os11g26670	26.838	
+	LOC_Os11g27210	9.79	
+	LOC_Os11g27410	16.472	
+	LOC_Os11g27790	13.656	
+	LOC_Os11g28250	13.224	
+	LOC_Os11g30700	24.731	
+	LOC_Os11g30990	14.858	
+	LOC_Os11g31230	29.123	
+	LOC_Os11g31510	20.367	
+	LOC_Os11g31890	14.213	
+	LOC_Os11g32270	13.486	
+	LOC_Os11g32270	13.486	
+	LOC_Os11g32270	13.486	
+	LOC_Os11g32720	15.097	
+	LOC_Os11g33000	18.029	
+	LOC_Os11g33030	13.968	
+	LOC_Os11g34290	20.851	
+	LOC_Os11g34490	16.974	
+	LOC_Os11g35740	36.756	
+	LOC_Os11g35750	19.995	
+	LOC_Os11g37090	22.069	
+	LOC_Os11g37440	17.191	
+	LOC_Os11g38090	15.859	
+	LOC_Os11g38870	14.025	OsbHLH061
+	LOC_Os11g38870	14.025	OsbHLH061
+	LOC_Os11g39170	21.212	
+	LOC_Os11g39790	28.729	
+	LOC_Os11g40100	22.033	
+	LOC_Os11g40100	24.102	
+	LOC_Os11g40450	18.301	
+	LOC_Os11g40470	28.559	
+	LOC_Os11g40730	31.858	
+	LOC_Os11g41890	46.989	LGG
+	LOC_Os11g42630	22.972	
+	LOC_Os11g44150	31.508	
+	LOC_Os11g44730	30.931	
+	LOC_Os11g44770	33.895	
+	LOC_Os11g46240	128.593	
+	LOC_Os12g01320	31.025	
+	LOC_Os12g02260	18.407	
+	LOC_Os12g02260	18.407	
+	LOC_Os12g02770	25.33	
+	LOC_Os12g03050	17.484	ONAC300
+	LOC_Os12g03340	27.29	
+	LOC_Os12g03760	28.542	
+	LOC_Os12g04240	22.36	OsCBP
+	LOC_Os12g04240	22.36	OsCBP
+	LOC_Os12g04810	20.763	
+	LOC_Os12g05040	74.893	
+	LOC_Os12g05040	72.152	
+	LOC_Os12g05040	74.893	
+	LOC_Os12g05040	74.893	
+	LOC_Os12g05920	12.128	
+	LOC_Os12g06520	30.226	RSG
+	LOC_Os12g06870	26.574	
+	LOC_Os12g06890	23.97	
+	LOC_Os12g07480	13.18	
+	LOC_Os12g07730	65.865	
+	LOC_Os12g07750	27.757	
+	LOC_Os12g08510	23.585	
+	LOC_Os12g09800	17.278	
+	LOC_Os12g09990	13.141	
+	LOC_Os12g11290	13.202	
+	LOC_Os12g12020	15.328	
+	LOC_Os12g12060	17.165	
+	LOC_Os12g12410	16.078	
+	LOC_Os12g12800	30.504	
+	LOC_Os12g13840	51.851	
+	LOC_Os12g13860	41.254	
+	LOC_Os12g13890	90.315	
+	LOC_Os12g13890	32.204	
+	LOC_Os12g13990	18.964	
+	LOC_Os12g14374	19.802	
+	LOC_Os12g14460	16.2	
+	LOC_Os12g14800	24.124	
+	LOC_Os12g14984	13.798	
+	LOC_Os12g15750	23.589	
+	LOC_Os12g15820	23.589	
+	LOC_Os12g17510	21.959	
+	LOC_Os12g18350	16.726	
+	LOC_Os12g18460	26.672	
+	LOC_Os12g19150	30.403	
+	LOC_Os12g19620	33.923	
+	LOC_Os12g19700	20.73	
+	LOC_Os12g19750	25.97	
+	LOC_Os12g19900	27.444	
+	LOC_Os12g19920	29.36	
+	LOC_Os12g19980	29.403	
+	LOC_Os12g20110	15.75	
+	LOC_Os12g20270	26.867	
+	LOC_Os12g20450	18.88	
+	LOC_Os12g20470	21.418	
+	LOC_Os12g21580	16.426	
+	LOC_Os12g22040	35.132	
+	LOC_Os12g22200	37.021	
+	LOC_Os12g22250	27.227	
+	LOC_Os12g22990	30.899	
+	LOC_Os12g23120	23.364	
+	LOC_Os12g23130	20.605	
+	LOC_Os12g23580	29.36	
+	LOC_Os12g24100	14.741	
+	LOC_Os12g24110	27.113	
+	LOC_Os12g24220	27.452	
+	LOC_Os12g24250	45.949	
+	LOC_Os12g25910	18.064	
+	LOC_Os12g26260	18.13	
+	LOC_Os12g26340	28.483	
+	LOC_Os12g26710	14.759	
+	LOC_Os12g27150	29.483	
+	LOC_Os12g27870	30.901	
+	LOC_Os12g27880	20.425	
+	LOC_Os12g27994	38.015	DEC
+	LOC_Os12g27994	24.816	DEC
+	LOC_Os12g28470	18.251	
+	LOC_Os12g28490	28.053	
+	LOC_Os12g28920	27.786	
+	LOC_Os12g28990	30.354	
+	LOC_Os12g29020	29.903	
+	LOC_Os12g29070	25.47	
+	LOC_Os12g29100	19.511	
+	LOC_Os12g29130	26.005	
+	LOC_Os12g30214	32.489	
+	LOC_Os12g30700	18.048	
+	LOC_Os12g31070	32.742	
+	LOC_Os12g31570	17.757	
+	LOC_Os12g31800	32.391	
+	LOC_Os12g33120	9.606	DX1
+	LOC_Os12g33360	22.955	
+	LOC_Os12g33650	15.537	
+	LOC_Os12g33690	14.579	
+	LOC_Os12g34090	30.134	
+	LOC_Os12g34180	30.783	
+	LOC_Os12g34740	19.627	
+	LOC_Os12g35110	28.053	
+	LOC_Os12g36260	11.326	
+	LOC_Os12g37300	28.498	
+	LOC_Os12g37860	14.184	
+	LOC_Os12g38030	28.533	
+	LOC_Os12g40520	10.336	
+	LOC_Os12g41715	19.564	
+	LOC_Os12g43600	24.099	Osgr-rbp4|Osgrp1
+	LOC_Os12g44170	19.463	
+	ChrUn.fgenesh.mRNA.12	16.206	
+	ChrUn.fgenesh.mRNA.15	27.857	
+	ChrUn.fgenesh.mRNA.52	16.86	
+	ChrSy.fgenesh.mRNA.17	29.403	
+	ChrSy.fgenesh.mRNA.38	18.107	
+	ChrSy.fgenesh.mRNA.68	13.385	
+	ChrSy.fgenesh.mRNA.77	14.827	
+	ChrSy.fgenesh.mRNA.87	23.664	
