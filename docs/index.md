@@ -48,4 +48,3 @@ group: navigation
 42. [The structural basis of Rubisco phase separation in the pyrenoid](http://www.ncbi.nlm.nih.gov/pubmed?term=The structural basis of Rubisco phase separation in the pyrenoid%5BTitle%5D), 
 43. [Tudor Staphylococcal Nuclease Links Formation of Stress Granules and Processing Bodies with mRNA Catabolism in Arabidopsis](http://www.ncbi.nlm.nih.gov/pubmed?term=Tudor Staphylococcal Nuclease Links Formation of Stress Granules and Processing Bodies with mRNA Catabolism in Arabidopsis%5BTitle%5D), 
 44. [Xanthomonas effector XopR hijacks host actin cytoskeleton via complex coacervation](http://www.ncbi.nlm.nih.gov/pubmed?term=Xanthomonas effector XopR hijacks host actin cytoskeleton via complex coacervation%5BTitle%5D), 
-![image](https://user-images.githubusercontent.com/24507924/202481472-ce6037e7-7e17-4c37-ab6f-91fe5fe1cd01.png)
