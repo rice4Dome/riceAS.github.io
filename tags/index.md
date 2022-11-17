@@ -3,7 +3,6 @@ title: Predcted PrD proteins
 layout: page
 ---
 
-	transcript	gene_ID	PLAAC	Symbol	annotation
 1	LOC_Os01g01470.1	LOC_Os01g01470	16.738	ONAC020	no apical meristem protein, putative, expressed
 2	LOC_Os01g02160.1	LOC_Os01g02160	19.802		hydroxyproline-rich glycoprotein family protein, putative, expressed
 3	LOC_Os01g02860.1	LOC_Os01g02860	13.145		expressed protein
