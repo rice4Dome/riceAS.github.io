@@ -4,7 +4,7 @@ title: Literatrues
 group: navigation
 ---
 
-1. [A generic approach to study the kinetics of liquid–liquid phase separation under near-native conditions](https://www.nature.com/articles/s42003-020-01596-8), 2021, Commun Biol
+1. [A generic approach to study the kinetics of liquid–liquid phase separation under near-native conditions](https://www.nature.com/articles/s42003-020-01596-8), 	2021, Commun Biol
 2. [ALBA proteins confer thermotolerance through stabilizing HSF messenger RNAs in cytoplasmic granules](http://www.ncbi.nlm.nih.gov/pubmed?term=ALBA proteins confer thermotolerance through stabilizing HSF messenger RNAs in cytoplasmic granules%5BTitle%5D), 2022, Nat Plants
 3. [A phase-separated nuclear GBPL circuit controls immunity in plants](http://www.ncbi.nlm.nih.gov/pubmed?term=A phase-separated nuclear GBPL circuit controls immunity in plants%5BTitle%5D), 2021, Nature
 4. [A photoregulatory mechanism of the circadian clock in Arabidopsis](http://www.ncbi.nlm.nih.gov/pubmed?term=A photoregulatory mechanism of the circadian clock in Arabidopsis%5BTitle%5D), 2021, Nat Plants
@@ -12,9 +12,9 @@ group: navigation
 6. [A prion-like domain in ELF3 functions as a thermosensor in Arabidopsis](http://www.ncbi.nlm.nih.gov/pubmed?term=A prion-like domain in ELF3 functions as a thermosensor in Arabidopsis%5BTitle%5D), 2020, Nature
 7. [A prion-like protein regulator of seed germination undergoes hydration-dependent phase separation](http://www.ncbi.nlm.nih.gov/pubmed?term=A prion-like protein regulator of seed germination undergoes hydration-dependent phase separation%5BTitle%5D), 2021, Cell
 8. [Arabidopsis AUTOPHAGY-RELATED3 (ATG3) facilitates the liquid–liquid phase separation of ATG8e to promote autophagy](https://doi.org/10.1016/j.scib.2021.10.012), 2022, Sci Bull
-9. [Arabidopsis cryptochrome 2 forms photobodies with TCP22 under blue light and regulates the circadian clock](http://www.ncbi.nlm.nih.gov/pubmed?term=Arabidopsis cryptochrome 2 forms photobodies with TCP22 under blue light and regulates the circadian clock%5BTitle%5D), 2022, Nat Commun
+9. [Arabidopsis cryptochrome 2 forms photobodies with TCP22 under blue light and regulates the circadian clock](http://www.ncbi.nlm.nih.gov/pubmed?term=Arabidopsis cryptochrome 2 forms photobodies with TCP22 under blue light and regulates the circadian clock%5BTitle%5D),	2022, Nat Commun
 10. [Arabidopsis FLL2 promotes liquid–liquid phase separation of polyadenylation complexes](http://www.ncbi.nlm.nih.gov/pubmed?term=Arabidopsis FLL2 promotes liquid–liquid phase separation of polyadenylation complexes%5BTitle%5D), 2019, Nature
-11. [Arabidopsis N6-methyladenosine reader CPSF30-L recognizes FUE signal to control polyadenylation site choice in liquid-like nuclear body](http://www.ncbi.nlm.nih.gov/33515768/), 2021, Mol Plant
+11. [Arabidopsis N6-methyladenosine reader CPSF30-L recognizes FUE signal to control polyadenylation site choice in liquid-like nuclear body](https://doi.org/10.1016/j.molp.2021.01.014), 2021, Mol Plant
 12. [Biomolecular condensates in photosynthesis and metabolism](http://www.ncbi.nlm.nih.gov/pubmed?term=Biomolecular condensates in photosynthesis and metabolism%5BTitle%5D), 2020, Curr Opin Plant Biol
 13. [DEAD-box helicases modulate dicing body formation in Arabidopsis](http://www.ncbi.nlm.nih.gov/pubmed?term=DEAD-box helicases modulate dicing body formation in Arabidopsis%5BTitle%5D), 2021, Sci Adv
 14. [Formation of NPR1 Condensates Promotes Cell Survival during the Plant Immune Response](http://www.ncbi.nlm.nih.gov/pubmed?term=Formation of NPR1 Condensates Promotes Cell Survival during the Plant Immune Response%5BTitle%5D), 2020, Cell
