@@ -1,44 +1,44 @@
-1. [A generic approach to study the kinetics of liquid-liquid phase separation under near-native conditions](https://www.nature.com/articles/s42003-020-01596-8), 2021, Commun Biol
-2. [ALBA proteins confer thermotolerance through stabilizing HSF messenger RNAs in cytoplasmic granules](http://www.ncbi.nlm.nih.gov/pubmed?term=ALBA proteins confer thermotolerance through stabilizing HSF messenger RNAs in cytoplasmic granules%5BTitle%5D), 2022, Nat Plants
-3. [A phase-separated nuclear GBPL circuit controls immunity in plants](http://www.ncbi.nlm.nih.gov/pubmed?term=A phase-separated nuclear GBPL circuit controls immunity in plants%5BTitle%5D), 2021, Nature
-4. [A photoregulatory mechanism of the circadian clock in Arabidopsis](http://www.ncbi.nlm.nih.gov/pubmed?term=A photoregulatory mechanism of the circadian clock in Arabidopsis%5BTitle%5D), 2021, Nat Plants
-5. [A Prion-based Thermosensor in Plants](http://www.ncbi.nlm.nih.gov/pubmed?term=A Prion-based Thermosensor in Plants%5BTitle%5D), 2020, Mol Cell
-6. [A prion-like domain in ELF3 functions as a thermosensor in Arabidopsis](http://www.ncbi.nlm.nih.gov/pubmed?term=A prion-like domain in ELF3 functions as a thermosensor in Arabidopsis%5BTitle%5D), 2020, Nature
-7. [A prion-like protein regulator of seed germination undergoes hydration-dependent phase separation](http://www.ncbi.nlm.nih.gov/pubmed?term=A prion-like protein regulator of seed germination undergoes hydration-dependent phase separation%5BTitle%5D), 2021, Cell
-8. [Arabidopsis AUTOPHAGY-RELATED3 (ATG3) facilitates the liquid-liquid phase separation of ATG8e to promote autophagy](https://doi.org/10.1016/j.scib.2021.10.012), 2022, Sci Bull
-9. [Arabidopsis cryptochrome 2 forms photobodies with TCP22 under blue light and regulates the circadian clock](http://www.ncbi.nlm.nih.gov/pubmed?term=Arabidopsis cryptochrome 2 forms photobodies with TCP22 under blue light and regulates the circadian clock%5BTitle%5D), 2022, Nat Commun
-10. [Arabidopsis FLL2 promotes liquid-liquid phase separation of polyadenylation complexes](http://www.ncbi.nlm.nih.gov/pubmed?term=Arabidopsis FLL2 promotes liquid-liquid phase separation of polyadenylation complexes%5BTitle%5D), 2019, Nature
-11. [Arabidopsis N6-methyladenosine reader CPSF30-L recognizes FUE signal to control polyadenylation site choice in liquid-like nuclear body](http://www.ncbi.nlm.nih.gov/33515768/), 2021, Mol Plant
-12. [Biomolecular condensates in photosynthesis and metabolism](http://www.ncbi.nlm.nih.gov/pubmed?term=Biomolecular condensates in photosynthesis and metabolism%5BTitle%5D), 2020, Curr Opin Plant Biol
-13. [DEAD-box helicases modulate dicing body formation in Arabidopsis](http://www.ncbi.nlm.nih.gov/pubmed?term=DEAD-box helicases modulate dicing body formation in Arabidopsis%5BTitle%5D), 2021, Sci Adv
-14. [Formation of NPR1 Condensates Promotes Cell Survival during the Plant Immune Response](http://www.ncbi.nlm.nih.gov/pubmed?term=Formation of NPR1 Condensates Promotes Cell Survival during the Plant Immune Response%5BTitle%5D), 2020, Cell
-15. [Heterotypic transcriptional condensates formed by prion-like paralogous proteins canalize flowering transition in tomato](http://www.ncbi.nlm.nih.gov/pubmed?term=Heterotypic transcriptional condensates formed by prion-like paralogous proteins canalize flowering transition in tomato%5BTitle%5D), 2022, Genome Biol
-16. [Integration of light and temperature sensing by liquid-liquid phase separation of phytochrome B](http://www.ncbi.nlm.nih.gov/pubmed?term=Integration of light and temperature sensing by liquid-liquid phase separation of phytochrome B%5BTitle%5D), 2022, Mol Cell
-17. [Liquid-Liquid Phase Separation in Crowded Environments](http://www.ncbi.nlm.nih.gov/pubmed?term=Liquid-Liquid Phase Separation in Crowded Environments%5BTitle%5D), 2020, Int J Mol Sci
-18. [Liquid-liquid phase separation of RBGD2/4 is required for heat stress resistance in Arabidopsis](http://www.ncbi.nlm.nih.gov/pubmed?term=Liquid-liquid phase separation of RBGD2/4 is required for heat stress resistance in Arabidopsis%5BTitle%5D), 2022, Dev Cell
-19. [Liquid-Liquid Phase Transition as a New Means of Protein Targeting in Chloroplasts](http://www.ncbi.nlm.nih.gov/pubmed?term=Liquid-Liquid Phase Transition as a New Means of Protein Targeting in Chloroplasts%5BTitle%5D), 2020, Mol Plant
-20. [Liquid-Liquid Phase Transition Drives Intra-chloroplast Cargo Sorting](http://www.ncbi.nlm.nih.gov/pubmed?term=Liquid-Liquid Phase Transition Drives Intra-chloroplast Cargo Sorting%5BTitle%5D), 2020, Cell
-21. [Luminidependens (LD) is an Arabidopsis protein with prion behavior](http://www.ncbi.nlm.nih.gov/pubmed?term=Luminidependens (LD) is an Arabidopsis protein with prion behavior%5BTitle%5D), 2016, Proc Natl Acad Sci U S A
-22. [Mechanism of DNA-induced phase separation for transcriptional repressor VRN1](http://www.ncbi.nlm.nih.gov/pubmed?term=Mechanism of DNA-induced phase separation for transcriptional repressor VRN1%5BTitle%5D), 2019, Angew Chem Int Ed Engl
-23. [Nup98 FG domains from diverse species spontaneously phase-separate into particles with nuclear pore-like permselectivity](http://www.ncbi.nlm.nih.gov/pubmed?term=Nup98 FG domains from diverse species spontaneously phase-separate into particles with nuclear pore-like permselectivity%5BTitle%5D), 2015, Elife
-24. [Phase separation in genome organization across evolution](http://www.ncbi.nlm.nih.gov/pubmed?term=Phase separation in genome organization across evolution%5BTitle%5D), 2021, Trends Cell Biol
-25. [Phase separation in plants: new insights into cellular compartmentalization](http://www.ncbi.nlm.nih.gov/pubmed?term=Phase separation in plants: new insights into cellular compartmentalization%5BTitle%5D), 2021, J Integr Plant Biol
-26. [Phase separation of a plant virus movement protein and cellular factors support virus-host interactions](http://www.ncbi.nlm.nih.gov/pubmed?term=Phase separation of a plant virus movement protein and cellular factors support virus-host interactions%5BTitle%5D), 2021, PLoS Pathog
-27. [Phase separation of Arabidopsis EMB1579 controls transcription, mRNA splicing, and development](http://www.ncbi.nlm.nih.gov/pubmed?term=Phase separation of Arabidopsis EMB1579 controls transcription, mRNA splicing, and development%5BTitle%5D), 2020, PLoS Biol
-28. [Phase separation of chromatin and small RNA pathways in plants](http://www.ncbi.nlm.nih.gov/pubmed?term=Phase separation of chromatin and small RNA pathways in plants%5BTitle%5D), 2021, Plant J
-29. [Phase separation of HRLP regulates flowering time in Arabidopsis](http://www.ncbi.nlm.nih.gov/pubmed?term=Phase separation of HRLP regulates flowering time in Arabidopsis%5BTitle%5D), 2022, Sci Adv
-30. [Phase separation of SERRATE drives dicing body assembly and promotes miRNA processing in Arabidopsis](http://www.ncbi.nlm.nih.gov/pubmed?term=Phase separation of SERRATE drives dicing body assembly and promotes miRNA processing in Arabidopsis%5BTitle%5D), 2021, Nat Cell Biol
-31. [Pi-Pi contacts are an overlooked protein feature relevant to phase separation](http://www.ncbi.nlm.nih.gov/pubmed?term=Pi-Pi contacts are an overlooked protein feature relevant to phase separation%5BTitle%5D), 2018, Elife
-32. [Plant HP1 protein ADCP1 links multivalent H3K9 methylation readout to heterochromatin formation](http://www.ncbi.nlm.nih.gov/pubmed?term=Plant HP1 protein ADCP1 links multivalent H3K9 methylation readout to heterochromatin formation%5BTitle%5D), 2019, Cell Res
-33. [Pollen Cell Wall Patterns Form from Modulated Phases](http://www.ncbi.nlm.nih.gov/pubmed?term=Pollen Cell Wall Patterns Form from Modulated Phases%5BTitle%5D), 2019, Cell
-34. [Proximity editing to identify RNAs in phase-separated RNA binding protein condensates](http://www.ncbi.nlm.nih.gov/pubmed?term=Proximity editing to identify RNAs in phase-separated RNA binding protein condensates%5BTitle%5D), 2021, Cell Discov
-35. [Ribosome stalling and SGS3 phase separation prime the epigenetic silencing of transposons](http://www.ncbi.nlm.nih.gov/pubmed?term=Ribosome stalling and SGS3 phase separation prime the epigenetic silencing of transposons%5BTitle%5D), 2021, Nat Plants
-36. [Rubisco condensate formation by CcmM in β-carboxysome biogenesis](http://www.ncbi.nlm.nih.gov/pubmed?term=Rubisco condensate formation by CcmM in β-carboxysome biogenesis%5BTitle%5D), 2019, Nature
-37. [Sequence determinants of in cell condensate morphology, dynamics, and oligomerization as measured by number and brightness analysis](http://www.ncbi.nlm.nih.gov/pubmed?term=Sequence determinants of in cell condensate morphology, dynamics, and oligomerization as measured by number and brightness analysis%5BTitle%5D), 2021, Cell Commun Signal
-38. [SGS3 and RDR6 interact and colocalize in cytoplasmic SGS3/RDR6-bodies](http://www.ncbi.nlm.nih.gov/pubmed?term=SGS3 and RDR6 interact and colocalize in cytoplasmic SGS3/RDR6-bodies%5BTitle%5D), 2009, FEBS Lett
-39. [Subcellular Localization of Seed-Expressed LEA_4 Proteins Reveals Liquid-Liquid Phase Separation for LEA9 and for LEA48 Homo- and LEA42-LEA48 Heterodimers](http://www.ncbi.nlm.nih.gov/pubmed?term=Subcellular Localization of Seed-Expressed LEA_4 Proteins Reveals Liquid-Liquid Phase Separation for LEA9 and for LEA48 Homo- and LEA42-LEA48 Heterodimers%5BTitle%5D), 2021, Biomolecules
-40. [The emerging role of biomolecular condensates in plant immunity](http://www.ncbi.nlm.nih.gov/pubmed?term=The emerging role of biomolecular condensates in plant immunity%5BTitle%5D), 2022, Plant Cell
-41. [The pyrenoidal linker protein EPYC1 phase separates with hybrid Arabidopsis-Chlamydomonas Rubisco through interactions with the algal Rubisco small subunit](http://www.ncbi.nlm.nih.gov/pubmed?term=The pyrenoidal linker protein EPYC1 phase separates with hybrid Arabidopsis-Chlamydomonas Rubisco through interactions with the algal Rubisco small subunit%5BTitle%5D), 2019, J Exp Bot
-42. [The structural basis of Rubisco phase separation in the pyrenoid](http://www.ncbi.nlm.nih.gov/pubmed?term=The structural basis of Rubisco phase separation in the pyrenoid%5BTitle%5D), 2020, Nat Plants
-43. [Tudor Staphylococcal Nuclease Links Formation of Stress Granules and Processing Bodies with mRNA Catabolism in Arabidopsis](http://www.ncbi.nlm.nih.gov/pubmed?term=Tudor Staphylococcal Nuclease Links Formation of Stress Granules and Processing Bodies with mRNA Catabolism in Arabidopsis%5BTitle%5D), 2015, Plant Cell
-44. [Xanthomonas effector XopR hijacks host actin cytoskeleton via complex coacervation](http://www.ncbi.nlm.nih.gov/pubmed?term=Xanthomonas effector XopR hijacks host actin cytoskeleton via complex coacervation%5BTitle%5D), 2021, Nat Commun
+1. A generic approach to study the kinetics of liquid-liquid phase separation under near-native conditions, 2021, Commun Biol
+2. ALBA proteins confer thermotolerance through stabilizing HSF messenger RNAs in cytoplasmic granules, 2022, Nat Plants
+3. A phase-separated nuclear GBPL circuit controls immunity in plants, 2021, Nature
+4. A photoregulatory mechanism of the circadian clock in Arabidopsis, 2021, Nat Plants
+5. A Prion-based Thermosensor in Plants, 2020, Mol Cell
+6. A prion-like domain in ELF3 functions as a thermosensor in Arabidopsis, 2020, Nature
+7. A prion-like protein regulator of seed germination undergoes hydration-dependent phase separation, 2021, Cell
+8. Arabidopsis AUTOPHAGY-RELATED3 (ATG3) facilitates the liquid-liquid phase separation of ATG8e to promote autophagy, 2022, Sci Bull
+9. Arabidopsis cryptochrome 2 forms photobodies with TCP22 under blue light and regulates the circadian clock, 2022, Nat Commun
+10. Arabidopsis FLL2 promotes liquid-liquid phase separation of polyadenylation complexes, 2019, Nature
+11. Arabidopsis N6-methyladenosine reader CPSF30-L recognizes FUE signal to control polyadenylation site choice in liquid-like nuclear body, 2021, Mol Plant
+12. Biomolecular condensates in photosynthesis and metabolism, 2020, Curr Opin Plant Biol
+13. DEAD-box helicases modulate dicing body formation in Arabidopsis, 2021, Sci Adv
+14. Formation of NPR1 Condensates Promotes Cell Survival during the Plant Immune Response, 2020, Cell
+15. Heterotypic transcriptional condensates formed by prion-like paralogous proteins canalize flowering transition in tomato, 2022, Genome Biol
+16. Integration of light and temperature sensing by liquid-liquid phase separation of phytochrome B, 2022, Mol Cell
+17. Liquid-Liquid Phase Separation in Crowded Environments, 2020, Int J Mol Sci
+18. Liquid-liquid phase separation of RBGD2/4 is required for heat stress resistance in Arabidopsis, 2022, Dev Cell
+19. Liquid-Liquid Phase Transition as a New Means of Protein Targeting in Chloroplasts, 2020, Mol Plant
+20. Liquid-Liquid Phase Transition Drives Intra-chloroplast Cargo Sorting, 2020, Cell
+21. Luminidependens (LD) is an Arabidopsis protein with prion behavior, 2016, Proc Natl Acad Sci U S A
+22. Mechanism of DNA-induced phase separation for transcriptional repressor VRN1, 2019, Angew Chem Int Ed Engl
+23. Nup98 FG domains from diverse species spontaneously phase-separate into particles with nuclear pore-like permselectivity, 2015, Elife
+24. Phase separation in genome organization across evolution, 2021, Trends Cell Biol
+25. Phase separation in plants: new insights into cellular compartmentalization, 2021, J Integr Plant Biol
+26. Phase separation of a plant virus movement protein and cellular factors support virus-host interactions, 2021, PLoS Pathog
+27. Phase separation of Arabidopsis EMB1579 controls transcription, mRNA splicing, and development, 2020, PLoS Biol
+28. Phase separation of chromatin and small RNA pathways in plants, 2021, Plant J
+29. Phase separation of HRLP regulates flowering time in Arabidopsis, 2022, Sci Adv
+30. [Phase separation of SERRATE drives dicing body assembly and promotes miRNA processing in Arabidopsis, 2021, Nat Cell Biol
+31. [Pi-Pi contacts are an overlooked protein feature relevant to phase separation, 2018, Elife
+32. [Plant HP1 protein ADCP1 links multivalent H3K9 methylation readout to heterochromatin formation, 2019, Cell Res
+33. [Pollen Cell Wall Patterns Form from Modulated Phases, 2019, Cell
+34. [Proximity editing to identify RNAs in phase-separated RNA binding protein condensates, 2021, Cell Discov
+35. [Ribosome stalling and SGS3 phase separation prime the epigenetic silencing of transposons, 2021, Nat Plants
+36. [Rubisco condensate formation by CcmM in β-carboxysome biogenesis, 2019, Nature
+37. [Sequence determinants of in cell condensate morphology, dynamics, and oligomerization as measured by number and brightness analysis, 2021, Cell Commun Signal
+38. [SGS3 and RDR6 interact and colocalize in cytoplasmic SGS3/RDR6-bodies, 2009, FEBS Lett
+39. [Subcellular Localization of Seed-Expressed LEA_4 Proteins Reveals Liquid-Liquid Phase Separation for LEA9 and for LEA48 Homo- and LEA42-LEA48 Heterodimers, 2021, Biomolecules
+40. [The emerging role of biomolecular condensates in plant immunity, 2022, Plant Cell
+41. [The pyrenoidal linker protein EPYC1 phase separates with hybrid Arabidopsis-Chlamydomonas Rubisco through interactions with the algal Rubisco small subunit, 2019, J Exp Bot
+42. [The structural basis of Rubisco phase separation in the pyrenoid, 2020, Nat Plants
+43. [Tudor Staphylococcal Nuclease Links Formation of Stress Granules and Processing Bodies with mRNA Catabolism in Arabidopsis, 2015, Plant Cell
+44. [Xanthomonas effector XopR hijacks host actin cytoskeleton via complex coacervation, 2021, Nat Commun
