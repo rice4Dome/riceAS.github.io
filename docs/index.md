@@ -4,7 +4,7 @@ title: Literatrues
 group: navigation
 ---
 
-1. [A generic approach to study the kinetics of liquid–liquid phase separation under near-native conditions](http://www.ncbi.nlm.nih.gov/33469149/), 2021, Commun Biol
+1. [A generic approach to study the kinetics of liquid–liquid phase separation under near-native conditions](https://www.nature.com/articles/s42003-020-01596-8), 2021, Commun Biol
 2. [ALBA proteins confer thermotolerance through stabilizing HSF messenger RNAs in cytoplasmic granules](http://www.ncbi.nlm.nih.gov/pubmed?term=ALBA proteins confer thermotolerance through stabilizing HSF messenger RNAs in cytoplasmic granules%5BTitle%5D), 2022, Nat Plants
 3. [A phase-separated nuclear GBPL circuit controls immunity in plants](http://www.ncbi.nlm.nih.gov/pubmed?term=A phase-separated nuclear GBPL circuit controls immunity in plants%5BTitle%5D), 2021, Nature
 4. [A photoregulatory mechanism of the circadian clock in Arabidopsis](http://www.ncbi.nlm.nih.gov/pubmed?term=A photoregulatory mechanism of the circadian clock in Arabidopsis%5BTitle%5D), 2021, Nat Plants
