@@ -1,5 +1,5 @@
 ---
-title: Predcted PrD proteins
+title: Predicted PrD proteins
 layout: page
 ---
 
