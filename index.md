@@ -13,7 +13,7 @@ __A comprehensive database of rice phase separation-associated proteins__
 
 * 66,000+ annotated rice proteins [[Download↓]](https://ricepsp.github.io/allProteins.table.txt)  
 * 10,000+ predicted PSPs [[Download↓]](https://ricepsp.github.io/PredPSPs.table.txt) 
-* 1300+ predicted PrD proteins [[Download↓]](https://ricepsp.github.io/PrD_pro.txt)
+* 1300+ predicted PrD proteins [[Download↓]](https://ricepsp.github.io/PrD_Pro.txt)
 * 1000+ protein families [[Download↓]](https://ricepsp.github.io/famInfo.table.txt) 
 * 50+ homolog PSPs [[Download↓]](https://ricepsp.github.io/homoPSPs.table.txt)  
 * 40+ literatures [[Download↓]](https://ricepsp.github.io/reference.table.txt)   
