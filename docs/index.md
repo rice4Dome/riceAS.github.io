@@ -6,9 +6,9 @@ group: navigation
 
 1. [A generic approach to study the kinetics of liquid–liquid phase separation under near-native conditions](http://www.ncbi.nlm.nih.gov/33469149/), 2021, Commun Biol
 2. [ALBA proteins confer thermotolerance through stabilizing HSF messenger RNAs in cytoplasmic granules](http://www.ncbi.nlm.nih.gov/pubmed?term=ALBA proteins confer thermotolerance through stabilizing HSF messenger RNAs in cytoplasmic granules%5BTitle%5D), 2022, Nat Plants
-3. [A phase-separated nuclear GBPL circuit controls immunity in plants](http://www.ncbi.nlm.nih.gov/pubmed?term=A phase-separated nuclear GBPL circuit controls immunity in plants%5BTitle%5D),  2021, Nature
+3. [A phase-separated nuclear GBPL circuit controls immunity in plants](http://www.ncbi.nlm.nih.gov/pubmed?term=A phase-separated nuclear GBPL circuit controls immunity in plants%5BTitle%5D), 2021, Nature
 4. [A photoregulatory mechanism of the circadian clock in Arabidopsis](http://www.ncbi.nlm.nih.gov/pubmed?term=A photoregulatory mechanism of the circadian clock in Arabidopsis%5BTitle%5D), 2021, Nat Plants
-5. [A Prion-based Thermosensor in Plants](http://www.ncbi.nlm.nih.gov/pubmed?term=A Prion-based Thermosensor in Plants%5BTitle%5D),  2020, Mol Cell
+5. [A Prion-based Thermosensor in Plants](http://www.ncbi.nlm.nih.gov/pubmed?term=A Prion-based Thermosensor in Plants%5BTitle%5D), 2020, Mol Cell
 6. [A prion-like domain in ELF3 functions as a thermosensor in Arabidopsis](http://www.ncbi.nlm.nih.gov/pubmed?term=A prion-like domain in ELF3 functions as a thermosensor in Arabidopsis%5BTitle%5D), 2020, Nature
 7. [A prion-like protein regulator of seed germination undergoes hydration-dependent phase separation](http://www.ncbi.nlm.nih.gov/pubmed?term=A prion-like protein regulator of seed germination undergoes hydration-dependent phase separation%5BTitle%5D), 2021, Cell
 8. [Arabidopsis AUTOPHAGY-RELATED3 (ATG3) facilitates the liquid–liquid phase separation of ATG8e to promote autophagy](https://doi.org/10.1016/j.scib.2021.10.012), 2022, Sci Bull
@@ -23,7 +23,7 @@ group: navigation
 17. [Liquid–Liquid Phase Separation in Crowded Environments](http://www.ncbi.nlm.nih.gov/pubmed?term=Liquid–Liquid Phase Separation in Crowded Environments%5BTitle%5D), 2020, Int J Mol Sci
 18. [Liquid-liquid phase separation of RBGD2/4 is required for heat stress resistance in Arabidopsis](http://www.ncbi.nlm.nih.gov/pubmed?term=Liquid-liquid phase separation of RBGD2/4 is required for heat stress resistance in Arabidopsis%5BTitle%5D), 2022, Dev Cell
 19. [Liquid–Liquid Phase Transition as a New Means of Protein Targeting in Chloroplasts](http://www.ncbi.nlm.nih.gov/pubmed?term=Liquid–Liquid Phase Transition as a New Means of Protein Targeting in Chloroplasts%5BTitle%5D), 2020, Mol Plant
-20. [Liquid-Liquid Phase Transition Drives Intrachloroplast Cargo Sorting](http://www.ncbi.nlm.nih.gov/pubmed?term=Liquid-Liquid Phase Transition Drives Intra-chloroplast Cargo Sorting%5BTitle%5D), 2020, Cell
+20. [Liquid-Liquid Phase Transition Drives Intra-chloroplast Cargo Sorting](http://www.ncbi.nlm.nih.gov/pubmed?term=Liquid-Liquid Phase Transition Drives Intra-chloroplast Cargo Sorting%5BTitle%5D), 2020, Cell
 21. [Luminidependens (LD) is an Arabidopsis protein with prion behavior](http://www.ncbi.nlm.nih.gov/pubmed?term=Luminidependens (LD) is an Arabidopsis protein with prion behavior%5BTitle%5D), 2016, Proc Natl Acad Sci U S A
 22. [Mechanism of DNA-induced phase separation for transcriptional repressor VRN1](http://www.ncbi.nlm.nih.gov/pubmed?term=Mechanism of DNA-induced phase separation for transcriptional repressor VRN1%5BTitle%5D), 2019, Angew Chem Int Ed Engl
 23. [Nup98 FG domains from diverse species spontaneously phase-separate into particles with nuclear pore-like permselectivity](http://www.ncbi.nlm.nih.gov/pubmed?term=Nup98 FG domains from diverse species spontaneously phase-separate into particles with nuclear pore-like permselectivity%5BTitle%5D), 2015, Elife
