@@ -1213,7 +1213,7 @@ layout: page
 1208. LOC_Os11g05840.1	[LOC_Os11g05840](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os11g05840.1)	13.435	
 1209. LOC_Os11g06170.2	[LOC_Os11g06170](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os11g06170.2)	29.243	[OsbZIP81](https://ricepsp.github.io/OsbZIP81/)
 1210. LOC_Os11g06920.1	[LOC_Os11g06920](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os11g06920.1)	27.815	
-1211. LOC_Os11g08080.1	[LOC_Os11g08080](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os11g08080.1)	25.065	[OsSWI3C, OsCHB705|CHB705](https://ricepsp.github.io/OsSWI3C~OsCHB705|CHB705/)
+1211. LOC_Os11g08080.1	[LOC_Os11g08080](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os11g08080.1)	25.065	[OsSWI3C, OsCHB705, CHB705](https://ricepsp.github.io/OsSWI3C~OsCHB705~CHB705/)
 1212. LOC_Os11g08150.1	[LOC_Os11g08150](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os11g08150.1)	29.404	
 1213. LOC_Os11g10060.1	[LOC_Os11g10060](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os11g10060.1)	26.537	
 1214. LOC_Os11g10070.1	[LOC_Os11g10070](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os11g10070.1)	36.159	
