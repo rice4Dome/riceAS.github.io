@@ -15,6 +15,14 @@ layout: default
 </span>
 {% endif %}
 {% if page.tags.size != 0 %}
+ | 
+<span class="PrDPs">
+  Tags
+  {% for tag in page.tags %}
+  <a href="/PrDPs/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>&nbsp;
+  {% endfor %}
+</span>
+{% endif %}
 </section>
 <section class="post">
 {{ content }}
