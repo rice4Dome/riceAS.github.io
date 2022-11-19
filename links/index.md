@@ -10,3 +10,5 @@ comments: yes
 - PhD, Huazhong Agricultural University
 - **ORCID**: <a href="https://orcid.org/0000-0003-0099-4044" target="_blank">https://orcid.org/0000-0003-0099-4044</a>  
 - **email**: wzouyang2@126.com
+
+__Please cite our <a href="https://ricepsp.github.io/" target="_blank">database</a> (https://ricepsp.github.io/) if you use it in your study.__  
