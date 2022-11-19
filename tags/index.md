@@ -618,7 +618,7 @@ layout: page
 613. LOC_Os05g36400.1	[LOC_Os05g36400](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g36400.1)	28.265	
 614. LOC_Os05g38730.2	[LOC_Os05g38730](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g38730.2)	42.95	
 615. LOC_Os05g38730.1	[LOC_Os05g38730](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g38730.1)	42.95	
-616. LOC_Os05g39720.1	[LOC_Os05g39720](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g39720.1)	14.305	[WRKY70|OsWRKY70](https://ricepsp.github.io/WRKY70|OsWRKY70/)
+616. LOC_Os05g39720.1	[LOC_Os05g39720](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g39720.1)	14.305	[WRKY70, OsWRKY70](https://ricepsp.github.io/WRKY70~OsWRKY70/)
 617. LOC_Os05g39760.1	[LOC_Os05g39760](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g39760.1)	44.771	
 618. LOC_Os05g40790.1	[LOC_Os05g40790](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g40790.1)	15.059	
 619. LOC_Os05g40790.2	[LOC_Os05g40790](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g40790.2)	15.059	
