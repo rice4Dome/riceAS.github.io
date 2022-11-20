@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "trihelix_family_genes"
+title: "Myb/SANT-LIKE"
 description: ""
 category: gene family
 ---
