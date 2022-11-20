@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C2H2_zinc_finger_protein"
+title: "C2H2"
 description: ""
 category: gene family
 ---
