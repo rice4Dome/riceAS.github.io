@@ -27,18 +27,18 @@
 27. Phase separation of Arabidopsis EMB1579 controls transcription, mRNA splicing, and development, 2020, PLoS Biol
 28. Phase separation of chromatin and small RNA pathways in plants, 2021, Plant J
 29. Phase separation of HRLP regulates flowering time in Arabidopsis, 2022, Sci Adv
-30. [Phase separation of SERRATE drives dicing body assembly and promotes miRNA processing in Arabidopsis, 2021, Nat Cell Biol
-31. [Pi-Pi contacts are an overlooked protein feature relevant to phase separation, 2018, Elife
-32. [Plant HP1 protein ADCP1 links multivalent H3K9 methylation readout to heterochromatin formation, 2019, Cell Res
-33. [Pollen Cell Wall Patterns Form from Modulated Phases, 2019, Cell
-34. [Proximity editing to identify RNAs in phase-separated RNA binding protein condensates, 2021, Cell Discov
-35. [Ribosome stalling and SGS3 phase separation prime the epigenetic silencing of transposons, 2021, Nat Plants
-36. [Rubisco condensate formation by CcmM in β-carboxysome biogenesis, 2019, Nature
-37. [Sequence determinants of in cell condensate morphology, dynamics, and oligomerization as measured by number and brightness analysis, 2021, Cell Commun Signal
-38. [SGS3 and RDR6 interact and colocalize in cytoplasmic SGS3/RDR6-bodies, 2009, FEBS Lett
-39. [Subcellular Localization of Seed-Expressed LEA_4 Proteins Reveals Liquid-Liquid Phase Separation for LEA9 and for LEA48 Homo- and LEA42-LEA48 Heterodimers, 2021, Biomolecules
-40. [The emerging role of biomolecular condensates in plant immunity, 2022, Plant Cell
-41. [The pyrenoidal linker protein EPYC1 phase separates with hybrid Arabidopsis-Chlamydomonas Rubisco through interactions with the algal Rubisco small subunit, 2019, J Exp Bot
-42. [The structural basis of Rubisco phase separation in the pyrenoid, 2020, Nat Plants
-43. [Tudor Staphylococcal Nuclease Links Formation of Stress Granules and Processing Bodies with mRNA Catabolism in Arabidopsis, 2015, Plant Cell
-44. [Xanthomonas effector XopR hijacks host actin cytoskeleton via complex coacervation, 2021, Nat Commun
+30. Phase separation of SERRATE drives dicing body assembly and promotes miRNA processing in Arabidopsis, 2021, Nat Cell Biol
+31. Pi-Pi contacts are an overlooked protein feature relevant to phase separation, 2018, Elife
+32. Plant HP1 protein ADCP1 links multivalent H3K9 methylation readout to heterochromatin formation, 2019, Cell Res
+33. Pollen Cell Wall Patterns Form from Modulated Phases, 2019, Cell
+34. Proximity editing to identify RNAs in phase-separated RNA binding protein condensates, 2021, Cell Discov
+35. Ribosome stalling and SGS3 phase separation prime the epigenetic silencing of transposons, 2021, Nat Plants
+36. Rubisco condensate formation by CcmM in β-carboxysome biogenesis, 2019, Nature
+37. Sequence determinants of in cell condensate morphology, dynamics, and oligomerization as measured by number and brightness analysis, 2021, Cell Commun Signal
+38. SGS3 and RDR6 interact and colocalize in cytoplasmic SGS3/RDR6-bodies, 2009, FEBS Lett
+39. Subcellular Localization of Seed-Expressed LEA_4 Proteins Reveals Liquid-Liquid Phase Separation for LEA9 and for LEA48 Homo- and LEA42-LEA48 Heterodimers, 2021, Biomolecules
+40. The emerging role of biomolecular condensates in plant immunity, 2022, Plant Cell
+41. The pyrenoidal linker protein EPYC1 phase separates with hybrid Arabidopsis-Chlamydomonas Rubisco through interactions with the algal Rubisco small subunit, 2019, J Exp Bot
+42. The structural basis of Rubisco phase separation in the pyrenoid, 2020, Nat Plants
+43. Tudor Staphylococcal Nuclease Links Formation of Stress Granules and Processing Bodies with mRNA Catabolism in Arabidopsis, 2015, Plant Cell
+44. Xanthomonas effector XopR hijacks host actin cytoskeleton via complex coacervation, 2021, Nat Commun
