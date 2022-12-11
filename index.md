@@ -18,7 +18,7 @@ __A comprehensive database of rice phase separation-associated proteins__
 * 70+ homolog PSPs [[Download↓]](https://ricepsp.github.io/homoPSPs.pdf)  
 * 70+ published literatures [[Download↓]](https://ricepsp.github.io/reference.table.txt)   
 * Help manual for ricePSP [[Download↓]](https://ricepsp.github.io/Help_manual.pdf)  
-* Contact to us:  wzouyang2@126.com
+* Contact us:  wzouyang2@126.com
 
 
 <br>
