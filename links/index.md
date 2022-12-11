@@ -9,6 +9,7 @@ comments: yes
 - **Ouyang Weizhi**
 - PhD, Huazhong Agricultural University
 - **ORCID**: <a href="https://orcid.org/0000-0003-0099-4044" target="_blank">https://orcid.org/0000-0003-0099-4044</a>
+- **Scopus**: <a href="57209302796" target="_blank">https://www.scopus.com/authid/detail.uri?authorId=57209302796</a>
 - **GitHub**: <a href="https://github.com/wzouyang" target="_blank">https://github.com/wzouyang</a>  
 - **email**: wzouyang2@126.com
 
