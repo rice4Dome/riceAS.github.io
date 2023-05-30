@@ -17,6 +17,8 @@ tags: [growth, flower, ethylene, heading date,  ga , seedling, phosphate, flower
 * **PLAAC score**  
     + LOC_Os03g19590.1: 0 
 
+![image](https://github.com/ricePSP/ricePSP.github.io/assets/24507924/7d2b87a8-fc43-4631-9b6d-012e3ce0c9af)
+
 * **Publication**  
     + [Phytochrome B regulates Heading date 1 Hd1-mediated expression of rice florigen Hd3a and critical day length in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Phytochrome B regulates Heading date 1 Hd1-mediated expression of rice florigen Hd3a and critical day length in rice%5BTitle%5D), 2011, Mol Genet Genomics.
     + [Phytochrome B control of total leaf area and stomatal density affects drought tolerance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Phytochrome B control of total leaf area and stomatal density affects drought tolerance in rice%5BTitle%5D), 2012, Plant Mol Biol.
