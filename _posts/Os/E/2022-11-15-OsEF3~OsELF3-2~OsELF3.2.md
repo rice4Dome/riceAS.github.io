@@ -20,7 +20,6 @@ tags: [grain weight, root, heading date, grain, root development, cell division,
     + LOC_Os01g38530.2: 0 
 
 ![image](https://github.com/ricePSP/ricePSP.github.io/assets/24507924/ed9fadbb-a94f-4420-9074-f03239a7dc6b)
-    
     (Ning et al., Mol Plant, 2015, 8:1679-82)
 
 * **Publication**  
