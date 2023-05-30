@@ -22,6 +22,7 @@ tags: [sheath, flower, seedling,  ga , phosphate, flowering time, ethylene, flor
     + LOC_Os03g51030.2: 0 
 
 ![image](https://github.com/ricePSP/ricePSP.github.io/assets/24507924/55dcdc59-9445-4ef3-b15f-6feb8c188c16)
+(Zheng et al., New Phytol, 2019, 224:306-320)
 
 * **Publication**  
     + [Isolation and characterization of rice phytochrome A mutants](http://www.ncbi.nlm.nih.gov/pubmed?term=Isolation and characterization of rice phytochrome A mutants%5BTitle%5D), 2001, Plant Cell.
