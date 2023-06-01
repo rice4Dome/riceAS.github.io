@@ -79,3 +79,4 @@ group: navigation
 73. [Proximity editing to identify RNAs in phase-separated RNA binding protein condensates](http://www.ncbi.nlm.nih.gov/pubmed?term=Proximity editing to identify RNAs in phase-separated RNA binding protein condensates%5BTitle%5D), 2021, Cell Discov
 74. [Condensation of SEUSS promotes hyperosmotic stress tolerance in Arabidopsis](http://www.ncbi.nlm.nih.gov/pubmed?term=Condensation of SEUSS promotes hyperosmotic stress tolerance in Arabidopsis%5BTitle%5D), 2022, Nat Chem Biol
 75. [ROS regulated reversible protein phase separation synchronizes plant flowering](http://www.ncbi.nlm.nih.gov/pubmed?term=ROS regulated reversible protein phase separation synchronizes plant flowering%5BTitle%5D), 2021, Nat Chem Biol
+76. [Regulation of AUXIN RESPONSE FACTOR condensation and nucleo-cytoplasmic partitioning](https://www.nature.com/articles/s41467-022-31628-2), 2022, Nat Commun
