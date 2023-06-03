@@ -81,3 +81,4 @@ group: navigation
 75. [ROS regulated reversible protein phase separation synchronizes plant flowering](http://www.ncbi.nlm.nih.gov/pubmed?term=ROS regulated reversible protein phase separation synchronizes plant flowering%5BTitle%5D), 2021, Nat Chem Biol
 76. [Regulation of AUXIN RESPONSE FACTOR condensation and nucleo-cytoplasmic partitioning](https://www.nature.com/articles/s41467-022-31628-2), 2022, Nat Commun
 77. [Biomolecular condensation: a new player in auxin signaling](https://doi.org/10.1016/j.tplants.2023.03.002), 2023, Trend Plant Sci
+78. [Biomolecular condensation orchestrates clathrin-mediated endocytosis in plants](https://doi.org/10.1101/2022.03.17.484738), 2022, bioRxiv
