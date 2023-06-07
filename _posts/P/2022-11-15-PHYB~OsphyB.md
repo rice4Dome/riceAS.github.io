@@ -15,7 +15,7 @@ tags: [growth, flower, ethylene, heading date,  ga , seedling, phosphate, flower
     + LOC_Os03g19590.1: 0.3805 
 
 * **PLAAC score**  
-    + LOC_Os03g19590.1: 0 
+    + LOC_Os03g19590.1: 2.006 
 
 ![image](https://github.com/ricePSP/ricePSP.github.io/assets/24507924/7d2b87a8-fc43-4631-9b6d-012e3ce0c9af)
 (Zheng et al., New Phytol, 2019, 224:306-320)
