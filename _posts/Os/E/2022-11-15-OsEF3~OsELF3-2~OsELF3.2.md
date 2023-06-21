@@ -25,6 +25,7 @@ tags: [grain weight, root, heading date, grain, root development, cell division,
 * **Publication**  
     + [OsEF3, a homologous gene of Arabidopsis ELF3, has pleiotropic effects in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsEF3, a homologous gene of Arabidopsis ELF3, has pleiotropic effects in rice%5BTitle%5D), 2009, Plant Biol (Stuttg).
     + [OsELF3-1, an ortholog of Arabidopsis early flowering 3, regulates rice circadian rhythm and photoperiodic flowering](http://www.ncbi.nlm.nih.gov/pubmed?term=OsELF3-1, an ortholog of Arabidopsis early flowering 3, regulates rice circadian rhythm and photoperiodic flowering%5BTitle%5D), 2012, PLoS One.
+    + [OsELF3-2, an Ortholog of Arabidopsis ELF3, Interacts with the E3 Ligase APIP6 and Negatively Regulates Immunity against Magnaporthe oryzae in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsELF3-2, an Ortholog of Arabidopsis ELF3, Interacts with the E3 Ligase APIP6 and Negatively Regulates Immunity against Magnaporthe oryzae in Rice%5BTitle%5D), 2015, Molecular Plant
 
 * **Genbank accession number**  
 
