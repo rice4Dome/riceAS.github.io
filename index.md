@@ -16,7 +16,7 @@ __A comprehensive database of rice phase separation-associated proteins__
 * 1300+ predicted PrD proteins [[Download↓]](https://ricepsp.github.io/PrD_Pro.txt)
 * 6100+ protein family members [[Download↓]](https://ricepsp.github.io/famPSPs.table.txt) 
 * 70+ homolog PSPs [[Download↓]](https://ricepsp.github.io/homoPSPs.pdf)  
-* 70+ published literatures [[Download↓]](https://ricepsp.github.io/reference.table.txt)   
+* 100+ published literatures [[Download↓]](https://ricepsp.github.io/reference.table.txt)   
 * Help manual for ricePSP [[Download↓]](https://ricepsp.github.io/Help_manual.pdf)  
 * Contact us:  wzouyang2@126.com
 
