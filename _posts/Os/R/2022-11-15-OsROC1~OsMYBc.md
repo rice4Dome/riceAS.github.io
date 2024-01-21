@@ -19,6 +19,12 @@ tags: [leaf, salt, transcription factor, Salt Sensitivity]
     + LOC_Os09g12770.1: 0 
     + LOC_Os09g12770.2: 0 
 
+* **pLDDT score**
+    + 61.6
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q69TN6/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69TN6-F1.png)
+
 * **Publication**  
     + [The Indeterminate Domain Protein ROC1 Regulates Chilling Tolerance via Activation of DREB1B/CBF1 in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The Indeterminate Domain Protein ROC1 Regulates Chilling Tolerance via Activation of DREB1B/CBF1 in Rice.%5BTitle%5D), 2016, Int J Mol Sci.
     + [The Rice High-Affinity Potassium Transporter1;1 Is Involved in Salt Tolerance and Regulated by an MYB-Type Transcription Factor.](http://www.ncbi.nlm.nih.gov/pubmed?term=The Rice High-Affinity Potassium Transporter1;1 Is Involved in Salt Tolerance and Regulated by an MYB-Type Transcription Factor.%5BTitle%5D), 2015, Plant Physiol.

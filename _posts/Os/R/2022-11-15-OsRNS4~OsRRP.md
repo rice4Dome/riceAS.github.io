@@ -17,6 +17,12 @@ tags: [dwarf, tillering, seedling, tiller, salinity, growth,  ABA , salt, stem]
 * **PLAAC score**  
     + LOC_Os09g36680.1: 0 
 
+* **pLDDT score**
+    + 88.54
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q69JX7/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69JX7-F1.png)
+
 * **Publication**  
     + [Overexpression of an S-like ribonuclease gene, OsRNS4, confers enhanced tolerance to high salinity and hyposensitivity to phytochrome-mediated light signals in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of an S-like ribonuclease gene, OsRNS4, confers enhanced tolerance to high salinity and hyposensitivity to phytochrome-mediated light signals in rice%5BTitle%5D), 2014, Plant Sci.
     + [Cloning and characterization of an RNase-related protein gene preferentially expressed in rice stems](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning and characterization of an RNase-related protein gene preferentially expressed in rice stems%5BTitle%5D), 2006, Biosci Biotechnol Biochem.

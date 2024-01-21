@@ -17,6 +17,12 @@ tags: [root development, salinity, seed,  ja , transcription factor, root, growt
 * **PLAAC score**  
     + LOC_Os04g56430.1: 0 
 
+* **pLDDT score**
+    + 91.31
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q8S3P3/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8S3P3-F1.png)
+
 * **Publication**  
     + [OsRMC, a negative regulator of salt stress response in rice, is regulated by two AP2/ERF transcription factors](http://www.ncbi.nlm.nih.gov/pubmed?term=OsRMC, a negative regulator of salt stress response in rice, is regulated by two AP2/ERF transcription factors%5BTitle%5D), 2013, Plant Mol Biol.
     + [RNAi knockdown of Oryza sativa root meander curling gene led to altered root development and coiling which were mediated by jasmonic acid signalling in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=RNAi knockdown of Oryza sativa root meander curling gene led to altered root development and coiling which were mediated by jasmonic acid signalling in rice%5BTitle%5D), 2007, Plant Cell Environ.
