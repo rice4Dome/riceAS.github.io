@@ -21,6 +21,10 @@ tags: [stroma]
     + LOC_Os02g44780.2: 0 
     + LOC_Os02g44780.3: 0 
 
+* **pLDDT score**
+    + NA
+
+
 * **Publication**  
     + [Two solanesyl diphosphate synthases with different subcellular localizations and their respective physiological roles in Oryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=Two solanesyl diphosphate synthases with different subcellular localizations and their respective physiological roles in Oryza sativa%5BTitle%5D), 2010, J Exp Bot.
     + [A recruiting protein of geranylgeranyl diphosphate synthase controls metabolic flux toward chlorophyll biosynthesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=A recruiting protein of geranylgeranyl diphosphate synthase controls metabolic flux toward chlorophyll biosynthesis in rice.%5BTitle%5D), 2017, Proc Natl Acad Sci U S A.

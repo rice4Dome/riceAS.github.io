@@ -17,6 +17,12 @@ tags: [microspore, sterile, fertility, anther, pollen, sterility, development, m
 * **PLAAC score**  
     + LOC_Os09g35000.1: 0 
 
+* **pLDDT score**
+    + 75.78
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q64MA3/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q64MA3-F1.png)
+
 * **Publication**  
     + [The OsGEN-L protein from Oryza sativa possesses Holliday junction resolvase activity as well as 5 '-flap endonuclease activity](http://www.ncbi.nlm.nih.gov/pubmed?term=The OsGEN-L protein from Oryza sativa possesses Holliday junction resolvase activity as well as 5 '-flap endonuclease activity%5BTitle%5D), 2012, J Biochem.
     + [RNAi-mediated silencing of OsGEN-L OsGEN-like, a new member of the RAD2/XPG nuclease family, causes male sterility by defect of microspore development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=RNAi-mediated silencing of OsGEN-L OsGEN-like, a new member of the RAD2/XPG nuclease family, causes male sterility by defect of microspore development in rice%5BTitle%5D), 2005, Plant Cell Physiol.
