@@ -23,6 +23,12 @@ tags: [ ga , anther, tapetum, inflorescence, stem, transcription factor, endospe
     + LOC_Os01g59660.3: 0 
     + LOC_Os01g59660.4: 0 
 
+* **pLDDT score**
+    + 53.79
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0JIC2/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JIC2-F1.png)
+
 * **Publication**  
     + [A RING finger E3 ligase gene, Oryza sativa Delayed Seed Germination 1 OsDSG1, controls seed germination and stress responses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=A RING finger E3 ligase gene, Oryza sativa Delayed Seed Germination 1 OsDSG1, controls seed germination and stress responses in rice%5BTitle%5D), 2010, Plant Mol Biol.
     + [Functional dissections between GAMYB and Dof transcription factors suggest a role for protein-protein associations in the gibberellin-mediated expression of the RAmy1A gene in the rice aleurone](http://www.ncbi.nlm.nih.gov/pubmed?term=Functional dissections between GAMYB and Dof transcription factors suggest a role for protein-protein associations in the gibberellin-mediated expression of the RAmy1A gene in the rice aleurone%5BTitle%5D), 2003, Plant Physiol.

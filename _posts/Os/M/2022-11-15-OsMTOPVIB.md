@@ -21,6 +21,12 @@ tags: [meiotic]
     + LOC_Os06g49450.3: 0 
     + LOC_Os06g49450.2: 0 
 
+* **pLDDT score**
+    + 76.14
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0D9M7/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0D9M7-F1.png)
+
 * **Publication**  
     + [OsMTOPVIB promotes meiotic DNA double-strand break formation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsMTOPVIB promotes meiotic DNA double-strand break formation in rice%5BTitle%5D), 2016, Mol Plant.
 
