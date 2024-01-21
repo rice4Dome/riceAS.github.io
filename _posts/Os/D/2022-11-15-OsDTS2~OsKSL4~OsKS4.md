@@ -17,8 +17,14 @@ tags: [growth, root]
 * **PLAAC score**  
     + LOC_Os04g10060.1: 0 
 
+* **pLDDT score**
+    + 83.8
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0JEZ8/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JEZ8-F1.png)
+
 * **Publication**  
-    + [Diterpene Cyclases Responsible for the Biosynthesis of Phytoalexins, Momilactones A, B, and Oryzalexins A–F in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Diterpene Cyclases Responsible for the Biosynthesis of Phytoalexins, Momilactones A, B, and Oryzalexins A–F in Rice%5BTitle%5D), 2014, Bioscience, Biotechnology and Biochemistry.
+    + [Diterpene Cyclases Responsible for the Biosynthesis of Phytoalexins, Momilactones A, B, and Oryzalexins AÃÂÃÂ¢ÃÂÃÂÃÂÃÂF in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Diterpene Cyclases Responsible for the Biosynthesis of Phytoalexins, Momilactones A, B, and Oryzalexins AÃÂÃÂ¢ÃÂÃÂÃÂÃÂF in Rice%5BTitle%5D), 2014, Bioscience, Biotechnology and Biochemistry.
     + [OsTGAP1, a bZIP transcription factor, coordinately regulates the inductive production of diterpenoid phytoalexins in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsTGAP1, a bZIP transcription factor, coordinately regulates the inductive production of diterpenoid phytoalexins in rice%5BTitle%5D), 2009, J Biol Chem.
     + [Genetic evidence for natural product-mediated plant-plant allelopathy in rice Oryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=Genetic evidence for natural product-mediated plant-plant allelopathy in rice Oryza sativa%5BTitle%5D), 2012, New Phytol.
     + [Identification of syn-pimara-7,15-diene synthase reveals functional clustering of terpene synthases involved in rice phytoalexin/allelochemical biosynthesis](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification of syn-pimara-7,15-diene synthase reveals functional clustering of terpene synthases involved in rice phytoalexin/allelochemical biosynthesis%5BTitle%5D), 2004, Plant Physiol.

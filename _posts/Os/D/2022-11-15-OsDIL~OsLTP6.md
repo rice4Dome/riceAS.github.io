@@ -19,6 +19,12 @@ tags: [drought, pollen,  ABA , anther, drought tolerance, fertility, anther deve
     + LOC_Os10g05720.1: 0 
     + LOC_Os10g05720.2: 0 
 
+* **pLDDT score**
+    + 80.32
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q33B26/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q3/AF-Q33B26-F1.png)
+
 * **Publication**  
     + [The rice OsLTP6 gene promoter directs anther-specific expression by a combination of positive and negative regulatory elements](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice OsLTP6 gene promoter directs anther-specific expression by a combination of positive and negative regulatory elements%5BTitle%5D), 2013, Planta.
     + [The rice OsDIL gene plays a role in drought tolerance at vegetative and reproductive stages](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice OsDIL gene plays a role in drought tolerance at vegetative and reproductive stages%5BTitle%5D), 2013, Plant Mol Biol.

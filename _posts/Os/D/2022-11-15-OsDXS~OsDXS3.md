@@ -17,6 +17,12 @@ tags:
 * **PLAAC score**  
     + LOC_Os07g09190.1: 0 
 
+* **pLDDT score**
+    + 85.68
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6YU51/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6YU51-F1.png)
+
 * **Publication**  
     + [Elicitor induced activation of the methylerythritol phosphate pathway toward phytoalexins biosynthesis in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Elicitor induced activation of the methylerythritol phosphate pathway toward phytoalexins biosynthesis in rice%5BTitle%5D), 2007, Plant Mol Biol.
 

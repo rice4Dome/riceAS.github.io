@@ -17,6 +17,12 @@ tags:
 * **PLAAC score**  
     + LOC_Os04g48350.1: 0 
 
+* **pLDDT score**
+    + 70.68
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q8H273/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8H273-F1.png)
+
 * **Publication**  
     + [OsDREB4 genes in rice encode AP2-containing proteins that bind specifically to the dehydration-responsive element](http://www.ncbi.nlm.nih.gov/pubmed?term=OsDREB4 genes in rice encode AP2-containing proteins that bind specifically to the dehydration-responsive element%5BTitle%5D), 2005, J Integr Plant Biol.
     + [Mutation of OsGIGANTEA Leads to Enhanced Tolerance to Polyethylene Glycol-Generated Osmotic Stress in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Mutation of OsGIGANTEA Leads to Enhanced Tolerance to Polyethylene Glycol-Generated Osmotic Stress in Rice.%5BTitle%5D), 2016, Front Plant Sci.

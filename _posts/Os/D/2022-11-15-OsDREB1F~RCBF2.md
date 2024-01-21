@@ -17,6 +17,12 @@ tags: [temperature, transcription factor, salinity, drought, cold stress, shoot,
 * **PLAAC score**  
     + LOC_Os01g73770.1: 0 
 
+* **pLDDT score**
+    + 72.64
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q8S9Z5/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8S9Z5-F1.png)
+
 * **Publication**  
     + [Colinearity and similar expression pattern of rice DREB1s reveal their functional conservation in the cold-responsive pathway](http://www.ncbi.nlm.nih.gov/pubmed?term=Colinearity and similar expression pattern of rice DREB1s reveal their functional conservation in the cold-responsive pathway%5BTitle%5D), 2012, PLoS One.
     + [Isolated and characterization of a cDNA encoding ethylene-responsive element binding protein EREBP/AP2-type protein, RCBF2, in Oryza sativa L](http://www.ncbi.nlm.nih.gov/pubmed?term=Isolated and characterization of a cDNA encoding ethylene-responsive element binding protein EREBP/AP2-type protein, RCBF2, in Oryza sativa L%5BTitle%5D), 2007, Biotechnol Lett.

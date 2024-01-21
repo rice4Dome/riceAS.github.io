@@ -17,6 +17,12 @@ tags: [salt, temperature, drought, transcription factor, abiotic stress, cold st
 * **PLAAC score**  
     + LOC_Os09g35030.1: 0 
 
+* **pLDDT score**
+    + 70.97
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q64MA1/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q64MA1-F1.png)
+
 * **Publication**  
     + [Drought inducible OsDhn1 promoter is activated by OsDREB1A and OsDREB1D](http://www.ncbi.nlm.nih.gov/pubmed?term=Drought inducible OsDhn1 promoter is activated by OsDREB1A and OsDREB1D%5BTitle%5D), 2013, Journal of Plant Biology.
     + [OsDREB genes in rice,Oryza sativaL., encode transcription activators that function in drought-, high-salt- and cold-responsive gene expression](http://www.ncbi.nlm.nih.gov/pubmed?term=OsDREB genes in rice,Oryza sativaL., encode transcription activators that function in drought-, high-salt- and cold-responsive gene expression%5BTitle%5D), 2003, The Plant Journal.
