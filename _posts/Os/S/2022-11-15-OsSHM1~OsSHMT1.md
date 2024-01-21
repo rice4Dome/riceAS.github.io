@@ -21,6 +21,12 @@ tags: [growth, mitochondria, oxidative stress, oxidative, stress]
     + LOC_Os03g52840.1: 0 
     + LOC_Os03g52840.3: 0 
 
+* **pLDDT score**
+    + 93.67
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q10D68/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10D68-F1.png)
+
 * **Publication**  
     + [Stable mitotic inheritance of rice minichromosomes in cell suspension cultures.](http://www.ncbi.nlm.nih.gov/pubmed?term=Stable mitotic inheritance of rice minichromosomes in cell suspension cultures.%5BTitle%5D), 2015, Plant Cell Rep.
     + [The molecular cloning and clarification of a photorespiratory mutant, oscdm1, using enhancer trapping.](http://www.ncbi.nlm.nih.gov/pubmed?term=The molecular cloning and clarification of a photorespiratory mutant, oscdm1, using enhancer trapping.%5BTitle%5D), 2015, Front Genet.

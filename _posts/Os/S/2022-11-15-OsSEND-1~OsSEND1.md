@@ -17,6 +17,12 @@ tags: [meristem, development, plant development]
 * **PLAAC score**  
     + LOC_Os08g01130.1: 0 
 
+* **pLDDT score**
+    + 68.88
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q8W5R1/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8W5R1-F1.png)
+
 * **Publication**  
     + [OsSEND-1: a new RAD2 nuclease family member in higher plants](http://www.ncbi.nlm.nih.gov/pubmed?term=OsSEND-1: a new RAD2 nuclease family member in higher plants%5BTitle%5D), 2003, Plant Mol Biol.
     + [Resolvase OsGEN1 Mediates DNA Repair by Homologous Recombination.](http://www.ncbi.nlm.nih.gov/pubmed?term=Resolvase OsGEN1 Mediates DNA Repair by Homologous Recombination.%5BTitle%5D), 2017, Plant Physiol.
