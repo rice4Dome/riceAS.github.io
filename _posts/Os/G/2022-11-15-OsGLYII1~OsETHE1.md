@@ -19,6 +19,12 @@ tags: [root, calcium, stress, stress response]
     + LOC_Os01g47690.1: 0 
     + LOC_Os01g47690.2: 0 
 
+* **pLDDT score**
+    + 86.15
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q5QLQ5/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q5/AF-Q5QLQ5-F1.png)
+
 * **Publication**  
     + [Expression of abiotic stress inducible ETHE1-like protein from rice is higher in roots and is regulated by calcium.](http://www.ncbi.nlm.nih.gov/pubmed?term=Expression of abiotic stress inducible ETHE1-like protein from rice is higher in roots and is regulated by calcium.%5BTitle%5D), 2014, Physiol Plant.
     + [Genome-wide analysis of rice and Arabidopsis identifies two glyoxalase genes that are highly expressed in abiotic stresses.](http://www.ncbi.nlm.nih.gov/pubmed?term=Genome-wide analysis of rice and Arabidopsis identifies two glyoxalase genes that are highly expressed in abiotic stresses.%5BTitle%5D), 2011, Funct Integr Genomics.

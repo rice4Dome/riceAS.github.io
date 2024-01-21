@@ -19,6 +19,12 @@ tags: [stem, seed, leaf, nitrogen, drought, root, grain, growth, spikelet, sheat
     + LOC_Os02g50240.1: 0 
     + LOC_Os02g50240.2: 0 
 
+* **pLDDT score**
+    + 98.08
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/P14656/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/P/AF-P14656-F1.png)
+
 * **Publication**  
     + [Regulation of glutamine synthetase isoforms in two differentially drought-tolerant rice Oryza sativa L. cultivars under water deficit conditions](http://www.ncbi.nlm.nih.gov/pubmed?term=Regulation of glutamine synthetase isoforms in two differentially drought-tolerant rice Oryza sativa L. cultivars under water deficit conditions%5BTitle%5D), 2013, Plant Cell Rep.
     + [Influence of different nitrogen inputs on the members of ammonium transporter and glutamine synthetase genes in two rice genotypes having differential responsiveness to nitrogen](http://www.ncbi.nlm.nih.gov/pubmed?term=Influence of different nitrogen inputs on the members of ammonium transporter and glutamine synthetase genes in two rice genotypes having differential responsiveness to nitrogen%5BTitle%5D), 2012, Mol Biol Rep.
@@ -59,7 +65,7 @@ tags: [stem, seed, leaf, nitrogen, drought, root, grain, growth, spikelet, sheat
     + Low-affinity forms of GS1 comparable to those in Arabidopsis (GLN1;2 and GLN1;3) were absent in rice roots
     + Rice plants possess one gene (OsGS2) for chloroplastic GS2 and three genes (OsGS1;1, OsGS1;2 and OsGS1;3) for cytosolic GS1
     + Abnormal mRNA for GS1;1 was transcribed, and the GS1 protein and its activity in the leaf blades were barely detectable in these mutants
-    + These findings suggested that the variation in GS1 and NADH‐GOGAT protein contents in this population is related to the changes in the rate of nitrogen recycling from senescing organs to developing organs, leading to changes in these physiological traits
+    + These findings suggested that the variation in GS1 and NADHÃÂÃÂ¢ÃÂÃÂÃÂÃÂGOGAT protein contents in this population is related to the changes in the rate of nitrogen recycling from senescing organs to developing organs, leading to changes in these physiological traits
     + OsGLN1;1 accumulated in dermatogen, epidermis and exodermis under nitrogen-limited condition
     + By contrast, OsGLN1;2 was abundantly expressed in the same cell layers under nitrogen-sufficient conditions, replenishing the loss of OsGLN1;1 following ammonium treatment
     + The results indicate that GS1;1 is important for normal growth and grain filling in rice; GS1;2 and GS1;3 were not able to compensate for GS1;1 function

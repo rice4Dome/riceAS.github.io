@@ -19,6 +19,10 @@ tags: [oxidative]
     + LOC_Os04g42930.1: 0 
     + LOC_Os04g42930.2: 0 
 
+* **pLDDT score**
+    + NA
+
+
 * **Publication**  
     + [GSH-dependent peroxidase activity of the rice Oryza sativa glutaredoxin, a thioltransferase](http://www.ncbi.nlm.nih.gov/pubmed?term=GSH-dependent peroxidase activity of the rice Oryza sativa glutaredoxin, a thioltransferase%5BTitle%5D), 2002, Biochem Biophys Res Commun.
 
