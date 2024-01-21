@@ -31,6 +31,12 @@ tags: [seed, salt stress, salt, drought, cytokinin, shoot, growth, seedling, see
     + LOC_Os03g20380.7: 0 
     + LOC_Os03g20380.3: 0 
 
+* **pLDDT score**
+    + 79.13
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6X4A2/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6X4A2-F1.png)
+
 * **Publication**  
     + [OsCIPK31, a CBL-interacting protein kinase is involved in germination and seedling growth under abiotic stress conditions in rice plants](http://www.ncbi.nlm.nih.gov/pubmed?term=OsCIPK31, a CBL-interacting protein kinase is involved in germination and seedling growth under abiotic stress conditions in rice plants%5BTitle%5D), 2010, Mol Cells.
     + [Calcium sensors and their interacting protein kinases: genomics of the Arabidopsis and rice CBL-CIPK signaling networks](http://www.ncbi.nlm.nih.gov/pubmed?term=Calcium sensors and their interacting protein kinases: genomics of the Arabidopsis and rice CBL-CIPK signaling networks%5BTitle%5D), 2004, Plant Physiol.

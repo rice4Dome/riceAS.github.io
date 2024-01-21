@@ -25,6 +25,12 @@ tags: [stem, seed, flower, root, seed development]
     + LOC_Os07g33110.1: 0 
     + LOC_Os07g33110.2: 0 
 
+* **pLDDT score**
+    + 78.59
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/P53683/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/P/AF-P53683-F1.png)
+
 * **Publication**  
     + [Molecular cloning of two novel rice cDNA sequences encoding putative calcium-dependent protein kinases](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular cloning of two novel rice cDNA sequences encoding putative calcium-dependent protein kinases%5BTitle%5D), 1995, Plant Mol Biol.
     + [Rice calcium-dependent protein kinase isoforms OsCDPK2 and OsCDPK11 show different responses to light and different expression patterns during seed development](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice calcium-dependent protein kinase isoforms OsCDPK2 and OsCDPK11 show different responses to light and different expression patterns during seed development%5BTitle%5D), 1999, Plant Mol Biol.

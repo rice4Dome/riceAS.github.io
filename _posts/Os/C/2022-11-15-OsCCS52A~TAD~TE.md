@@ -19,6 +19,12 @@ tags: [seedling, grain, flower, cell cycle, cell elongation, vegetative, endospe
     + LOC_Os03g03150.2: 0 
     + LOC_Os03g03150.1: 0 
 
+* **pLDDT score**
+    + 75.81
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q10SH0/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10SH0-F1.png)
+
 * **Publication**  
     + [Potential role of the rice OsCCS52A gene in endoreduplication](http://www.ncbi.nlm.nih.gov/pubmed?term=Potential role of the rice OsCCS52A gene in endoreduplication%5BTitle%5D), 2012, Planta.
     + [Rice APC/CTE controls tillering by mediating the degradation of MONOCULM 1](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice APC/CTE controls tillering by mediating the degradation of MONOCULM 1%5BTitle%5D), 2012, Nat Commun.

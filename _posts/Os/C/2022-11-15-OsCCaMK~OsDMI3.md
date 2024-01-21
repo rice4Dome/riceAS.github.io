@@ -17,6 +17,12 @@ tags: [root, defense,  ABA , oxidative, ethylene, nitrogen]
 * **PLAAC score**  
     + LOC_Os05g41090.1: 0 
 
+* **pLDDT score**
+    + 73.17
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6AVM3/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6AVM3-F1.png)
+
 * **Publication**  
     + [A rice gene for microbial symbiosis, Oryza sativa CCaMK, reduces CH4 flux in a paddy field with low nitrogen input](http://www.ncbi.nlm.nih.gov/pubmed?term=A rice gene for microbial symbiosis, Oryza sativa CCaMK, reduces CH4 flux in a paddy field with low nitrogen input%5BTitle%5D), 2014, Appl Environ Microbiol.
     + [OsDMI3 is a novel component of abscisic acid signaling in the induction of antioxidant defense in leaves of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsDMI3 is a novel component of abscisic acid signaling in the induction of antioxidant defense in leaves of rice%5BTitle%5D), 2012, Mol Plant.

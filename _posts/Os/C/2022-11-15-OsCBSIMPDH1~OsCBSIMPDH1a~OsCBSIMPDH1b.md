@@ -19,6 +19,12 @@ tags:
     + LOC_Os03g56800.2: 0 
     + LOC_Os03g56800.1: 0 
 
+* **pLDDT score**
+    + 90.26
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q9AY75/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q9/AF-Q9AY75-F1.png)
+
 * **Publication**  
     + [Genome wide expression analysis of CBS domain containing proteins in Arabidopsis thaliana L. Heynh and Oryza sativa L. reveals their developmental and stress regulation](http://www.ncbi.nlm.nih.gov/pubmed?term=Genome wide expression analysis of CBS domain containing proteins in Arabidopsis thaliana L. Heynh and Oryza sativa L. reveals their developmental and stress regulation%5BTitle%5D), 2009, BMC Genomics.
 

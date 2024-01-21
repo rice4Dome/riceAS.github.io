@@ -23,6 +23,10 @@ tags: [seed, gibberellin, salt, sheath, seedling,  ga , leaf, dwarf, root, droug
     + LOC_Os03g03660.1: 0 
     + LOC_Os03g03660.3: 0 
 
+* **pLDDT score**
+    + NA
+
+
 * **Publication**  
     + [OsCDPK13, a calcium-dependent protein kinase gene from rice, is induced in response to cold and gibberellin](http://www.ncbi.nlm.nih.gov/pubmed?term=OsCDPK13, a calcium-dependent protein kinase gene from rice, is induced in response to cold and gibberellin%5BTitle%5D), 2003, Plant Physiology and Biochemistry.
     + [Molecular cloning of two novel rice cDNA sequences encoding putative calcium-dependent protein kinases](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular cloning of two novel rice cDNA sequences encoding putative calcium-dependent protein kinases%5BTitle%5D), 1995, Plant Mol Biol.

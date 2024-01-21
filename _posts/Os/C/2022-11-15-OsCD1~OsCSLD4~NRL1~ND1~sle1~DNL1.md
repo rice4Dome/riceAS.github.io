@@ -17,6 +17,12 @@ tags: [cell cycle, panicle, leaf, dwarf, cellulose, meristem, root, cell wall, v
 * **PLAAC score**  
     + LOC_Os12g36890.1: 0 
 
+* **pLDDT score**
+    + 71.29
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q2QNS6/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q2/AF-Q2QNS6-F1.png)
+
 * **Publication**  
     + [Rice slender leaf 1 gene encodes cellulose synthase-like D4 and is specifically expressed in M-phase cells to regulate cell proliferation](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice slender leaf 1 gene encodes cellulose synthase-like D4 and is specifically expressed in M-phase cells to regulate cell proliferation%5BTitle%5D), 2013, J Exp Bot.
     + [Rice cellulose synthase-like D4 is essential for normal cell-wall biosynthesis and plant growth](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice cellulose synthase-like D4 is essential for normal cell-wall biosynthesis and plant growth%5BTitle%5D), 2009, Plant J.
