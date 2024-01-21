@@ -19,6 +19,10 @@ tags: [stem, growth, leaf, iaa, root, shoot, seedling, auxin, homeostasis]
     + LOC_Os03g06654.1: 0 
     + LOC_Os03g06654.2: 0 
 
+* **pLDDT score**
+    + NA
+
+
 * **Publication**  
     + [NARROW LEAF 7 controls leaf shape mediated by auxin in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=NARROW LEAF 7 controls leaf shape mediated by auxin in rice%5BTitle%5D), 2008, Mol Genet Genomics.
     + [Cloning, characterization and expression of OsFMOt in rice encoding a flavin monooxygenase](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning, characterization and expression of OsFMOt in rice encoding a flavin monooxygenase%5BTitle%5D), 2013, J Genet.
