@@ -23,6 +23,12 @@ tags:
     + LOC_Os01g47530.2: 0 
     + LOC_Os01g47530.3: 0 
 
+* **pLDDT score**
+    + 68.92
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q5SN53/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q5/AF-Q5SN53-F1.png)
+
 * **Publication**  
     + [Molecular analysis of the rice MAP kinase gene family in relation to Magnaporthe grisea infection](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular analysis of the rice MAP kinase gene family in relation to Magnaporthe grisea infection%5BTitle%5D), 2006, Mol Plant Microbe Interact.
 

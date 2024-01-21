@@ -17,6 +17,10 @@ tags: [meristem, palea, fertility, leaf, spikelet, branching, heading date, tran
 * **PLAAC score**  
     + LOC_Os03g11614.1: 0 
 
+* **pLDDT score**
+    + NA
+
+
 * **Publication**  
     + [Morphogenesis and molecular basis on naked seed rice, a novel homeotic mutation of OsMADS1 regulating transcript level of AP3 homologue in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Morphogenesis and molecular basis on naked seed rice, a novel homeotic mutation of OsMADS1 regulating transcript level of AP3 homologue in rice%5BTitle%5D), 2006, Planta.
     + [MADS-box gene family in rice: genome-wide identification, organization and expression profiling during reproductive development and stress](http://www.ncbi.nlm.nih.gov/pubmed?term=MADS-box gene family in rice: genome-wide identification, organization and expression profiling during reproductive development and stress%5BTitle%5D), 2007, BMC Genomics.

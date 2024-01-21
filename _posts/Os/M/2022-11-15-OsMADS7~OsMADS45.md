@@ -19,6 +19,12 @@ tags: [stamen, flower, palea, floral, leaf, lemma, temperature, spikelet, stress
     + LOC_Os08g41950.1: 0 
     + LOC_Os08g41950.2: 0 
 
+* **pLDDT score**
+    + 78.74
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0J466/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0J466-F1.png)
+
 * **Publication**  
     + [MADS-box gene family in rice: genome-wide identification, organization and expression profiling during reproductive development and stress](http://www.ncbi.nlm.nih.gov/pubmed?term=MADS-box gene family in rice: genome-wide identification, organization and expression profiling during reproductive development and stress%5BTitle%5D), 2007, BMC Genomics.
     + [Functional conservation and diversification of class E floral homeotic genes in rice Oryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=Functional conservation and diversification of class E floral homeotic genes in rice Oryza sativa%5BTitle%5D), 2010, Plant J.

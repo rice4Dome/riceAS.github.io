@@ -19,6 +19,12 @@ tags: [panicle, salinity]
     + LOC_Os06g48590.1: 0 
     + LOC_Os06g48590.2: 0 
 
+* **pLDDT score**
+    + 90.77
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q5Z859/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q5/AF-Q5Z859-F1.png)
+
 * **Publication**  
     + [Novel rice MAP kinases OsMSRMK3 and OsWJUMK1 involved in encountering diverse environmental stresses and developmental regulation](http://www.ncbi.nlm.nih.gov/pubmed?term=Novel rice MAP kinases OsMSRMK3 and OsWJUMK1 involved in encountering diverse environmental stresses and developmental regulation%5BTitle%5D), 2003, Biochem Biophys Res Commun.
     + [Transcriptional Regulation of a Rice Mitogen-Activated Protein Kinase Gene, OsMAPK4, in Response to Environmental Stresses](http://www.ncbi.nlm.nih.gov/pubmed?term=Transcriptional Regulation of a Rice Mitogen-Activated Protein Kinase Gene, OsMAPK4, in Response to Environmental Stresses%5BTitle%5D), 2002, Plant and Cell Physiology.

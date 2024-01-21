@@ -19,6 +19,12 @@ tags: [ ABA , defense, cold stress, jasmonic acid, jasmonic, salicylic acid, tem
     + LOC_Os06g06090.1: 0 
     + LOC_Os06g06090.2: 0 
 
+* **pLDDT score**
+    + 86.47
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q84UI5/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q84UI5-F1.png)
+
 * **Publication**  
     + [Rice OsSIPK and its orthologs: a "central master switch" for stress responses](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice OsSIPK and its orthologs: a "central master switch" for stress responses%5BTitle%5D), 2009, Biochem Biophys Res Commun.
     + [Novel rice OsSIPK is a multiple stress responsive MAPK family member showing rhythmic expression at mRNA level](http://www.ncbi.nlm.nih.gov/pubmed?term=Novel rice OsSIPK is a multiple stress responsive MAPK family member showing rhythmic expression at mRNA level%5BTitle%5D), 2007, Planta.
