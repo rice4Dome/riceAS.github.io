@@ -17,6 +17,12 @@ tags: [leaf, transporter, vegetative]
 * **PLAAC score**  
     + LOC_Os02g36700.1: 0 
 
+* **pLDDT score**
+    + 84.89
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q69JW3/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69JW3-F1.png)
+
 * **Publication**  
     + [Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z%5BTitle%5D), 2008, J Integr Plant Biol.
     + [The sucrose transporter gene family in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The sucrose transporter gene family in rice%5BTitle%5D), 2003, Plant Cell Physiol.

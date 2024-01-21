@@ -21,6 +21,12 @@ tags: [leaf, grain, panicle, spikelet, root, growth, transporter, tiller, seed, 
     + LOC_Os12g44380.2: 0 
     + LOC_Os12g44380.1: 0 
 
+* **pLDDT score**
+    + 86.22
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0ILJ3/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0ILJ3-F1.png)
+
 * **Publication**  
     + [Sugar transporters involved in flowering and grain development of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Sugar transporters involved in flowering and grain development of rice%5BTitle%5D), 2001, Journal of Plant Physiology.
     + [Impaired function of the tonoplast-localized sucrose transporter in rice, OsSUT2, limits the transport of vacuolar reserve sucrose and affects plant growth](http://www.ncbi.nlm.nih.gov/pubmed?term=Impaired function of the tonoplast-localized sucrose transporter in rice, OsSUT2, limits the transport of vacuolar reserve sucrose and affects plant growth%5BTitle%5D), 2011, Plant Physiol.

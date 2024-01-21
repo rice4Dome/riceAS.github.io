@@ -19,6 +19,12 @@ tags: [endosperm, starch, seed]
     + LOC_Os08g09230.2: 0 
     + LOC_Os08g09230.1: 0 
 
+* **pLDDT score**
+    + 55.71
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/A0A0P0XCU3/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/A/AF-A0A0P0XCU3-F1.png)
+
 * **Publication**  
     + [Knockout of a starch synthase gene OsSSIIIa/Flo5 causes white-core floury endosperm in rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Knockout of a starch synthase gene OsSSIIIa/Flo5 causes white-core floury endosperm in rice Oryza sativa L.%5BTitle%5D), 2007, Plant Cell Rep.
     + [Double repression of soluble starch synthase genes SSIIa and SSIIIa in rice Oryza sativa L. uncovers interactive effects on the physicochemical properties of starch](http://www.ncbi.nlm.nih.gov/pubmed?term=Double repression of soluble starch synthase genes SSIIa and SSIIIa in rice Oryza sativa L. uncovers interactive effects on the physicochemical properties of starch%5BTitle%5D), 2011, Genome.

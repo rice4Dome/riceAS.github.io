@@ -23,6 +23,12 @@ tags: [shoot,  pi , transporter, plasma membrane, Pi]
     + LOC_Os06g03860.2: 0 
     + LOC_Os06g03860.1: 0 
 
+* **pLDDT score**
+    + 78.39
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q658H5/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q658H5-F1.png)
+
 * **Publication**  
     + [Functional characterization of the rice SPX-MFS family reveals a key role of OsSPX-MFS1 in controlling phosphate homeostasis in leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=Functional characterization of the rice SPX-MFS family reveals a key role of OsSPX-MFS1 in controlling phosphate homeostasis in leaves%5BTitle%5D), 2012, New Phytol.
     + [OsSPX-MFS3, a vacuolar phosphate efflux transporter, is involved in maintaining Pi homeostasis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsSPX-MFS3, a vacuolar phosphate efflux transporter, is involved in maintaining Pi homeostasis in rice.%5BTitle%5D), 2015, Plant Physiol.

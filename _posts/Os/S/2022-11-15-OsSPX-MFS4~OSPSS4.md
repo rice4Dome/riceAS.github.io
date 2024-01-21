@@ -17,6 +17,12 @@ tags:
 * **PLAAC score**  
     + LOC_Os09g34990.1: 0 
 
+* **pLDDT score**
+    + 76.79
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/B9FMX4/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/B/AF-B9FMX4-F1.png)
+
 * **Publication**  
     + [The emerging importance of the SPX domain-containing proteins in phosphate homeostasis](http://www.ncbi.nlm.nih.gov/pubmed?term=The emerging importance of the SPX domain-containing proteins in phosphate homeostasis%5BTitle%5D), 2012, New Phytologist.
     + [Functional characterization of the rice SPX-MFS family reveals a key role of OsSPX-MFS1 in controlling phosphate homeostasis in leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=Functional characterization of the rice SPX-MFS family reveals a key role of OsSPX-MFS1 in controlling phosphate homeostasis in leaves%5BTitle%5D), 2012, New Phytol.

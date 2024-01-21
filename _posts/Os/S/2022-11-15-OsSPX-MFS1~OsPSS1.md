@@ -17,6 +17,12 @@ tags: [phosphate, shoot, homeostasis, transporter,  pi , Pi]
 * **PLAAC score**  
     + LOC_Os04g48390.1: 0 
 
+* **pLDDT score**
+    + 78.08
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0JAW2/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JAW2-F1.png)
+
 * **Publication**  
     + [Auxin response factor OsARF12, a novel regulator for phosphate homeostasis in rice Oryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=Auxin response factor OsARF12, a novel regulator for phosphate homeostasis in rice Oryza sativa%5BTitle%5D), 2014, New Phytol.
     + [Functional characterization of the rice SPX-MFS family reveals a key role of OsSPX-MFS1 in controlling phosphate homeostasis in leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=Functional characterization of the rice SPX-MFS family reveals a key role of OsSPX-MFS1 in controlling phosphate homeostasis in leaves%5BTitle%5D), 2012, New Phytol.

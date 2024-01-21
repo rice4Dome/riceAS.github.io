@@ -17,6 +17,12 @@ tags:
 * **PLAAC score**  
     + LOC_Os01g02890.1: 0 
 
+* **pLDDT score**
+    + 83.71
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0JR55/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JR55-F1.png)
+
 * **Publication**  
     + [SUI-family genes encode phosphatidylserine synthases and regulate stem development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=SUI-family genes encode phosphatidylserine synthases and regulate stem development in rice%5BTitle%5D), 2013, Planta.
     + [Identification and characterization of SHORTENED UPPERMOST INTERNODE 1, a gene negatively regulating uppermost internode elongation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and characterization of SHORTENED UPPERMOST INTERNODE 1, a gene negatively regulating uppermost internode elongation in rice%5BTitle%5D), 2011, Plant Mol Biol.
