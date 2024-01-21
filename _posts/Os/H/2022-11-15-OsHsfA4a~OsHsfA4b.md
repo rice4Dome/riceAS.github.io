@@ -17,6 +17,12 @@ tags:
 * **PLAAC score**  
     + LOC_Os01g54550.1: 0 
 
+* **pLDDT score**
+    + 63.75
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q94J16/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q9/AF-Q94J16-F1.png)
+
 * **Publication**  
     + [A 9 bp cis-element in the promoters of class I small heat shock protein genes on chromosome 3 in rice mediates L-azetidine-2-carboxylic acid and heat shock responses](http://www.ncbi.nlm.nih.gov/pubmed?term=A 9 bp cis-element in the promoters of class I small heat shock protein genes on chromosome 3 in rice mediates L-azetidine-2-carboxylic acid and heat shock responses%5BTitle%5D), 2010, J Exp Bot.
     + [Identification and expression analysis of OsHsfs in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and expression analysis of OsHsfs in rice%5BTitle%5D), 2009, J Zhejiang Univ Sci B.

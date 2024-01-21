@@ -19,6 +19,10 @@ tags: [transcription factor, temperature, stress]
     + LOC_Os03g06630.1: 0 
     + LOC_Os03g06630.2: 0 
 
+* **pLDDT score**
+    + NA
+
+
 * **Publication**  
     + [OsHSF7 gene in rice, Oryza sativa L., encodes a transcription factor that functions as a high temperature receptive and responsive factor](http://www.ncbi.nlm.nih.gov/pubmed?term=OsHSF7 gene in rice, Oryza sativa L., encodes a transcription factor that functions as a high temperature receptive and responsive factor%5BTitle%5D), 2009, BMB reports.
     + [An alternatively spliced heat shock transcription factor, OsHSFA2dI, functions in the heat stress-induced unfolded protein response in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=An alternatively spliced heat shock transcription factor, OsHSFA2dI, functions in the heat stress-induced unfolded protein response in rice.%5BTitle%5D), 2014, Plant Biol (Stuttg).

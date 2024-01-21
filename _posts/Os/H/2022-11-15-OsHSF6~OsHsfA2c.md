@@ -23,6 +23,10 @@ tags: [seed, transcription factor, root]
     + LOC_Os10g28340.2: 0 
     + LOC_Os10g28340.1: 0 
 
+* **pLDDT score**
+    + NA
+
+
 * **Publication**  
     + [Isolation and characterization of a cDNA encoding two novel heat-shock factor OsHSF6 and OsHSF12 in Oryza sativa L](http://www.ncbi.nlm.nih.gov/pubmed?term=Isolation and characterization of a cDNA encoding two novel heat-shock factor OsHSF6 and OsHSF12 in Oryza sativa L%5BTitle%5D), 2005, J Biochem Mol Biol.
     + [OsHsfA2c and OsHsfB4b are involved in the transcriptional regulation of cytoplasmic OsClpB Hsp100 gene in rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsHsfA2c and OsHsfB4b are involved in the transcriptional regulation of cytoplasmic OsClpB Hsp100 gene in rice Oryza sativa L.%5BTitle%5D), 2012, Cell Stress Chaperones.
