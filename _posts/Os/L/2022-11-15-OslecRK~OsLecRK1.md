@@ -17,6 +17,12 @@ tags: [seed germination, seed]
 * **PLAAC score**  
     + LOC_Os04g12540.1: 0 
 
+* **pLDDT score**
+    + 85.23
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q7FAZ3/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7FAZ3-F1.png)
+
 * **Publication**  
     + [A rice lectin receptor-like kinase that is involved in innate immune responses also contributes to seed germination](http://www.ncbi.nlm.nih.gov/pubmed?term=A rice lectin receptor-like kinase that is involved in innate immune responses also contributes to seed germination%5BTitle%5D), 2013, The Plant Journal.
     + [A gene cluster encoding lectin receptor kinases confers broad-spectrum and durable insect resistance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=A gene cluster encoding lectin receptor kinases confers broad-spectrum and durable insect resistance in rice%5BTitle%5D), 2014, Nature Biotechnology.
@@ -25,7 +31,7 @@ tags: [seed germination, seed]
 
 * **Key message**  
     + Here, we show that the rice lectin receptor-like kinase OslecRK contributes to both seed germination and plant innate immunity
-    + We demonstrate that knocking down the OslecRK gene depresses the expression of α–amylase genes, reducing seed viability and thereby decreasing the rate of seed germination
+    + We demonstrate that knocking down the OslecRK gene depresses the expression of ÃÂÃÂÃÂÃÂ±ÃÂÃÂ¢ÃÂÃÂÃÂÃÂamylase genes, reducing seed viability and thereby decreasing the rate of seed germination
 
 * **Connection**  
 
