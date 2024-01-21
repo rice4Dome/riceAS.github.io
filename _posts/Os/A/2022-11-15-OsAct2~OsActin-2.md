@@ -17,6 +17,12 @@ tags:
 * **PLAAC score**  
     + LOC_Os10g36650.1: 0 
 
+* **pLDDT score**
+    + 95.16
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/A3C6D7/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/A/AF-A3C6D7-F1.png)
+
 * **Publication**  
     + [Identification of a rice actin2 gene regulatory region for high-level expression of transgenes in monocots](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification of a rice actin2 gene regulatory region for high-level expression of transgenes in monocots%5BTitle%5D), 2009, Plant Biotechnol J.
 

@@ -17,6 +17,12 @@ tags: [transcription factor]
 * **PLAAC score**  
     + LOC_Os01g40094.1: 0 
 
+* **pLDDT score**
+    + 75.87
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0JLP9/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JLP9-F1.png)
+
 * **Publication**  
     + [The NAC family transcription factor OsNAP confers abiotic stress response through the ABA pathway](http://www.ncbi.nlm.nih.gov/pubmed?term=The NAC family transcription factor OsNAP confers abiotic stress response through the ABA pathway%5BTitle%5D), 2014, Plant Cell Physiol.
     + [ABA Regulates Subcellular Redistribution of OsABI-LIKE2, a Negative Regulator in ABA Signaling, to Control Root Architecture and Drought Resistance in Oryza sativa.](http://www.ncbi.nlm.nih.gov/pubmed?term=ABA Regulates Subcellular Redistribution of OsABI-LIKE2, a Negative Regulator in ABA Signaling, to Control Root Architecture and Drought Resistance in Oryza sativa.%5BTitle%5D), 2015, Plant Cell Physiol.

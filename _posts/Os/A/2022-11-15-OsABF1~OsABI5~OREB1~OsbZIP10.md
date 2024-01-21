@@ -19,6 +19,12 @@ tags: [transcription factor, salinity, drought, growth, seed germination,  ABA ,
     + LOC_Os01g64730.1: 0 
     + LOC_Os01g64730.2: 0 
 
+* **pLDDT score**
+    + 66.29
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0JHF1/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JHF1-F1.png)
+
 * **Publication**  
     + [Characterization of alternative splicing products of bZIP transcription factors OsABI5](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of alternative splicing products of bZIP transcription factors OsABI5%5BTitle%5D), 2007, Biochem Biophys Res Commun.
     + [Phosphorylation-mediated regulation of a rice ABA responsive element binding factor](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorylation-mediated regulation of a rice ABA responsive element binding factor%5BTitle%5D), 2011, Phytochemistry.
