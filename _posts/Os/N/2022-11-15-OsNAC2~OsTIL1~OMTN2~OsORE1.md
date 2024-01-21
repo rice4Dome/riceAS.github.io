@@ -17,6 +17,12 @@ tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, 
 * **PLAAC score**  
     + LOC_Os04g38720.1: 0 
 
+* **pLDDT score**
+    + 65.01
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q7XUV6/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7XUV6-F1.png)
+
 * **Publication**  
     + [Overexpression of a NAC-domain protein promotes shoot branching in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of a NAC-domain protein promotes shoot branching in rice%5BTitle%5D), 2007, New Phytol.
     + [OsNAC2 encoding a NAC transcription factor affects plant height through mediating the gibberellic acid pathway in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC2 encoding a NAC transcription factor affects plant height through mediating the gibberellic acid pathway in rice.%5BTitle%5D), 2015, Plant J.

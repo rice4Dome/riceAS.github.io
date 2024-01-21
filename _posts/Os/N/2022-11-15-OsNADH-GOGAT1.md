@@ -17,6 +17,10 @@ tags:
 * **PLAAC score**  
     + LOC_Os01g48960.1: 0 
 
+* **pLDDT score**
+    + NA
+
+
 * **Publication**  
     + [Rice Ferredoxin-Dependent Glutamate Synthase Regulates Nitrogen-Carbon Metabolomes and Is Genetically Differentiated between japonica and indica Subspecies](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice Ferredoxin-Dependent Glutamate Synthase Regulates Nitrogen-Carbon Metabolomes and Is Genetically Differentiated between japonica and indica Subspecies%5BTitle%5D), 2016, Molecular plant.
 

@@ -17,6 +17,10 @@ tags:
 * **PLAAC score**  
     + LOC_Os01g50420.1: 0 
 
+* **pLDDT score**
+    + NA
+
+
 * **Publication**  
 
 * **Genbank accession number**  

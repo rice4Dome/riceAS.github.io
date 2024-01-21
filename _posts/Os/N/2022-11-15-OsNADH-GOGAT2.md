@@ -17,6 +17,12 @@ tags: [spikelet number, yield, spikelet, panicle, sheath, biomass, leaf]
 * **PLAAC score**  
     + LOC_Os05g48200.1: 0 
 
+* **pLDDT score**
+    + 87.51
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0DG35/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0DG35-F1.png)
+
 * **Publication**  
     + [Disruption of a Novel NADH-Glutamate Synthase2 Gene Caused Marked Reduction in Spikelet Number of Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Disruption of a Novel NADH-Glutamate Synthase2 Gene Caused Marked Reduction in Spikelet Number of Rice%5BTitle%5D), 2011, Front Plant Sci.
 
