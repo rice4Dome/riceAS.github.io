@@ -17,6 +17,12 @@ tags: [seedling, shoot, root, jasmonate, submergence, growth]
 * **PLAAC score**  
     + LOC_Os05g13900.1: 0 
 
+* **pLDDT score**
+    + 54.55
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6AVC2/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6AVC2-F1.png)
+
 * **Publication**  
     + [Abscisic acid- and stress-induced highly proline-rich glycoproteins regulate root growth in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Abscisic acid- and stress-induced highly proline-rich glycoproteins regulate root growth in rice%5BTitle%5D), 2013, Plant Physiol.
     + [Isolation and characterization of a gene for a repetitive proline rich protein OsPRP down-regulated during submergence in rice Oryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=Isolation and characterization of a gene for a repetitive proline rich protein OsPRP down-regulated during submergence in rice Oryza sativa%5BTitle%5D), 2003, Physiologia Plantarum.

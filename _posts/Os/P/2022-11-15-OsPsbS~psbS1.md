@@ -19,6 +19,12 @@ tags:
     + LOC_Os01g64960.1: 0 
     + LOC_Os01g64960.2: 0 
 
+* **pLDDT score**
+    + 75.38
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q943K1/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q9/AF-Q943K1-F1.png)
+
 * **Publication**  
     + [Dependence of reaction center-type energy-dependent quenching on photosystem II antenna size](http://www.ncbi.nlm.nih.gov/pubmed?term=Dependence of reaction center-type energy-dependent quenching on photosystem II antenna size%5BTitle%5D), 2007, Biochim Biophys Acta.
     + [The photoprotective protein PsbS exerts control over CO2 assimilation rate in fluctuating light in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The photoprotective protein PsbS exerts control over CO2 assimilation rate in fluctuating light in rice%5BTitle%5D), 2012, Plant J.

@@ -17,6 +17,12 @@ tags:
 * **PLAAC score**  
     + LOC_Os06g40180.1: 0 
 
+* **pLDDT score**
+    + 88.71
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q69X21/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69X21-F1.png)
+
 * **Publication**  
     + [The chloroplast-localized phospholipases D alpha4 and alpha5 regulate herbivore-induced direct and indirect defenses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The chloroplast-localized phospholipases D alpha4 and alpha5 regulate herbivore-induced direct and indirect defenses in rice%5BTitle%5D), 2011, Plant Physiol.
     + [Suppression of a phospholipase D gene, OsPLDbeta1, activates defense responses and increases disease resistance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Suppression of a phospholipase D gene, OsPLDbeta1, activates defense responses and increases disease resistance in rice%5BTitle%5D), 2009, Plant Physiol.

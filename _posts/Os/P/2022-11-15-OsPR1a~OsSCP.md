@@ -17,6 +17,12 @@ tags: [leaf,  sa , jasmonic acid, jasmonic, phytohormone,  pi , ethylene, salicy
 * **PLAAC score**  
     + LOC_Os07g03710.1: 0 
 
+* **pLDDT score**
+    + 90.48
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6YSF8/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6YSF8-F1.png)
+
 * **Publication**  
     + [A novel rice Oryza sativa L. acidic PR1 gene highly responsive to cut, phytohormones, and protein phosphatase inhibitors](http://www.ncbi.nlm.nih.gov/pubmed?term=A novel rice Oryza sativa L. acidic PR1 gene highly responsive to cut, phytohormones, and protein phosphatase inhibitors%5BTitle%5D), 2000, Biochem Biophys Res Commun.
     + [Overexpression of the rice EREBP-like gene OsBIERF3 enhances disease resistance and salt tolerance in transgenic tobacco](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of the rice EREBP-like gene OsBIERF3 enhances disease resistance and salt tolerance in transgenic tobacco%5BTitle%5D), 2005, Physiological and Molecular Plant Pathology.

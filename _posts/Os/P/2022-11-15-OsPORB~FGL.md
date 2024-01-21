@@ -19,6 +19,12 @@ tags: [leaf, seedling, leaf development, growth, development, reproductive, repr
     + LOC_Os10g35370.1: 0 
     + LOC_Os10g35370.2: 0 
 
+* **pLDDT score**
+    + 82.09
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q8W3D9/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8W3D9-F1.png)
+
 * **Publication**  
     + [The rice faded green leaf locus encodes protochlorophyllide oxidoreductase B and is essential for chlorophyll synthesis under high light conditions](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice faded green leaf locus encodes protochlorophyllide oxidoreductase B and is essential for chlorophyll synthesis under high light conditions%5BTitle%5D), 2013, Plant J.
     + [Two NADPH: Protochlorophyllide Oxidoreductase POR Isoforms Play Distinct Roles in Environmental Adaptation in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Two NADPH: Protochlorophyllide Oxidoreductase POR Isoforms Play Distinct Roles in Environmental Adaptation in Rice.%5BTitle%5D), 2017, Rice (N Y).

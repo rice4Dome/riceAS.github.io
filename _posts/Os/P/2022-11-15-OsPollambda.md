@@ -19,6 +19,12 @@ tags:
     + LOC_Os06g13020.1: 0 
     + LOC_Os06g13020.2: 0 
 
+* **pLDDT score**
+    + 80.55
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q67VC8/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q67VC8-F1.png)
+
 * **Publication**  
     + [Plant DNA polymerase lambda, a DNA repair enzyme that functions in plant meristematic and meiotic tissues](http://www.ncbi.nlm.nih.gov/pubmed?term=Plant DNA polymerase lambda, a DNA repair enzyme that functions in plant meristematic and meiotic tissues%5BTitle%5D), 2004, Eur J Biochem.
 
