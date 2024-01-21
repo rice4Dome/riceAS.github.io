@@ -17,6 +17,10 @@ tags: [meristem, branching, vegetative, pollen, auxin, anther, dwarf, panicle, h
 * **PLAAC score**  
     + LOC_Os08g06480.1: 0 
 
+* **pLDDT score**
+    + NA
+
+
 * **Publication**  
     + [OsLIS-L1 encoding a lissencephaly type-1-like protein with WD40 repeats is required for plant height and male gametophyte formation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsLIS-L1 encoding a lissencephaly type-1-like protein with WD40 repeats is required for plant height and male gametophyte formation in rice%5BTitle%5D), 2012, Planta.
     + [Aberrant spikelet and panicle1, encoding a TOPLESS-related transcriptional co-repressor, is involved in the regulation of meristem fate in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Aberrant spikelet and panicle1, encoding a TOPLESS-related transcriptional co-repressor, is involved in the regulation of meristem fate in rice%5BTitle%5D), 2012, Plant J.

@@ -21,6 +21,12 @@ tags: [phosphate, transcription factor, jasmonic, jasmonic acid]
     + LOC_Os04g54474.2: 0 
     + LOC_Os04g54474.3: 0 
 
+* **pLDDT score**
+    + 76.48
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/A0A0P0WFC8/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/A/AF-A0A0P0WFC8-F1.png)
+
 * **Publication**  
     + [Genome-wide analysis of basic leucine zipper transcription factor families in Arabidopsis thaliana, Oryza sativa and Populus trichocarpa](http://www.ncbi.nlm.nih.gov/pubmed?term=Genome-wide analysis of basic leucine zipper transcription factor families in Arabidopsis thaliana, Oryza sativa and Populus trichocarpa%5BTitle%5D), 2009, Journal of Shanghai University (English Edition).
     + [OsTGAP1, a bZIP transcription factor, coordinately regulates the inductive production of diterpenoid phytoalexins in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsTGAP1, a bZIP transcription factor, coordinately regulates the inductive production of diterpenoid phytoalexins in rice%5BTitle%5D), 2009, J Biol Chem.

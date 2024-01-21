@@ -17,6 +17,10 @@ tags:
 * **PLAAC score**  
     + LOC_Os09g32020.1: 0 
 
+* **pLDDT score**
+    + NA
+
+
 * **Publication**  
     + [Conserved metabolic steps for sporopollenin precursor formation in tobacco and rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Conserved metabolic steps for sporopollenin precursor formation in tobacco and rice%5BTitle%5D), 2013, Physiol Plant.
 

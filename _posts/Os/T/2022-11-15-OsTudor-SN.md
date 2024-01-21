@@ -19,6 +19,12 @@ tags: [endosperm]
     + LOC_Os02g32350.1: 0 
     + LOC_Os02g32350.2: 0 
 
+* **pLDDT score**
+    + 83.9
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6H547/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6H547-F1.png)
+
 * **Publication**  
     + [The cytoplasmic-localized, cytoskeletal-associated RNA binding protein OsTudor-SN: evidence for an essential role in storage protein RNA transport and localization](http://www.ncbi.nlm.nih.gov/pubmed?term=The cytoplasmic-localized, cytoskeletal-associated RNA binding protein OsTudor-SN: evidence for an essential role in storage protein RNA transport and localization%5BTitle%5D), 2008, Plant J.
 
