@@ -17,6 +17,12 @@ tags:
 * **PLAAC score**  
     + LOC_Os12g42610.1: 0 
 
+* **pLDDT score**
+    + 62.71
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q2QM17/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q2/AF-Q2QM17-F1.png)
+
 * **Publication**  
     + [Molecular characterization the YABBY gene family in Oryza sativa and expression analysis of OsYABBY1](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular characterization the YABBY gene family in Oryza sativa and expression analysis of OsYABBY1%5BTitle%5D), 2007, Mol Genet Genomics.
 

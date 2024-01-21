@@ -17,6 +17,12 @@ tags: [lemma, spikelet, growth, meristem, flower, palea]
 * **PLAAC score**  
     + LOC_Os04g45330.1: 0 
 
+* **pLDDT score**
+    + 60.79
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0JBF0/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JBF0-F1.png)
+
 * **Publication**  
     + [The YABBY gene TONGARI-BOUSHI1 is involved in lateral organ development and maintenance of meristem organization in the rice spikelet](http://www.ncbi.nlm.nih.gov/pubmed?term=The YABBY gene TONGARI-BOUSHI1 is involved in lateral organ development and maintenance of meristem organization in the rice spikelet%5BTitle%5D), 2012, Plant Cell.
     + [A WUSCHEL-LIKE HOMEOBOX gene represses a YABBY gene expression required for rice leaf development](http://www.ncbi.nlm.nih.gov/pubmed?term=A WUSCHEL-LIKE HOMEOBOX gene represses a YABBY gene expression required for rice leaf development%5BTitle%5D), 2007, Plant Physiol.

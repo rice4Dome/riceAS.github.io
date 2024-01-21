@@ -17,6 +17,10 @@ tags:
 * **PLAAC score**  
     + LOC_Os10g36420.1: 0 
 
+* **pLDDT score**
+    + NA
+
+
 * **Publication**  
     + [Molecular characterization the YABBY gene family in Oryza sativa and expression analysis of OsYABBY1](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular characterization the YABBY gene family in Oryza sativa and expression analysis of OsYABBY1%5BTitle%5D), 2007, Mol Genet Genomics.
 

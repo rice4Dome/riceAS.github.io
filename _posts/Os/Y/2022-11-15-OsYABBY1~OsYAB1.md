@@ -23,6 +23,12 @@ tags: [floral, flower, vascular bundle, lemma, sheath, growth, meristem, vegetat
     + LOC_Os07g06620.2: 0 
     + LOC_Os07g06620.3: 0 
 
+* **pLDDT score**
+    + 66.96
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q7XIM7/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7XIM7-F1.png)
+
 * **Publication**  
     + [Molecular characterization the YABBY gene family in Oryza sativa and expression analysis of OsYABBY1](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular characterization the YABBY gene family in Oryza sativa and expression analysis of OsYABBY1%5BTitle%5D), 2007, Mol Genet Genomics.
     + [Ectopic expression of OsYAB1 causes extra stamens and carpels in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Ectopic expression of OsYAB1 causes extra stamens and carpels in rice%5BTitle%5D), 2004, Plant Mol Biol.

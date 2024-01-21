@@ -19,6 +19,12 @@ tags: [iaa, auxin, root, height]
     + LOC_Os01g45760.2: 0 
     + LOC_Os01g45760.1: 0 
 
+* **pLDDT score**
+    + 93.04
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/A0A0P0V5U9/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/A/AF-A0A0P0V5U9-F1.png)
+
 * **Publication**  
     + [A role for a dioxygenase in auxin metabolism and reproductive development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=A role for a dioxygenase in auxin metabolism and reproductive development in rice%5BTitle%5D), 2013, Dev Cell.
     + [Cloning, characterization and expression of OsFMOt in rice encoding a flavin monooxygenase](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning, characterization and expression of OsFMOt in rice encoding a flavin monooxygenase%5BTitle%5D), 2013, J Genet.
