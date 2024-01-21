@@ -17,6 +17,12 @@ tags:
 * **PLAAC score**  
     + LOC_Os01g50940.1: 0 
 
+* **pLDDT score**
+    + 72.73
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q5N8F6/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q5/AF-Q5N8F6-F1.png)
+
 * **Publication**  
     + [Regulatory Role of OsTDL1A-MSP1 Signaling in Specifying Anther Cell Identity in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Regulatory Role of OsTDL1A-MSP1 Signaling in Specifying Anther Cell Identity in Rice.%5BTitle%5D), 2016, Plant Physiol.
 
