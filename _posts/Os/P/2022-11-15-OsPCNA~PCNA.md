@@ -17,6 +17,12 @@ tags: [meristem, shoot, root apical meristem, root, meiotic, cell cycle, shoot a
 * **PLAAC score**  
     + LOC_Os02g56130.1: 0 
 
+* **pLDDT score**
+    + 94.01
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/P17070/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/P/AF-P17070-F1.png)
+
 * **Publication**  
     + [Characterization of plant proliferating cell nuclear antigen PCNA and flap endonuclease-1 FEN-1, and their distribution in mitotic and meiotic cell cycles](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of plant proliferating cell nuclear antigen PCNA and flap endonuclease-1 FEN-1, and their distribution in mitotic and meiotic cell cycles%5BTitle%5D), 2002, The Plant Journal.
     + [Gene for proliferating-cell nuclear antigen DNA polymerase 6 auxiliary protein is present in both mammalian and higher plant genomes](http://www.ncbi.nlm.nih.gov/pubmed?term=Gene for proliferating-cell nuclear antigen DNA polymerase 6 auxiliary protein is present in both mammalian and higher plant genomes%5BTitle%5D), 1989, Proc Natl Acad Sci U S A.
