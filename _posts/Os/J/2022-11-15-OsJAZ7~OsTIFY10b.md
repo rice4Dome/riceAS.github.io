@@ -21,6 +21,12 @@ tags:
     + LOC_Os07g42370.3: 0 
     + LOC_Os07g42370.1: 0 
 
+* **pLDDT score**
+    + 61.47
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q8H395/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8H395-F1.png)
+
 * **Publication**  
     + [Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice%5BTitle%5D), 2009, Plant Mol Biol.
     + [Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice%5BTitle%5D), 2012, Plant Cell Physiol.

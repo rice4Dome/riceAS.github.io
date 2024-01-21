@@ -21,6 +21,12 @@ tags: [drought, jasmonate, drought tolerance, JA signalling repressor ]
     + LOC_Os04g55920.1: 0 
     + LOC_Os04g55920.5: 0 
 
+* **pLDDT score**
+    + 65.14
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q7XPM8/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7XPM8-F1.png)
+
 * **Publication**  
     + [Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice%5BTitle%5D), 2009, Plant Mol Biol.
     + [OsbHLH148, a basic helix-loop-helix protein, interacts with OsJAZ proteins in a jasmonate signaling pathway leading to drought tolerance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsbHLH148, a basic helix-loop-helix protein, interacts with OsJAZ proteins in a jasmonate signaling pathway leading to drought tolerance in rice%5BTitle%5D), 2011, Plant J.

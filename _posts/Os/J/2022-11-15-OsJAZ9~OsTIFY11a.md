@@ -17,6 +17,12 @@ tags: [salt, transcription factor, jasmonate, salt tolerance, salt stress, toler
 * **PLAAC score**  
     + LOC_Os03g08310.1: 0 
 
+* **pLDDT score**
+    + 64.8
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q8GSI0/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8GSI0-F1.png)
+
 * **Publication**  
     + [Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice%5BTitle%5D), 2009, Plant Mol Biol.
     + [Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice%5BTitle%5D), 2012, Plant Cell Physiol.
