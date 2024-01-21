@@ -17,6 +17,12 @@ tags: [defense response, stem, magnaporthe oryzae, root, flower, leaf, defense, 
 * **PLAAC score**  
     + LOC_Os04g57850.1: 0 
 
+* **pLDDT score**
+    + 91.6
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q7XQ93/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7XQ93-F1.png)
+
 * **Publication**  
     + [Increased leaf photosynthesis caused by elevated stomatal conductance in a rice mutant deficient in SLAC1, a guard cell anion channel protein](http://www.ncbi.nlm.nih.gov/pubmed?term=Increased leaf photosynthesis caused by elevated stomatal conductance in a rice mutant deficient in SLAC1, a guard cell anion channel protein%5BTitle%5D), 2012, J Exp Bot.
     + [Molecular characterization of a defense-related AMP-binding protein gene, OsBIABP1, from rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular characterization of a defense-related AMP-binding protein gene, OsBIABP1, from rice%5BTitle%5D), 2009, J Zhejiang Univ Sci B.

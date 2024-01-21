@@ -17,6 +17,12 @@ tags: [leaf, shoot, cell death, disease resistance, resistant, architecture, def
 * **PLAAC score**  
     + LOC_Os08g07760.1: 0 
 
+* **pLDDT score**
+    + 81.37
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6Z4U4/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6Z4U4-F1.png)
+
 * **Publication**  
     + [Expression of SERK family receptor-like protein kinase genes in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Expression of SERK family receptor-like protein kinase genes in rice%5BTitle%5D), 2005, Biochim Biophys Acta.
     + [Rice SERK1 gene positively regulates somatic embryogenesis of cultured cell and host defense response against fungal infection](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice SERK1 gene positively regulates somatic embryogenesis of cultured cell and host defense response against fungal infection%5BTitle%5D), 2005, Planta.
