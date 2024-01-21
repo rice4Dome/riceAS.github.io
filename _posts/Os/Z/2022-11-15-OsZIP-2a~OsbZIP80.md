@@ -17,6 +17,12 @@ tags:
 * **PLAAC score**  
     + LOC_Os11g05640.1: 0 
 
+* **pLDDT score**
+    + 61.28
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/A0A0N7KSG4/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/A/AF-A0A0N7KSG4-F1.png)
+
 * **Publication**  
     + [Genome-wide analysis of basic leucine zipper transcription factor families in Arabidopsis thaliana, Oryza sativa and Populus trichocarpa](http://www.ncbi.nlm.nih.gov/pubmed?term=Genome-wide analysis of basic leucine zipper transcription factor families in Arabidopsis thaliana, Oryza sativa and Populus trichocarpa%5BTitle%5D), 2009, Journal of Shanghai University (English Edition).
     + [Characterization of three rice basic/leucine zipper factors, including two inhibitors of EmBP-1 DNA binding activity](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of three rice basic/leucine zipper factors, including two inhibitors of EmBP-1 DNA binding activity%5BTitle%5D), 1996, J Biol Chem.
