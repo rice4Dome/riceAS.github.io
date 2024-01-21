@@ -17,6 +17,12 @@ tags:
 * **PLAAC score**  
     + LOC_Os05g49050.1: 0 
 
+* **pLDDT score**
+    + 87.4
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6AUF3/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6AUF3-F1.png)
+
 * **Publication**  
     + [Identification and characterization of proteins involved in rice urea and arginine catabolism](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and characterization of proteins involved in rice urea and arginine catabolism%5BTitle%5D), 2010, Plant Physiol.
 
