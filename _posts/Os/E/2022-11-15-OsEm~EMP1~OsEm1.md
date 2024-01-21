@@ -17,6 +17,12 @@ tags: [ ABA , drought, tolerance, abiotic stress, vegetative, drought tolerance,
 * **PLAAC score**  
     + LOC_Os05g28210.1: 0 
 
+* **pLDDT score**
+    + 92.17
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/P46520/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/P/AF-P46520-F1.png)
+
 * **Publication**  
     + [Nucleotide sequence of the rice Oryza sativa Em protein gene Emp1](http://www.ncbi.nlm.nih.gov/pubmed?term=Nucleotide sequence of the rice Oryza sativa Em protein gene Emp1%5BTitle%5D), 1992, Plant Mol Biol.
     + [Gibberellin is not a regulator of miR156 in rice juvenile-adult phase change](http://www.ncbi.nlm.nih.gov/pubmed?term=Gibberellin is not a regulator of miR156 in rice juvenile-adult phase change%5BTitle%5D), 2012, Rice (N Y).

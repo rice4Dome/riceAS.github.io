@@ -27,6 +27,12 @@ tags:
     + LOC_Os05g48870.8: 0 
     + LOC_Os05g48870.7: 0 
 
+* **pLDDT score**
+    + 58.79
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q8S985/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8S985-F1.png)
+
 * **Publication**  
     + [Rice LHS1/OsMADS1 controls floret meristem specification by coordinated regulation of transcription factors and hormone signaling pathways](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice LHS1/OsMADS1 controls floret meristem specification by coordinated regulation of transcription factors and hormone signaling pathways%5BTitle%5D), 2013, Plant Physiol.
     + [Genome-wide analysis of the auxin response factors ARF gene family in rice Oryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=Genome-wide analysis of the auxin response factors ARF gene family in rice Oryza sativa%5BTitle%5D), 2007, Gene.

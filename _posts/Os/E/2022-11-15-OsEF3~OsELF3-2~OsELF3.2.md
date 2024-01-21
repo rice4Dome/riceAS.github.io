@@ -22,6 +22,12 @@ tags: [grain weight, root, heading date, grain, root development, cell division,
 ![image](https://github.com/ricePSP/ricePSP.github.io/assets/24507924/ed9fadbb-a94f-4420-9074-f03239a7dc6b)
 (Ning et al., Mol Plant, 2015, 8:1679-82)
 
+* **pLDDT score**
+    + 49.05
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q657D6/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q657D6-F1.png)
+
 * **Publication**  
     + [OsEF3, a homologous gene of Arabidopsis ELF3, has pleiotropic effects in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsEF3, a homologous gene of Arabidopsis ELF3, has pleiotropic effects in rice%5BTitle%5D), 2009, Plant Biol (Stuttg).
     + [OsELF3-1, an ortholog of Arabidopsis early flowering 3, regulates rice circadian rhythm and photoperiodic flowering](http://www.ncbi.nlm.nih.gov/pubmed?term=OsELF3-1, an ortholog of Arabidopsis early flowering 3, regulates rice circadian rhythm and photoperiodic flowering%5BTitle%5D), 2012, PLoS One.

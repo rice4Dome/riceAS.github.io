@@ -21,6 +21,12 @@ tags: [ awn , leaf, vascular bundle, meristem, transcription factor]
     + LOC_Os01g48060.3: 0 
     + LOC_Os01g48060.1: 0 
 
+* **pLDDT score**
+    + 57.27
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0JKI9/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0JKI9-F1.png)
+
 * **Publication**  
     + [Rice LHS1/OsMADS1 controls floret meristem specification by coordinated regulation of transcription factors and hormone signaling pathways](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice LHS1/OsMADS1 controls floret meristem specification by coordinated regulation of transcription factors and hormone signaling pathways%5BTitle%5D), 2013, Plant Physiol.
     + [The DROOPING LEAF and OsETTIN2 genes promote awn development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The DROOPING LEAF and OsETTIN2 genes promote awn development in rice%5BTitle%5D), 2014, Plant J.

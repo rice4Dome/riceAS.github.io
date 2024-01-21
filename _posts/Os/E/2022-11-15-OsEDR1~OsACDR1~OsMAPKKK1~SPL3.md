@@ -17,6 +17,12 @@ tags: [defense, disease, salicylic acid,  ja ,  sa , jasmonic acid, cell death, 
 * **PLAAC score**  
     + LOC_Os03g06410.1: 0 
 
+* **pLDDT score**
+    + 58.13
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q10RG4/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10RG4-F1.png)
+
 * **Publication**  
     + [Molecular cloning and mRNA expression analysis of a novel rice  L. MAPK kinase kinase, , an ortholog of , reveal its role in defense/stress signalling pathways and development](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular cloning and mRNA expression analysis of a novel rice  L. MAPK kinase kinase, , an ortholog of , reveal its role in defense/stress signalling pathways and development%5BTitle%5D), 2003, Biochem Biophys Res Commun.
     + [OsEDR1 negatively regulates rice bacterial resistance via activation of ethylene biosynthesis](http://www.ncbi.nlm.nih.gov/pubmed?term=OsEDR1 negatively regulates rice bacterial resistance via activation of ethylene biosynthesis%5BTitle%5D), 2011, Plant Cell Environ.
