@@ -17,6 +17,12 @@ tags:
 * **PLAAC score**  
     + LOC_Os08g35210.1: 0 
 
+* **pLDDT score**
+    + 62.18
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0J595/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0J595-F1.png)
+
 * **Publication**  
     + [Phosphatidylinositol 3-kinase plays a vital role in regulation of rice seed vigor via altering NADPH oxidase activity](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphatidylinositol 3-kinase plays a vital role in regulation of rice seed vigor via altering NADPH oxidase activity%5BTitle%5D), 2012, PLoS One.
 

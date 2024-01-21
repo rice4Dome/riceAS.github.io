@@ -21,6 +21,12 @@ tags:
     + LOC_Os12g35610.1: 0 
     + LOC_Os12g35610.2: 0 
 
+* **pLDDT score**
+    + 74.9
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q2QP56/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q2/AF-Q2QP56-F1.png)
+
 * **Publication**  
     + [Phosphatidylinositol 3-kinase plays a vital role in regulation of rice seed vigor via altering NADPH oxidase activity](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphatidylinositol 3-kinase plays a vital role in regulation of rice seed vigor via altering NADPH oxidase activity%5BTitle%5D), 2012, PLoS One.
     + [An NADPH Oxidase RBOH Functions in Rice Roots during Lysigenous Aerenchyma Formation under Oxygen-Deficient Conditions.](http://www.ncbi.nlm.nih.gov/pubmed?term=An NADPH Oxidase RBOH Functions in Rice Roots during Lysigenous Aerenchyma Formation under Oxygen-Deficient Conditions.%5BTitle%5D), 2017, Plant Cell.

@@ -19,6 +19,12 @@ tags: [endosperm, seed]
     + LOC_Os12g43550.2: 0 
     + LOC_Os12g43550.1: 0 
 
+* **pLDDT score**
+    + 87.79
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q0ILQ6/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q0/AF-Q0ILQ6-F1.png)
+
 * **Publication**  
     + [OsRab5a regulates endomembrane organization and storage protein trafficking in rice endosperm cells](http://www.ncbi.nlm.nih.gov/pubmed?term=OsRab5a regulates endomembrane organization and storage protein trafficking in rice endosperm cells%5BTitle%5D), 2010, Plant J.
     + [Gene-gene interactions between mutants that accumulate abnormally high amounts of proglutelin in rice seed](http://www.ncbi.nlm.nih.gov/pubmed?term=Gene-gene interactions between mutants that accumulate abnormally high amounts of proglutelin in rice seed%5BTitle%5D), 2010, Breeding Science.

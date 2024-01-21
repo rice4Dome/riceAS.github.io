@@ -17,6 +17,10 @@ tags: [growth, pollen, seed, development, tolerance, fertility, stress, plasma m
 * **PLAAC score**  
     + LOC_Os01g53294.1: 0 
 
+* **pLDDT score**
+    + NA
+
+
 * **Publication**  
     + [rbohA, a rice homologue of the mammalian gp91phox respiratory burst oxidase gene](http://www.ncbi.nlm.nih.gov/pubmed?term=rbohA, a rice homologue of the mammalian gp91phox respiratory burst oxidase gene%5BTitle%5D), 1996, The Plant Journal.
     + [Phosphatidylinositol 3-kinase plays a vital role in regulation of rice seed vigor via altering NADPH oxidase activity](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphatidylinositol 3-kinase plays a vital role in regulation of rice seed vigor via altering NADPH oxidase activity%5BTitle%5D), 2012, PLoS One.

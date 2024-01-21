@@ -19,6 +19,10 @@ tags:
     + LOC_Os02g29150.2: 0 
     + LOC_Os02g29150.1: 0 
 
+* **pLDDT score**
+    + NA
+
+
 * **Publication**  
     + [NOA1 functions in a temperature-dependent manner to regulate chlorophyll biosynthesis and Rubisco formation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=NOA1 functions in a temperature-dependent manner to regulate chlorophyll biosynthesis and Rubisco formation in rice%5BTitle%5D), 2011, PLoS One.
 

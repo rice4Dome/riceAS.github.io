@@ -17,6 +17,12 @@ tags:
 * **PLAAC score**  
     + LOC_Os12g19381.1: 0 
 
+* **pLDDT score**
+    + 84.81
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/P18566/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/P/AF-P18566-F1.png)
+
 * **Publication**  
     + [Availability of Rubisco small subunit up-regulates the transcript levels of large subunit for stoichiometric assembly of its holoenzyme in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Availability of Rubisco small subunit up-regulates the transcript levels of large subunit for stoichiometric assembly of its holoenzyme in rice%5BTitle%5D), 2012, Plant Physiol.
     + [Effect of individual suppression of RBCS multigene family on Rubisco contents in rice leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=Effect of individual suppression of RBCS multigene family on Rubisco contents in rice leaves%5BTitle%5D), 2012, Plant Cell Environ.

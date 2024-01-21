@@ -17,6 +17,12 @@ tags: [ ga ]
 * **PLAAC score**  
     + LOC_Os11g47970.1: 0 
 
+* **pLDDT score**
+    + 71.91
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/P93431/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/P/AF-P93431-F1.png)
+
 * **Publication**  
     + [Involvement of a Ca2+-dependent protein kinase component downstream to the gibberellin-binding phosphoprotein, RuBisCO activase, in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Involvement of a Ca2+-dependent protein kinase component downstream to the gibberellin-binding phosphoprotein, RuBisCO activase, in rice%5BTitle%5D), 2002, Biochem Biophys Res Commun.
 
