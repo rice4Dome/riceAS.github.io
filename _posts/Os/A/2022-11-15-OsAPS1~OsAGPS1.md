@@ -19,6 +19,12 @@ tags: [seed development, leaf, seed]
     + LOC_Os09g12660.1: 0 
     + LOC_Os09g12660.2: 0 
 
+* **pLDDT score**
+    + 87.01
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q69T99/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69T99-F1.png)
+
 * **Publication**  
     + [Identification of the ADP-glucose pyrophosphorylase isoforms essential for starch synthesis in the leaf and seed endosperm of rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification of the ADP-glucose pyrophosphorylase isoforms essential for starch synthesis in the leaf and seed endosperm of rice Oryza sativa L.%5BTitle%5D), 2007, Plant Mol Biol.
     + [Gene expression of ADP-glucose pyrophosphorylase and starch contents in rice cultured cells are cooperatively regulated by sucrose and ABA](http://www.ncbi.nlm.nih.gov/pubmed?term=Gene expression of ADP-glucose pyrophosphorylase and starch contents in rice cultured cells are cooperatively regulated by sucrose and ABA%5BTitle%5D), 2005, Plant Cell Physiol.

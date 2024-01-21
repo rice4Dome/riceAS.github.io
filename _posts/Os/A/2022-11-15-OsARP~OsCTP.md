@@ -31,6 +31,12 @@ tags: [flower, photosynthesis, yield, salt tolerance, salt]
     + LOC_Os02g26700.9: 0 
     + LOC_Os02g26700.8: 0 
 
+* **pLDDT score**
+    + 88.04
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6K7C2/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6K7C2-F1.png)
+
 * **Publication**  
     + [Overexpression of a new rice vacuolar antiporter regulating protein OsARP improves salt tolerance in tobacco](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of a new rice vacuolar antiporter regulating protein OsARP improves salt tolerance in tobacco%5BTitle%5D), 2008, Plant Cell Physiol.
 

@@ -29,6 +29,12 @@ tags: [endosperm, temperature, seed development, starch, grain, seed, domesticat
     + LOC_Os01g44220.4: 0 
     + LOC_Os01g44220.5: 0 
 
+* **pLDDT score**
+    + 83.54
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q7G065/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q7/AF-Q7G065-F1.png)
+
 * **Publication**  
     + [Identification of the ADP-glucose pyrophosphorylase isoforms essential for starch synthesis in the leaf and seed endosperm of rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification of the ADP-glucose pyrophosphorylase isoforms essential for starch synthesis in the leaf and seed endosperm of rice Oryza sativa L.%5BTitle%5D), 2007, Plant Mol Biol.
     + [Phenotypic and Candidate Gene Analysis of a New Floury Endosperm Mutant osagpl2-3 in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Phenotypic and Candidate Gene Analysis of a New Floury Endosperm Mutant osagpl2-3 in Rice%5BTitle%5D), 2012, Plant Molecular Biology Reporter.

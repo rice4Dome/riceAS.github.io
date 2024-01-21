@@ -21,6 +21,12 @@ tags: [drought tolerance, salinity, auxin,  ABA , abiotic stress, flower, drough
     + LOC_Os06g10880.3: 0 
     + LOC_Os06g10880.1: 0 
 
+* **pLDDT score**
+    + 63.67
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q69TW5/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69TW5-F1.png)
+
 * **Publication**  
     + [OsAREB1, an ABRE-binding protein responding to ABA and glucose, has multiple functions in Arabidopsis](http://www.ncbi.nlm.nih.gov/pubmed?term=OsAREB1, an ABRE-binding protein responding to ABA and glucose, has multiple functions in Arabidopsis%5BTitle%5D), 2010, BMB reports.
     + [The ABRE-binding bZIP transcription factor OsABF2 is a positive regulator of abiotic stress and ABA signaling in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The ABRE-binding bZIP transcription factor OsABF2 is a positive regulator of abiotic stress and ABA signaling in rice%5BTitle%5D), 2010, J Plant Physiol.

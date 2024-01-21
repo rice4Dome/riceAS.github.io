@@ -17,6 +17,12 @@ tags: [leaf, chloroplast, salicylic acid, jasmonic, jasmonic acid, senescence, l
 * **PLAAC score**  
     + LOC_Os08g38710.1: 0 
 
+* **pLDDT score**
+    + 94.65
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q8W2G5/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q8/AF-Q8W2G5-F1.png)
+
 * **Publication**  
     + [Alkaline alpha-galactosidase degrades thylakoid membranes in the chloroplast during leaf senescence in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Alkaline alpha-galactosidase degrades thylakoid membranes in the chloroplast during leaf senescence in rice%5BTitle%5D), 2009, New Phytol.
     + [A novel alkaline alpha-galactosidase gene is involved in rice leaf senescence.](http://www.ncbi.nlm.nih.gov/pubmed?term=A novel alkaline alpha-galactosidase gene is involved in rice leaf senescence.%5BTitle%5D), 2004, Plant Mol Biol.

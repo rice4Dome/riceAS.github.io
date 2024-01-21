@@ -17,6 +17,12 @@ tags: [submergence, phytohormone, ethylene, abiotic stress, transcription factor
 * **PLAAC score**  
     + LOC_Os03g06620.1: 0 
 
+* **pLDDT score**
+    + 92.94
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q10RE5/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10RE5-F1.png)
+
 * **Publication**  
     + [Identification and characterization of a novel water-deficit-suppressed gene OsARD encoding an aci-reductone-dioxygenase-like protein in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and characterization of a novel water-deficit-suppressed gene OsARD encoding an aci-reductone-dioxygenase-like protein in rice%5BTitle%5D), 2005, Gene.
     + [The immediate-early ethylene response gene OsARD1 encodes an acireductone dioxygenase involved in recycling of the ethylene precursor S-adenosylmethionine](http://www.ncbi.nlm.nih.gov/pubmed?term=The immediate-early ethylene response gene OsARD1 encodes an acireductone dioxygenase involved in recycling of the ethylene precursor S-adenosylmethionine%5BTitle%5D), 2005, Plant J.

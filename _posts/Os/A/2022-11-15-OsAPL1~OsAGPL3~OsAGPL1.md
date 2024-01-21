@@ -17,6 +17,12 @@ tags: [leaf, seed, seed development]
 * **PLAAC score**  
     + LOC_Os03g52460.1: 0 
 
+* **pLDDT score**
+    + 83.34
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6AVT2/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6AVT2-F1.png)
+
 * **Publication**  
     + [Identification of the ADP-glucose pyrophosphorylase isoforms essential for starch synthesis in the leaf and seed endosperm of rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification of the ADP-glucose pyrophosphorylase isoforms essential for starch synthesis in the leaf and seed endosperm of rice Oryza sativa L.%5BTitle%5D), 2007, Plant Mol Biol.
     + [A mutant of rice lacking the leaf large subunit of ADP-glucose pyrophosphorylase has drastically reduced leaf starch content but grows normally](http://www.ncbi.nlm.nih.gov/pubmed?term=A mutant of rice lacking the leaf large subunit of ADP-glucose pyrophosphorylase has drastically reduced leaf starch content but grows normally%5BTitle%5D), 2007, Functional Plant Biology.

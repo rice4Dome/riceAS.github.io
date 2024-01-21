@@ -21,6 +21,12 @@ tags: [seed development, endosperm, blast, seed, abiotic stress, oxidative]
     + LOC_Os09g26880.4: 0 
     + LOC_Os09g26880.1: 0 
 
+* **pLDDT score**
+    + 97.34
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q69P84/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69P84-F1.png)
+
 * **Publication**  
     + [Mutation of OsALDH7 causes a yellow-colored endosperm associated with accumulation of oryzamutaic acid A in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Mutation of OsALDH7 causes a yellow-colored endosperm associated with accumulation of oryzamutaic acid A in rice%5BTitle%5D), 2012, Planta.
     + [Modeling-dependent protein characterization of the rice aldehyde dehydrogenase ALDH superfamily reveals distinct functional and structural features](http://www.ncbi.nlm.nih.gov/pubmed?term=Modeling-dependent protein characterization of the rice aldehyde dehydrogenase ALDH superfamily reveals distinct functional and structural features%5BTitle%5D), 2010, PLoS One.
@@ -41,7 +47,7 @@ tags: [seed development, endosperm, blast, seed, abiotic stress, oxidative]
 * **Key message**  
     + These pigments started to accumulate in the late seed developmental stage, the time when OsALDH7 expression began to increase significantly
     + Interestingly, endosperms from the osaldh7 null mutants accumulated brown pigments during desiccation and storage
-    + Using diﬀerential display RT-PCR and cDNA library screening, a full-length aldehyde dehydrogenase cDNA (ALDH7B7) was isolated from rice leaves infected by incompatible race of blast fungus Magnaporthe grisea
+    + Using diÃÂÃÂ¯ÃÂÃÂ¬ÃÂÃÂerential display RT-PCR and cDNA library screening, a full-length aldehyde dehydrogenase cDNA (ALDH7B7) was isolated from rice leaves infected by incompatible race of blast fungus Magnaporthe grisea
     + ALDH7B7 expression was induced by blast fungus infection, ultraviolet, mechanical wound in rice leaves and was not detected in untreated rice organs
     + The function of ALDH7B7 in the interaction process between blast fungus and rice is discussed
     + These results suggest that OsALDH7 is involved in removing various aldehydes formed by oxidative stress during seed desiccation
