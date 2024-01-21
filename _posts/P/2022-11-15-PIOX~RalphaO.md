@@ -27,6 +27,12 @@ tags:
     + LOC_Os12g26290.1: 0 
     + LOC_Os12g26290.4: 0 
 
+* **pLDDT score**
+    + 97.6
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q2QRV3/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q2/AF-Q2QRV3-F1.png)
+
 * **Publication**  
     + [Catalytic properties of rice alpha-oxygenase. A comparison with mammalian prostaglandin H synthases](http://www.ncbi.nlm.nih.gov/pubmed?term=Catalytic properties of rice alpha-oxygenase. A comparison with mammalian prostaglandin H synthases%5BTitle%5D), 2002, J Biol Chem.
 

@@ -19,6 +19,10 @@ tags: [flower, flowering time, map-based cloning, Chl biosynthesis]
     + LOC_Os01g17170.1: 0 
     + LOC_Os01g17170.2: 0 
 
+* **pLDDT score**
+    + NA
+
+
 * **Publication**  
     + [Dissection of a QTL reveals an adaptive, interacting gene complex associated with transgressive variation for flowering time in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Dissection of a QTL reveals an adaptive, interacting gene complex associated with transgressive variation for flowering time in rice%5BTitle%5D), 2010, Theor Appl Genet.
     + [Substitution mapping of dth1.1, a flowering-time quantitative trait locus QTL associated with transgressive variation in rice, reveals multiple sub-QTL](http://www.ncbi.nlm.nih.gov/pubmed?term=Substitution mapping of dth1.1, a flowering-time quantitative trait locus QTL associated with transgressive variation in rice, reveals multiple sub-QTL%5BTitle%5D), 2006, Genetics.
