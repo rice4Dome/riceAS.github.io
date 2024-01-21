@@ -19,6 +19,12 @@ tags: [defense response,  sa , defense, transcription factor, cell death]
     + LOC_Os06g49430.1: 0 
     + LOC_Os06g49430.2: 0 
 
+* **pLDDT score**
+    + 68.82
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q5Z9J0/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q5/AF-Q5Z9J0-F1.png)
+
 * **Publication**  
     + [Novel rice MAP kinases OsMSRMK3 and OsWJUMK1 involved in encountering diverse environmental stresses and developmental regulation](http://www.ncbi.nlm.nih.gov/pubmed?term=Novel rice MAP kinases OsMSRMK3 and OsWJUMK1 involved in encountering diverse environmental stresses and developmental regulation%5BTitle%5D), 2003, Biochem Biophys Res Commun.
     + [Alternative splicing of the OsBWMK1 gene generates three transcript variants showing differential subcellular localizations](http://www.ncbi.nlm.nih.gov/pubmed?term=Alternative splicing of the OsBWMK1 gene generates three transcript variants showing differential subcellular localizations%5BTitle%5D), 2007, Biochem Biophys Res Commun.

@@ -21,6 +21,12 @@ tags:
     + LOC_Os03g20550.3: 0 
     + LOC_Os03g20550.2: 0 
 
+* **pLDDT score**
+    + 68.42
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q10M65/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q1/AF-Q10M65-F1.png)
+
 * **Publication**  
     + [Constitutive expression of pathogen-inducible OsWRKY31 enhances disease resistance and affects root growth and auxin response in transgenic rice plants](http://www.ncbi.nlm.nih.gov/pubmed?term=Constitutive expression of pathogen-inducible OsWRKY31 enhances disease resistance and affects root growth and auxin response in transgenic rice plants%5BTitle%5D), 2008, Cell Res.
     + [The WRKY Gene Family in Rice Oryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=The WRKY Gene Family in Rice Oryza sativa%5BTitle%5D), 2007, J Integr Plant Biol.
