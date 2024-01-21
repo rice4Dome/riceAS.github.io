@@ -17,6 +17,12 @@ tags: [root, transporter, vegetative, xylem, cadmium, growth, reproductive, zinc
 * **PLAAC score**  
     + LOC_Os06g48720.1: 0 
 
+* **pLDDT score**
+    + 66.32
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/A3BF39/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/A/AF-A3BF39-F1.png)
+
 * **Publication**  
     + [Cadmium retention in rice roots is influenced by cadmium availability, chelation and translocation](http://www.ncbi.nlm.nih.gov/pubmed?term=Cadmium retention in rice roots is influenced by cadmium availability, chelation and translocation%5BTitle%5D), 2011, Plant Cell Environ.
     + [The OsHMA2 transporter is involved in root-to-shoot translocation of Zn and Cd in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The OsHMA2 transporter is involved in root-to-shoot translocation of Zn and Cd in rice%5BTitle%5D), 2012, Plant Cell Environ.

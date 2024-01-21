@@ -17,6 +17,10 @@ tags: [salinity stress, salinity, salt tolerance, homeostasis, xylem, leaf, shoo
 * **PLAAC score**  
     + LOC_Os01g20160.1: 0 
 
+* **pLDDT score**
+    + NA
+
+
 * **Publication**  
     + [QTLs for Na+ and K+ uptake of the shoots and roots controlling rice salt tolerance](http://www.ncbi.nlm.nih.gov/pubmed?term=QTLs for Na+ and K+ uptake of the shoots and roots controlling rice salt tolerance%5BTitle%5D), 2004, Theor Appl Genet.
     + [Effects of salt stress on ion balance and nitrogen metabolism of old and young leaves in rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Effects of salt stress on ion balance and nitrogen metabolism of old and young leaves in rice Oryza sativa L.%5BTitle%5D), 2012, BMC Plant Biol.
