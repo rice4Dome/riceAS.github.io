@@ -17,6 +17,12 @@ tags: [seedling, leaf, chloroplast]
 * **PLAAC score**  
     + LOC_Os12g17910.1: 0 
 
+* **pLDDT score**
+    + 87.2
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q2QU06/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q2/AF-Q2QU06-F1.png)
+
 * **Publication**  
     + [OsCpn60alpha1, encoding the plastid chaperonin 60alpha subunit, is essential for folding of rbcL](http://www.ncbi.nlm.nih.gov/pubmed?term=OsCpn60alpha1, encoding the plastid chaperonin 60alpha subunit, is essential for folding of rbcL%5BTitle%5D), 2013, Mol Cells.
 

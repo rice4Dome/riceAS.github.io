@@ -17,6 +17,12 @@ tags: [lateral root, seedling, salt, salt tolerance, salinity, auxin, abiotic st
 * **PLAAC score**  
     + LOC_Os02g02890.1: 0 
 
+* **pLDDT score**
+    + 97.78
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q6ZH98/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q6ZH98-F1.png)
+
 * **Publication**  
     + [LATERAL ROOTLESS2, a cyclophilin protein, regulates lateral root initiation and auxin signaling pathway in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=LATERAL ROOTLESS2, a cyclophilin protein, regulates lateral root initiation and auxin signaling pathway in rice%5BTitle%5D), 2013, Mol Plant.
     + [OsCYP2, a chaperone involved in degradation of auxin-responsive proteins, plays crucial roles in rice lateral root initiation](http://www.ncbi.nlm.nih.gov/pubmed?term=OsCYP2, a chaperone involved in degradation of auxin-responsive proteins, plays crucial roles in rice lateral root initiation%5BTitle%5D), 2013, Plant J.

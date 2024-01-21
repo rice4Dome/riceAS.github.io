@@ -19,6 +19,12 @@ tags: [growth, root development, root]
     + LOC_Os02g34560.1: 0 
     + LOC_Os02g34560.2: 0 
 
+* **pLDDT score**
+    + 84.59
+
+* **[Protein Structure from AlphaFold and UniProt](https://www.uniprot.org/uniprotkb/Q69T31/entry#structure)**
+    + ![image](https://ricepsp.github.io/images/Q6/AF-Q69T31-F1.png)
+
 * **Publication**  
     + [Analysis of the rice SHORT-ROOT5 gene revealed functional diversification of plant neutral/alkaline invertase family](http://www.ncbi.nlm.nih.gov/pubmed?term=Analysis of the rice SHORT-ROOT5 gene revealed functional diversification of plant neutral/alkaline invertase family%5BTitle%5D), 2009, Plant Science.
     + [OsCYT-INV1 for alkaline/neutral invertase is involved in root cell development and reproductivity in rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsCYT-INV1 for alkaline/neutral invertase is involved in root cell development and reproductivity in rice Oryza sativa L.%5BTitle%5D), 2008, Planta.

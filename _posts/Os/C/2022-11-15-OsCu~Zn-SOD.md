@@ -19,6 +19,10 @@ tags:
     + LOC_Os08g44770.2: 0 
     + LOC_Os08g44770.1: 0 
 
+* **pLDDT score**
+    + NA
+
+
 * **Publication**  
     + [Tolerance analysis of chloroplast OsCu/Zn-SOD overexpressing rice under NaCl and NaHCO3 stress.](http://www.ncbi.nlm.nih.gov/pubmed?term=Tolerance analysis of chloroplast OsCu/Zn-SOD overexpressing rice under NaCl and NaHCO3 stress.%5BTitle%5D), 2017, PLoS One.
 
