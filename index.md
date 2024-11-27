@@ -33,4 +33,4 @@ __A comprehensive database of rice phase separation-associated proteins__
   
 <br>
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5caqzzljnb7&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
+<a href="https://info.flagcounter.com/PPPO"><img src="https://s11.flagcounter.com/map/PPPO/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
